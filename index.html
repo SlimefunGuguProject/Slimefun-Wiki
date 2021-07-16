@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Slimefun Wiki</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+</head>
+<body>
+  <div id="app">Loading</div>
+  <script>
+    window.$docsify = {
+      name: 'Slimefun4 Wiki',
+      repo: 'ybw0014/Slimefun-Wiki', 
+      basePath: '/pages/',
+      homepage: 'Home.md',
+      auto2top: true,
+      loadSidebar: true,
+      search: {
+        placeholder: '搜索',
+        noData: '没有结果',
+        hideOtherSidebarContent: true,
+      },
+      plugins: [
+        EditOnGithubPlugin.create(
+          'https://github.com/ybw0014/Slimefun-Wiki', 
+          'https://github.com/ybw0014/Slimefun-Wiki', 
+          '在 GitHub 上编辑'
+        )
+      ],
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4.12.1/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4.12.1/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github@1.0.3/index.min.js"></script>
+</body>
+</html>
