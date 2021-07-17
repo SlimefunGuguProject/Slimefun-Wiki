@@ -4,7 +4,7 @@
     - [入门](/Getting-Started)
     - [常见问题](/Common-Issues)
     - [如何反馈 Bug](/How-to-report-bugs)
-    - [帮我们扩展 Wiki!](/Expanding-the-Wiki)
+    - [帮我们扩充 Wiki!](/Expanding-the-Wiki)
     - [帮我们翻译 Slimefun!](/Translating-Slimefun)
     - [常见问题 (FAQ)](/FAQ)
 - 其他插件

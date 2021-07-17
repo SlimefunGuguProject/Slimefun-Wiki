@@ -4,7 +4,7 @@
 
 如果你使用的是官方版 Slimefun，请在此[问题追踪器](https://github.com/Slimefun/Slimefun4/issues)中反馈。
 
-如果你使用的是内核汉化版 Slimefun，请在此[问题追踪器](https://github.com/StarWishsama/Slimefun4/issues)中反馈
+如果你使用的是内核汉化版 Slimefun，请在此[问题追踪器](https://github.com/StarWishsama/Slimefun4/issues)中反馈。
 
 但在汇报 Bug 之前，你应该通读下方的故障排除指南。<br>
 你遇到的许多问题可以自行解决并为我们节省大量时间与精力。
@@ -14,7 +14,7 @@
 本指南旨在帮助你确定问题，并告诉你**你**可以做什么来避免遇到这些问题。<br>
 如果所有尝试都失败了，我们会帮你生成详细且有效的问题报告，并给予你最大的帮助。
 
-_另请查看: [常见问题](/Common-Issues)_
+_另请参阅: [常见问题](/Common-Issues)_
 
 **但首先:**<br>
 永远记住，Slimefun4 是开源的并由社区参与开发。<br>

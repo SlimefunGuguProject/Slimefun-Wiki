@@ -10,14 +10,14 @@
 - [如何安装 Slimefun](/Installing-Slimefun)
 - [Slimefun4 的附属插件](/Addons)
 - [入门](/Getting-Started)
-- [权限](/Permissions) & [命令](/Commands)
-- [帮我们扩展 Wiki!](/Expanding-the-Wiki)
+- [权限](/Permissions) & [指令](/Commands)
+- [帮我们扩充 Wiki!](/Expanding-the-Wiki)
 - [帮我们翻译 Slimefun!](/Translating-Slimefun)
 - [常见问题 (FAQ)](/FAQ)
 - [常见问题](/Common-Issues)
 - [编写自己的附属插件](/Developer-Guide)
 
-## 内容 / 物品分类 :id=content--item-categories
+## 内容 / 物品分类 :id=content-item-categories
 
 - [武器](/Weapons)
 - [物品](/Items)
