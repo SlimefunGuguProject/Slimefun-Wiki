@@ -1,0 +1,112 @@
+# 如何汇报 Bug :id=how-to-report-bugs
+
+汇报 Bug 对于这个开源项目来说非常重要。
+
+如果你使用的是官方版 Slimefun，请在此[问题追踪器](https://github.com/Slimefun/Slimefun4/issues)中反馈。
+
+如果你使用的是内核汉化版 Slimefun，请在此[问题追踪器](https://github.com/StarWishsama/Slimefun4/issues)中反馈
+
+但在汇报 Bug 之前，你应该通读下方的故障排除指南。<br>
+你遇到的许多问题可以自行解决并为我们节省大量时间与精力。
+
+## 故障排除指南 :id=troubleshooting-guide
+
+本指南旨在帮助你确定问题，并告诉你**你**可以做什么来避免遇到这些问题。<br>
+如果所有尝试都失败了，我们会帮你生成详细且有效的问题报告，并给予你最大的帮助。
+
+_另请查看: [常见问题](/Common-Issues)_
+
+**但首先:**<br>
+永远记住，Slimefun4 是开源的并由社区参与开发。<br>
+但最重要的是: 它是免费的...<br>
+所以**不要**希望我们能为你神奇地修复所有东西，并一直在线。<br>
+如果你真的喜欢这个插件，那请你遵守这个指南。这会让我们的生活更加轻松，让我们能关注重要的问题。<br>
+这是你们为了减轻我们的负担起码能做的事。
+
+### 1. 检查你的版本 :id=1-checking-your-versions
+
+检查你的版本是非常**重要的**。90% 的问题可以在这一步就解决。
+
+你需要收集以下信息:
+
+* **你的服务器软件** *(你在用 Bukkit, Spigot, Paper 还是其他的?)*
+* **你的 Minecraft 版本** *(是 1.8? 1.14? 还是1.14.514? 你应该知道它。)*
+* **你的 Slimefun 版本** *(你安装了什么版本? 是开发版还是稳定版?)*
+
+你可以通过指令`/sf versions`收集到这些信息。<br>
+如果你的服主没有给你这条指令权限, 按下 Shift 并右键打开 Slimefun 指南, 那里应该会有书与笔，它至少告诉你 Minecraft 与 Slimefun 的版本。那已经非常有用了。
+
+如果你向我们汇报 Bug，我们会要求提供此信息，否则我们无法弄清楚发生了什么。<br>
+It's like finding a nail in a pile of hay, but the pile is on fire and on an entirely different planet than the nail.<br>
+**所以，请一定要告诉我们你在使用哪个版本。"最新版"对我们来说毫无帮助**。
+
+### 2. 检查更新 :id=2-checking-for-updates
+
+下一步就是将你从第一步获取的版本信息与最近的版本信息比对。
+
+* **你的服务器软件是最新版本吗?** *(检查 Spigot, Paper, Bukkit, 或其他你在使用的软件是否有更新)*
+* **Slimefun 是最新版本吗?** *(你可以在[官方版下载页面](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/)或[内核汉化版下载页面]()检查是否有版本更新)*
+* **你在使用开发版吗?** *(稳定版本是"稳定"的，但有可能新的开发版本修复了其中的问题)*
+
+加上最后一点: 我们不接受来自稳定版的 Bug 汇报。切换到较新的开发版，看看你的问题是否依然存在。
+
+如果你没有访问服务器文件的权限，你需要联系服务器的管理员，向他们解释问题，并让他们查看此指南。
+
+### 3. 尝试重启你的服务器 :id=3-try-restarting-your-server
+
+这不是开玩笑。"重启能解决99%的问题"。
+
+### 4. 查看是否为已知问题 :id=4-see-if-it-is-a-known-issue
+
+查看我们的[官方问题追踪器](https://github.com/Slimefun/Slimefun4/issues)或[内核汉化版问题追踪器](https://github.com/StarWishsama/Slimefun4/issues)。<br>
+也许你遇到的问题已经被汇报了。在这种情况下，请勿重复汇报。
+但是我们鼓励你在问题下方留言，告诉我们你是如何重现问题的。
+
+### 5. 搜索错误报告(error-reports)与堆栈跟踪(stacktraces) :id=5-search-for-error-reports-and-stacktraces
+
+在你寻找错误报告与堆栈跟踪时，请记住，在你向问题追踪器汇报时，请通过 [pastebin](https://pastebin.com/) 提交这些文件。
+
+1. 打开目录 `/plugins/Slimefun/error-reports/`，检查是否有错误报告生成。<br>
+如果这些错误报告与你的问题有关，请与问题一起提交他们。
+
+2. 打开服务器的控制台，检查是否有堆栈追踪的相关输出。<br>
+(堆栈追踪是一些看上去非常可怕的东西，你无法弄清楚如何读懂它们)
+看看其中是否含有 "slimefun" 字样，如果有，请与问题一起提交。
+
+**你应该总是提交完整的堆栈追踪，这非常重要。可能去掉一个单词，堆栈跟踪就会变得毫无用处。所以请确保它包含了你看到的所有东西。**
+
+需要注意的是，包含 "slimefun" 字样，或直接说是由 Slimefun 引起的堆栈追踪，可能并不是由 Slimefun 引起的。<br>
+如果一个已安装的附属插件的名字出现在了堆栈追踪中，将其提交到该附属插件的问题追踪器中。
+
+如果你没有访问服务器文件的权限，你需要联系服务器的管理员，向他们解释问题，并让他们查看此指南。
+
+### 6. 确保它来自 Slimefun! :id=6-make-sure-it-is-slimefun
+
+当你遇到 Slimefun 出现问题时，请确保物品/方块/机器确实来自 Slimefun，而不是来自附属插件。<br>
+如果你的问题与 ExoticGarden 或其他 Slimefun 附属插件有关，请将问题汇报至对应附属插件的问题追踪器中，而不是这里。
+
+### 7. 尽量多收集信息 :id=7-gather-as-much-information-as-possible
+
+你需要尽可能提供详细的信息。<br>
+在汇报前，尝试做些实验:
+
+* 是否只有当前物品受到影响?或者其他(相似)物品也出了问题?
+* Bug 是否只在你拿着某个物品时出现?
+* 你试过跳跃、左键或右键点击、或手舞足蹈?
+* 这个问题是否需要你身后有一只苦力怕注视着你?
+* 它是否只在你的服务器上出现? **你有没有尝试与我们的discord服务器中的其他人交流过这个问题?**
+
+这些是可以考虑的问题。每一点信息都会有帮助。<br>
+提供尽可能详细的信息会帮助我们更好地解决问题。
+
+### 8. 通过 GitHub 提交问题 :id=8-posting-the-issue-via-github
+
+如果更新或重启没有解决问题，请通过[官方问题追踪器](https://github.com/Slimefun/Slimefun4/issues)或[内核汉化版问题追踪器](https://github.com/StarWishsama/Slimefun4/issues)提交你遇到的问题。
+
+* 我们需要你从第一步收集到的所有版本信息
+* 请详细描述问题
+* 向我们详细说明你做了什么，问题是什么时候出现的
+* 解释你**期望**发生什么，误解会发生什么有时候是问题的根本原因
+
+我们希望本指南帮到你生成有用且精确的 Bug 汇报。<br>
+谢谢你们能走这么远!

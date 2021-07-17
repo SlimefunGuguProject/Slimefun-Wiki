@@ -2,7 +2,7 @@
 
 欢迎来到 Slimefun4 的非官方中文 Wiki!
 
-本 Wiki 按照内核汉化版 Slimefun4 ([了解详情](/Installing-Slimefun?id=%e4%b8%8b%e8%bd%bd%e6%b1%89%e5%8c%96%e7%89%88-slimefun-4))的物品名编写
+本 Wiki 的物品名称将使用内核汉化版 Slimefun4 ([了解详情](/Installing-Slimefun?id=slimefun-4-cn-downloads)) 中的物品名称。
 
 ## 总览 :id=overview
 
