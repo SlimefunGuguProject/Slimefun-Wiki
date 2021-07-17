@@ -1,10 +1,10 @@
-# 什么是 Slimefun ?
+# 什么是 Slimefun? :id=what-is-slimefun
 
 Slimefun 是一个 Bukkit 插件，以向服务器提供模组级体验为目标。<br>
 如果你想知道如何安装 Slimefun，[点我查看](/Installing-Slimefun).<br>
 如果你正在寻找关于如何使用 Slimefun 的指南, [点我查看](Getting-Started).
 
-## Slimefun 能做什么?
+## Slimefun 能做什么? :id=what-does-slimefun-do
 
 在不安装 Mod 的情况下, Slimefun 能够向原版 Minecraft 服务器添加新物品。
 Slimefun4 本体提供了远远超过 400 种物品和方块，其中包括:

@@ -1,8 +1,10 @@
-# 主页
+# 主页 :id=home
 
 欢迎来到 Slimefun4 的非官方中文 Wiki!
 
-## 总览
+本 Wiki 按照内核汉化版 Slimefun4 ([了解详情](/Installing-Slimefun?id=%e4%b8%8b%e8%bd%bd%e6%b1%89%e5%8c%96%e7%89%88-slimefun-4))的物品名编写
+
+## 总览 :id=overview
 
 - [什么是 Slimefun?](/Slimefun-in-a-nutshell)
 - [如何安装 Slimefun](/Installing-Slimefun)
@@ -15,7 +17,7 @@
 - [常见问题](/Common-Issues)
 - [编写自己的附属插件](/Developer-Guide)
 
-## 内容 / 物品分类
+## 内容 / 物品分类 :id=content--item-categories
 
 - [武器](/Weapons)
 - [物品](/Items)
@@ -35,3 +37,9 @@
 - [科技道具](/Technical-Gadgets)
 - [货运管理](/Cargo-Management)
 - [节日物品](/Seasonal-Categories)
+
+## Discord :id=discord
+
+Slimefun 还有个 Discord 服务器，您可以提出建议、讨论功能或只是聊天。
+
+[https://discord.gg/slimefun](https://discord.gg/slimefun)
