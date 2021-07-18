@@ -40,6 +40,6 @@
 
 ## Discord :id=discord
 
-Slimefun 还有个 Discord 服务器，您可以提出建议、讨论功能或只是聊天。
+Slimefun 还有个 Discord 服务器，你可以在这里提出建议、讨论功能或只是聊天。
 
 [https://discord.gg/slimefun](https://discord.gg/slimefun)

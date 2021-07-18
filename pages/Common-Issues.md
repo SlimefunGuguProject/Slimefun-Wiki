@@ -1,79 +1,91 @@
 # 常见问题 :id=common-issues
 
-!> 本页面暂未完成翻译
-
 <details>
 <summary>目录</summary>
 
-- [Floating tags](#floating-tags)
-- [Unplaceable blocks](#unplaceable-blocks)
-- [Circuit Boards not dropping](#circuit-boards-not-dropping)
+- [全息投影标签](#floating-tags)
+- [无法放置的方块](#unplaceable-blocks)
+- [不掉落基础电路板](#circuit-boards-not-dropping)
 
 </details>
 
-This page contains useful information about common in game issues and how to resolve them.<br>
-Most of the following will require varying degrees of permission only staff members may have: make sure to link people higher up in your staff team here if you don't!
+本页面包含一些常见的游戏内问题与解决方案。<br>
+大部分解决方案需要管理员权限，如果你没有相应的权限，请联系管理员解决问题!
 
-**WARNING: some issues have more than one viable solution, indicated by a division in stages from the least to the most intrusive; it is HIGHLY recommended you try all previous stages before you follow any further approach as lower stages are less risky and will solve most occurencies anyways. If you've tried everything in the list with no success, consider [filing a bug report!](https://github.com/Slimefun/Slimefun4/wiki/How-to-report-bugs)**
+**警告: 部分问题有多种解决方案，这些方案将由影响程度从小到大排序。我们强烈建议你先尝试影响程度较小的解决方案，因为影响程度越小的解决方案风险更小。如果你已经尝试了所有方案但都未解决问题，请考虑[汇报 Bug](/How-to-report-bugs)!**
 
-## Floating tags
-Some Slimefun items automatically create floating tags when placed, in particular the [Energy Regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator) and the [Cargo Manager](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Manager).<br>
-These tags are supposed to disappear when breaking the machine but sometimes things can go wrong and you're left with some text that just doesn't want to go away. How can you solve this?
+## 全息投影标签 :id=floating-tags
 
-_Note: make sure this isn't due to a ghost block (check "Unplaceable Blocks")!_
+某些 Slimefun 物品会在被放置后自动创建全息投影标签，特别是[能量调节器](/Energy-Regulator)和[货运管理器](/Cargo-Manager)。<br>
+这些标签应该会在破坏机器后消失。但有时候会出现问题，导致部分全息投影依然存留在世界中。该如何解决这个问题呢?
 
-### How to fix this (Stage 1)
-Remove any regulators/managers below the floating tag, then stand close to it and run this as operator:
->/execute as <your_name> at @s run execute as @e[type=armor_stand,nbt={Invisible:1b},distance=..3] run data merge entity @s {Invisible:0}
+!> 注意: 确保这不是幽灵方块造成的问题! 请参阅[无法放置的方块](#unplaceable-blocks)
 
-You can now punch the armor stand to destroy it. You may need to punch out multiple stands as they may have been spawned and stacked onto each other depending on which plugins you use.
+### 如何修复 (方案 1) :id=how-to-fix-this-stage-1
 
-*Tip: it is recommended using MyCommands, CommandOverride or similar plugins and setting an alias, easier to remember and teach (an example could be /holokill).*
+移除任何在全息投影标签下方的调节器/管理器，然后站在该标签附近，以管理员身份运行以下指令:
 
-### How to fix this (Stage 2)
-Switch to spectator mode via
->/gamemode spectator
+> /execute as <your_name> at @s run execute as @e[type=armor_stand,nbt={Invisible:1b},distance=..3] run data merge entity @s {Invisible:0}
 
-You should see the invisible armor stand and better gauge where the feet are; using this information, place a new regulator just below the tag on the first block not occupied by the armor stand itself (get one via /sf cheat).<br>
-The regulator will try to place its own armor stand which will replace the corrupt ones and behave normally: you should now be able to remove the regulator you've just placed, removing all tags.
+现在，你可以摧毁那些盔甲架了。你也许要摧毁多个盔甲架，因为它们可能由不同的插件生成，但堆叠在一起。
 
-### How to fix this (Stage 3)
-If the hologram keeps respawning you're very likely to be dealing with a ghost block like the ones dealt with under Unplaceable blocks, with the only difference it's also spawning a hologram because it's one of the items listed up top.
-Simply follow the procedure to get rid of any ghost block and you should be golden.
+*提示: 推荐使用 MyCommands, CommandOverride 或其他类似插件并为该条指令设置一个容易记住的别名(例如 /holokill)。*
 
-## Unplaceable blocks
-If you encounter a location that seems empty but will cancel your action when you try to place any block there you're probably looking at a ghost Slimefun block.<br> This means a Slimefun item used to be placed there (usually an [android](https://github.com/Slimefun/Slimefun4/wiki/Androids) or a [cargo component](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Management)) and its data was not correctly removed.
+### 如何修复 (方案 2) :id=how-to-fix-this-stage-2
 
-### How to fix this (Isolated block)
-Get a debug fish by running the following as operator:
->/sf debug_fish
+通过以下指令切换到观察者模式:
 
-_(Optional): Use the shift right click function to place a dummy head where the ghost block is and try to punch it out: if a Slimefun head drops you're sure to have a ghost block (the opposite is not necessarily true as the ghost Slimefun item could've been a full block and not a head, it's less likely though and just good to get a confirmation if possible)._
+> /gamemode spectator
 
-Shift right click to place a dummy head, then shift left click it: an animation of the head being broken and the event being canceled should be seen and you'll get a message in chat; this will remove whatever data is still linked to the location.
+你应该可以看到隐身的盔甲架，并确定脚部的位置。在盔甲架下方的第一个未被盔甲架占据的方块上，放下一个新的调节器(可通过 */sf cheat* 获取)。<br>
+调节器会尝试将错误的盔甲架替换成属于该调节器自己的盔甲架，就像正常的一样。然后，移除刚刚放下的调节器，来移除所有的全息投影标签。
 
-Punch out the dummy head.
+### 如何修复 (方案 3) :id=how-to-fix-this-stage-3
 
-### How to fix this (Cluster of blocks)
-This is very similar to the procedure for isolated blocks: in this case instead of placing all the dummy heads one by one you can run WorldEdit commands to speed up the placing process.
+如果全息投影不断重新生成，你可能需要将其当成幽灵方块处理。这与无法放置的方块类似，但区别就是有全息投影。
+只要按照过程来移除幽灵方块，应该没什么大问题。
 
-Use WorldEdit to select the cluster of blocks and its surroundings and execute:
->//set stone
+## 无法放置的方块 :id=unplaceable-blocks
 
-As per the isolated blocks procedure, shift right click all the incriminated spots to remove any data they may retain.
+如果一在某个空的位置尝试放置方块，但放置动作被终止，这说明这可能是个幽灵方块。<br> 这意味着这里曾经有 Slimefun 物品被放置于此处 (通常是[机器人](/Androids)或[货运管理器](/Cargo-Management)等以玩家头类型的物品)，但此处方块的数据没有被正确移除。
 
-Remove the stone by executing:
->//undo
+### 如何修复 (单个方块) :id=how-to-fix-this-cluster-of-blocks
 
-## Circuit Boards not dropping
-If you kill Iron Golems and they don't seem to drop any Iron Golems, it may be due to a conflicting plugin.<br>
-Plugins like **MobStacker** or similar are known to have a lot of issues with custom item drops.
+以管理员身份执行下方的指令，获取一条调试鱼:
 
-### How to fix this (Stage 1)
-The best solution to this problem is to enable custom item drops in that plugins config, if such an option exist.<br>
-Or ask the authors of that plugin whether there is a way to toggle this behaviour.
+> /sf debug_fish
 
-### How to fix this (Stage 2)
-A more drastic approach would be to switch over to a Mob-Stacking plugin that supports custom drops.<br>
-_At this point we do not have a list of mob-stacking plugins that are confirmed to work with Slimefun, if you use a plugin that works without any issues, feel free to name it right here. See [Expanding the Wiki](https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki)_
-{"mode":"full","isActive":false}
+_(可选项): 使用 Shift + 右键 在幽灵方块的位置放置一个占位符方块，然后尝试破坏它。如果有代表 Slimefun 物品的玩家头掉落，则该位置确实有幽灵方块 (然而，没有掉落并不说明此处不是幽灵方块，因为 Slimefun 物品可能是一个完整的方块，而不是一个玩家头，但这种情况的可能性并不大)。_
+
+使用 Shift + 右键 放置一个占位符方块，然后 Shift + 左键 点击它。此时，你会看到方块被破坏的动画，被取消的事件应该会在聊天栏中展示。这将会移除该位置所有的方块数据。
+
+现在，只需要破坏占位符方块即可。
+
+### 如何修复 (一堆方块) :id=how-to-fix-this-cluster-of-blocks
+
+这与处理单一方块的过程类似。但在这情况下，你可以使用 WorldEdit 的指令来加速放置的过程，不必挨个放置假的玩家头。
+
+使用 WorldEdit 的选取工具选中需要处理的范围，并向外扩大一点，然后执行以下指令:
+
+> //set stone
+
+就像处理单个方块一样，Shift + 左键 点击所有可能有问题的地方，清除这些位置的数据。
+
+最后，执行以下指令来移除所有石头:
+
+> //undo
+
+## 不掉落基础电路板 :id=circuit-boards-not-dropping
+
+如果你击杀了铁傀儡但没有掉落基础电路板，这可能是因为有冲突的插件。<br>
+像 **MobStacker** 这样的插件或其他类似插件有许多已知的自定义物品掉落相关的问题。
+
+### 如何修复 (方法 1)
+
+最好的解决办法就是在那些插件中开启自定义物品掉落，如果他们有这种选项。<br>
+或者去询问作者是否可以切换物品掉落。
+
+### 如何修复 (方法 2)
+
+更激进的办法就是换一个支持自定义掉落物的插件。<br>
+_关于这一点，我们并没有一个已确认支持 Slimefun 的自定义生物插件列表。如果你使用的插件没有任何问题，你可以将插件名称告诉我们。详见[扩充 Wiki](/Expanding-the-Wiki)。_

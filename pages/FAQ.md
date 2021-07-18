@@ -1,98 +1,119 @@
 # 常见问题 (FAQ) :id=faq
 
-!> 本页面暂未完成翻译
-
 <details>
 <summary>目录</summary>
 
 - [我如何下载/安装 Slimefun 或它的附属插件?](#how-can-i-download-install-slimefun-or-its-addons)
 - [我可以在单人模式世界中安装 Slimefun 吗?](#can-i-install-slimefun-on-a-singleplayer-world)
-- [Will Slimefun be available for Minecraft version XYZ?](#will-slimefun-be-available-for-minecraft-version-xyz)
-- [I have an error/bug with Slimefun](#i-have-an-errorbug-with-slimefun)
-- [What's the difference between the talisman and ender talisman?](#whats-the-difference-between-the-talisman-and-ender-talisman)
-- [Can you stack Talismans?](#can-you-stack-talismans)
-- [What can I do with stone chunks?](#what-can-i-do-with-stone-chunks)
-- [How do I disable items per-world?](#how-do-i-disable-items-per-world)
-- [How much RAM does Slimefun use?](#how-much-ram-does-slimefun-use)
-- [How does XYZ work?](#how-does-xyz-work)
-- [How do I repair Slimefun items?](#how-do-i-repair-slimefun-items)
-- [Can I enchant Slimefun items?](#can-i-enchant-slimefun-items)
-- [Is it Slimefun or SlimeFun](#is-it-slimefun-or-slimefun)
+- [Slimefun 支持 Minecraft XXX 版本吗?](#will-slimefun-be-available-for-minecraft-version-xyz)
+- [我遇到了一个 Slimefun 的错误/Bug](#i-have-an-errorbug-with-slimefun)
+- [护身符与末影护身符有什么区别?](#whats-the-difference-between-the-talisman-and-ender-talisman)
+- [护身符可以堆叠吗?](#can-you-stack-talismans)
+- [我可以拿石块做什么?](#what-can-i-do-with-stone-chunks)
+- [如何根据世界禁用物品?](#how-do-i-disable-items-per-world)
+- [如何禁用所有或单个研究?](#how-to-disable-all-or-individual-researches)
+- [Slimefun 使用多少内存?](#how-much-ram-does-slimefun-use)
+- [XXX 该怎么用?](#how-does-xyz-work)
+- [怎么修复 Slimefun 物品?](#how-do-i-repair-slimefun-items)
+- [我可以给 Slimefun 物品附魔吗?](#can-i-enchant-slimefun-items)
+- [反应堆中的冷却剂可以持续多久?](#how-long-does-coolant-last-in-reactors)
+- [是 Slimefun 还是 SlimeFun?](#is-it-slimefun-or-slimefun)
 
 </details>
 
 ## 我如何下载/安装 Slimefun 或它的附属插件? :id=how-can-i-download-install-slimefun-or-its-addons
 
-To download and install Slimefun you can refer to [this guide here](https://github.com/Slimefun/Slimefun4/wiki/Installing-Slimefun).  
-You can find Addons for Slimefun4 on our ["Addons" - page](https://github.com/Slimefun/Slimefun4/wiki/Addons).<br>
-You can install these just like you did with Slimefun, putting them in the `/plugins/` folder of your Server.
+要想下载并安装 Slimefun，你可以查看[这篇指南](/Installing-Slimefun)。
+你可以在[附属插件](/Addons)页面中找到 Slimefun4 的附属插件列表。
+
+你可以像安装 Slimefun 一样安装这些插件，只需要将它们放在你服务器的`/plugins/`目录内。
 
 ## 我可以在单人模式世界中安装 Slimefun 吗? :id=can-i-install-slimefun-on-a-singleplayer-world
 
-No.<br>
-Slimefun is a Bukkit / Spigot plugin, so it requires you to have a Bukkit-based Minecraft Server running. Creating such a Server is very easy though, you will be able to find lots of tutorials online. If you want to enjoy Slimefun all on your own, set up a new Minecraft Server on your computer, install the plugin and connect to it using the address `localhost`. Without any extra efforts your server won't be visible to others outside of your local network anyway.
+不能。
 
-## Will Slimefun be available for Minecraft version XYZ? :id=will-slimefun-be-available-for-minecraft-version-xyz
+Slimefun 是一个 Bukkit / Spigot 插件，所以你需要一个基于 Bukkit 的 Minecraft 服务器来运行它。创建一个服务器非常简单，你可以在网上找到许多教程。如果你只想自己玩 Slimefun，你可以在你自己的电脑上创建一个服务器，安装插件，并使用地址`localhost`来连接到它。如果没有额外配置，你的服务器只能在本地网络中可见，网络中的其他人将无法访问你的服务器。
 
-Slimefun has been consistently available for every Minecraft version from MC 1.5 onwards, so I would say you can rest assured that it will come out for that Minecraft version too. With over 100+ contributors to the project, the chances are high someone is gonna update it to work with that version.
+## Slimefun 支持 Minecraft XXX 版本吗? :id=will-slimefun-be-available-for-minecraft-version-xyz
 
-## I have an error/bug with Slimefun
+Slimefun 在 Minecraft 1.5 及以上的每个版本都可用。所以，你可以放心地等待对此 Minecraft 版本的支持。我们的项目有超过100名贡献者，通常会很快支持新版本。
 
-Ok, first things first, join our [Support Server](https://discord.gg/fsD4Bkh) if you aren't in it already and go to `#bug-discussions`. We need to determine if it is a bug, user error or intended behaviour. Note that we **do not accept bug reports on discord, only on GitHub**. But experience has shown that 9 of 10 "bugs" tend to be the result of really outdated plugin versions or similar, so please try to discuss these issues with others on our discord server first, so that developers can focus on confirmed bug reports.
+## 我遇到了一个 Slimefun 的错误/Bug :id=i-have-an-errorbug-with-slimefun
 
-Now, send us the following information (in the `#bug-discussions` channel):
-1. Run /sf versions and send us a screenshot. We need the exact versions you are using, otherwise, we will not be able to help you.
-"latest" is not helping us at all. So please run that command. (If you don't have access to this command then Shift-Right-Click your Slimefun Guide, you can find your versions in the uppermost middle slot.)
+### 对于官方版 Slimefun :id=official-slimefun
 
-2. Check your console, are there any errors? (If so, then post them via https://pastebin.com/)
+首先，加入我们的[Discord服务器](https://discord.gg/slimefun)，并进入`#bug-discussions`频道。我们需要确认是否是 Bug，用户错误，或者是预期的行为。请注意，我们**不接受在discord中的bug汇报，只接受来自GitHub的**。根据我们积累的经验，10个"bug"中的9个是因为使用了旧版本的插件，所以请先在我们的discord服务器中与其他人讨论这个问题，让我们的开发者能够专注于已确认的Bug汇报。
 
-3. What do you intend to happen and what is happening?
+现在，请在`#bug-discussions`频道向我们提供以下信息:
+1. 运行 `/sf versions` 然后向我们发送截图。我们需要知道你正在使用哪个版本，否则，我们无法帮到你。
+"最新版本"对我们没有任何帮助。所以，请运行该指令。如果你没有运行该指令的权限，请 Shift + 右键 点击你的 Slimefun 指南，你可以在顶部中间的格子找到正在使用的版本。
 
-Please also refer to [this page](https://github.com/Slimefun/Slimefun4/wiki/How-to-report-bugs) for a much more in-depth guide on how to report issues.
+2. 检查控制台，看看是否有错误？ (如果有，请发布在 https://pastebin.com/)
 
-Once you've sent us all this info then one of our staff or a community member will help you. **Do not ping any role or members**. If some time has passed (15+ mins) then you may ping the helpful role (`@Helpful`). Being impatient and pinging roles/members (**especially staff**) may get you warned or kicked.
+3. 接下来该怎么办?
 
-## What's the difference between the talisman and ender talisman?
-The Ender Talismans work even while in the Ender Chest however the normal [Talismans](https://github.com/Slimefun/Slimefun4/wiki/Talismans) requires for it to be in your inventory.
+请访问[此页面](/How-to-report-bugs)了解更多关于汇报问题的指南。
 
-## Can you stack Talismans?
-Talismans by themselves are stackable items but having more than one Talisman of the same type will not increase their effects.<br>
-However, some Talismans get consumed when you use them, so having multiple of these handy will last you longer obviously.
+当你把所有的信息发送给我们后，我们的工作人员或社区成员会帮助你。**请不要 ping 任何人！** 如果超过15分钟没有人回应，你可以 ping `@Helpful`权限组的人员获取帮助。请耐心等待，如果你 ping 了任何一位成员(**特别是工作人员**)，你可能被警告或被踢出服务器。
 
-## What can I do with stone chunks?
-4 Stone Chunks can be put into the [Compressor](https://github.com/Slimefun/Slimefun4/wiki/Compressor) to craft one cobblestone.
+### 对于内核汉化版 Slimefun :id=chinese-slimefun
 
-## How do I disable items per-world?
-You can disable items per-world by finding said world file in the folder `/plugins/Slimefun/world-settings/` and by setting any item ID to false.
+请在内核汉化版的[问题追踪器](https://github.com/StarWishsama/Slimefun4/issues)中汇报问题。
 
-If you wish to disable **all** items in the world by setting `enabled` to false.
+## 护身符与末影护身符有什么区别? :id=whats-the-difference-between-the-talisman-and-ender-talisman
 
-## How to disable all or individual researches?
-You can disable all researching (All items are researched by default) by going to the research file `/plugins/Slimefun/Researches.yml` and setting `enable-researching` to `false`
+末影护身符在末影箱中时也会生效。但普通的[护身符](/Talismans)需要你将其放在玩家背包中。
 
-In the same research file, you can also disable specific researches or modify the cost of them. 
+## 护身符可以堆叠吗? :id=can-you-stack-talismans
 
-## How much RAM does Slimefun use?
-You can't give an exact number or really even an estimate, we don't know your other plugins, addons, your server software, server version and we may even change things per-build which can affect RAM usage. We can recommend **at least** 4GB for any server though with or __without__ Slimefun.
+护身符物品是可以堆叠的，但多个护身符并不会增强它们的效果。<br>
+然而，某些护身符在你使用后会消失，所以有多个护身符可以延长使用的时间。
 
-## How does XYZ work?
-If you'd like to know how an item works please refer to [our wiki](https://github.com/Slimefun/Slimefun4/wiki).
-> **Note**: The Wiki is still missing pages and is community ran! If you can help add content then please refer to [this guide](https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki)
+## 我可以拿石块做什么? :id=what-can-i-do-with-stone-chunks
 
-## How do I repair Slimefun items?
-You will need to use the [Auto-Anvil](https://github.com/Slimefun/Slimefun4/wiki/Auto-Anvil) and [Duct Tape](https://github.com/Slimefun/Slimefun4/wiki/Duct-Tape).
+4个石块可以通过[压缩机](/Compressor)变成圆石。
 
-## Can I enchant Slimefun items?
-You can only enchant an Item from Slimefun by using an [Auto-Enchanter](https://github.com/Slimefun/Slimefun4/wiki/Auto-Enchanter).
+## 如何根据世界禁用物品? :id=how-do-i-disable-items-per-world
 
-## How long does coolant last in reactors?
-Coolant lasts for 25 seconds no matter the type (normal or Nether Ice). Here is a table with the required amount of coolant per piece of fuel:
-| Fuel            | Duration    | Coolant type | Coolant amount |
-| --------------- | ----------- | ------------ | -------------- |
-| Uranium         | 20m (1200s) | Normal       | 48             |
-| Neptunium       | 10m (600s)  | Normal       | 24             |
-| Boosted Uranium | 25m (1500s) | Normal       | 60             |
-| Nether Star     | 30m (1800s) | Nether Ice   | 72             |
+你可以根据世界禁用物品。在 `/plugins/Slimefun/world-settings/` 找到需要调整设置的世界文件，然后设置物品 ID 为 `false` 禁用。
 
-## Is it Slimefun or SlimeFun
-It's Slimefun, one day everyone will know the correct spelling... one day... maybe... who knows honestly.
+如果你想在世界中禁用**所有**物品，只需要设置`enabled`为`false`。
+
+## 如何禁用所有或单个研究? :id=how-to-disable-all-or-individual-researches
+
+你可以在`/plugins/Slimefun/Researches.yml`文件中设置`enable-researching`为`false`来禁用所有的研究。
+
+在该研究设置文件内，你也可以禁用某些研究或者修改研究的的花费。
+
+## Slimefun 使用多少内存? :id=how-much-ram-does-slimefun-use
+
+我们无法提供一个准确的，甚至估计的值。我们不知道你的其他插件、附属插件、服务器软件、服务器版本。我们在每个版本中都有可能加入对内存使用有影响的改动。我们推荐在任何无论是否安装 Slimefun 的服务器上分配 **至少** 4GB 内存。
+
+## XXX 该怎么用? :id=how-does-xyz-work
+
+如果你想知道某个物品该如何使用，请阅读[官方Wiki](https://github.com/Slimefun/Slimefun4/wiki)或本Wiki。你可以使用搜索功能来查找你需要的物品。
+
+!> **注意**: Wiki 仍缺少页面。它是由社区管理的。如果你想向 Wiki 添加内容，请参阅[这篇指南](/Expanding-the-Wiki)。
+
+## 怎么修复 Slimefun 物品? :id=how-do-i-repair-slimefun-items
+
+你需要[自动铁砧](/Auto-Anvil)与[强力胶布](/Duct-Tape)。
+
+## 我可以给 Slimefun 物品附魔吗? :id=can-i-enchant-slimefun-items
+
+你只能使用[自动附魔机](/Auto-Enchanter)来对Slimefun的物品附魔。
+
+## 反应堆中的冷却剂可以持续多久? :id=how-long-does-coolant-last-in-reactors
+
+无论是哪种类型的反应堆(普通或下界冰)，冷却剂都持续 25 秒。这里是每份燃料对应所需的冷却剂数量表：
+
+| 燃料      | 持续时间        | 冷却剂类型 | 冷却剂数量|
+| --------- | ------------- | --------- | ------- |
+| 铀        | 20分钟 (1200秒) | 普通      | 48      |
+| 镎        | 10分钟 (600秒)  | 普通      | 24      |
+| 高纯度铀   | 25分钟 (1500秒) | 普通      | 60      |
+| 下界之星   | 30分钟 (1800秒) | 下界冰     | 72     |
+
+## 是 Slimefun 还是 SlimeFun? :id=is-it-slimefun-or-slimefun
+
+是 Slimefun。将来的某一天，所有人都会知道正确的拼写，也许在将来的某一天，也许...
