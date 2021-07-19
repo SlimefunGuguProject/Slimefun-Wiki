@@ -25,12 +25,12 @@ Slimefun4 本体提供了远远超过 400 种物品和方块，其中包括:
 
 ## 它会一直更新下去吗?
 
-会的，但也不会。
+也许会，也许不会。
 
-你会发现在作者 [TheBusyBiscuit 的网站](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/) 上有许多自动上传的新版本。
+你会发现在作者[TheBusyBiscuit的网站](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/)上有许多自动上传的新版本。
 那些通常只是 Bug 修复和进行一些小调整。
 请记住, Slimefun4 由整个社区维护, 不仅仅是由一个人或一群人维护。
-所以更新的频率非常不规律.
+所以更新的频率非常不规律。
 
 但是如果你想扩充 Slimefun 的内容, 不妨去看看 [Slimefun 附属插件列表](Addons)。
 当然，你也可以通过提交 Pull Request 来添加自己的内容, 但是必须要通过审核与批准。

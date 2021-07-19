@@ -28,7 +28,7 @@
 - [魔法物品](/Magical-Items)
 - [魔法防具](/Magical-Armor)
 - [科技零件](/Technical-Components)
-- [杂物](/Miscellaneous-Items)
+- [杂项用品](/Miscellaneous-Items)
 - [防具](/Armor)
 - [护身符](/Talismans)
 - [魔法道具](/Magical-Gadgets)
