@@ -5,8 +5,9 @@
   <title>Slimefun4 Wiki</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Slimefun4 非官方中文Wiki">
+  <meta name="author" content="ybw0014">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css">
 </head>
 <body>
   <div id="app">加载中</div>
@@ -19,12 +20,22 @@
       auto2top: true,
       loadSidebar: true,
       autoHeader: true,
+      notFoundPage: true,
       search: {
         placeholder: '搜索',
         noData: '没有结果',
         hideOtherSidebarContent: true,
       },
       plugins: [
+        function (hook, vm) {
+          hook.beforeEach(function (html) {
+            return (
+              html +
+              '\n\n----\n\n' +
+              '由 [docsify](https://docsify.js.org) 提供强力驱动'
+            );
+          });
+        },
       ],
     }
   </script>
