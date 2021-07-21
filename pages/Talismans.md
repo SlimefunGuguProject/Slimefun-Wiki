@@ -1,6 +1,6 @@
 # 护身符 :id=talismans
 
-当你拥有护身符时，你可以获得特殊的效果。在[魔法工作台](https://github.com/Slimefun/Slimefun4/wiki/Magic-Workbench)中可以合成它们。
+当你拥有护身符时，你可以获得特殊的效果。在[魔法工作台](/Magic-Workbench)中可以合成它们。
 
 一般的护身符只有在背包中时才会生效，而末影护身符可以在末影箱中生效。
 
