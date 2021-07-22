@@ -1,33 +1,40 @@
 # 防具 :id=armor
 
-!> 本页面暂未翻译
+防具分类包含六套新防具，并让你可以合成锁链套装。
 
-The Armor category contains six new sets of armor, plus the ability to craft Chainmail Armor.
+## 防具套装 :id=armor-sets
 
-## Armor Sets
-### Damascus Steel Armor Set
-The Damascus Steel Armor Set is an Iron Armor Set with Protection V and Unbreaking V on every piece.
+### 大马士革钢套装 :id=damascus-steel-armor-set
 
-### Reinforced Armor Set
-The Reinforced Armor Set is an Iron Armor Set with Protection IX and Unbreaking IX on every piece.
+大马士革钢套装是一套铁防具，并附魔了耐久 V 与保护 V。
 
-### Cactus Armor Set
-The Cactus Armor Set is a (green-dyed) Leather Armor Set with Thorns III and Unbreaking VI.
+### 强化合金套装 :id=reinforced-armor-set
 
-### Chainmail Armor Set
-This set is the same set as vanilla minecraft offers, it was just made craftable.
+强化合金套装是一套铁防具，并附魔了耐久 IX 与保护 IX。
 
-### Gilded Iron Armor Set
-The Gilded Iron Armor Set is a Gold Armor Set with Protection VIII and Unbreaking VI on every piece.
+### 仙人掌套装 :id=cactus-armor-set
 
-### Hazmat Suit
-The Hazmat suit is a (orange/black-dyed) Leather Armor Set which provides full immunity towards [Radiation](/Radiation) and Bee Stings when wearing the full set.  
+仙人掌套装是一套绿色皮革防具，并附魔了耐久 VI 与荆棘 III。
 
-The Scuba Helmet allows you to breath underwater.  
-The Hazma Suit Chestplate makes you immune to fire and lava.
+### 锁链套装 :id=chainmail-armor-set
 
-### Gold Armor Set
-The Gold Armor Set is a vanilla Gold Armor Set with Unbreaking X on every piece.
+这是原版锁链套装，只是现在你可以合成它们了。
+
+### 镀金铁套装 :id=gilded-iron-armor-set
+
+镀金铁套装是一套金防具，并附魔了耐久 VI 与保护 VIII。
+
+### 防化服套装 :id=hazmat-suit
+
+防化服套装是一套橙色与黑色混合的皮革防具。在装备整套防化服套装时，可以免疫[辐射](/Radiation)伤害与蜜蜂伤害。
+
+潜水头盔是防化服套装的头盔部分，可以让你在水下呼吸。
+防化服是防化服套装的胸甲部分，可以让你免疫火焰与岩浆的伤害。
+
+### 金套装 :id=gold-armor-set
+
+金套装是一套金防具，并附魔了耐久 X。
 
 ## 另请参阅 :id=see-also
+
 * [魔法防具](/Magical-Armor)

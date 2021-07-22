@@ -1,6 +1,6 @@
 # 主页 :id=home
 
-欢迎来到 Slimefun4 的非官方中文 Wiki!
+欢迎来到 Slimefun4 的非官方中文 Wiki! 本 Wiki 由[ybw0014](https://github.com/ybw0014)维护。
 
 本 Wiki 的物品名称将使用内核汉化版 Slimefun4 ([了解详情](/Installing-Slimefun?id=slimefun-4-cn-downloads)) 中的物品名称。
 
@@ -43,3 +43,10 @@
 Slimefun 还有个 Discord 服务器，你可以在这里提出建议、讨论功能或只是聊天。
 
 [https://discord.gg/slimefun](https://discord.gg/slimefun)
+
+## 一些附属插件的非官方 Wiki :id=addons-wiki
+
+这里有一些附属插件的非官方 Wiki:
+
+- [异域花园 ExoticGarden](https://exoticgarden.guizhanss.wiki/)
+- []()
