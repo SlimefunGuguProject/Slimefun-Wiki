@@ -1,6 +1,6 @@
 # 矿石粉碎机 :id=ore-crusher
 
-矿石粉碎机是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
+矿石粉碎机 (Ore Crusher) 是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
 
 ## 建造 :id=obtaining
 

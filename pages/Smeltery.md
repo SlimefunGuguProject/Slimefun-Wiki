@@ -1,6 +1,6 @@
 # 冶炼炉 :id=smeltery
 
-冶炼炉是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
+冶炼炉 (Smeltery) 是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
 
 简易冶炼炉只能将[矿粉](/Dusts)冶炼成[锭](/Ingots)，而冶炼炉还可以冶炼[合金](/Alloys)。
 

@@ -1,6 +1,6 @@
 # 洗矿机 :id=ore-washer
 
-洗矿机是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
+洗矿机 (Ore Washer) 是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
 
 ## 建造 :id=obtaining
 

@@ -1,6 +1,6 @@
 # 压力机 :id=pressure-chamber
 
-压力机是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
+压力机 (Pressure Chamber) 是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
 
 ## 建造 :id=obtaining
 
