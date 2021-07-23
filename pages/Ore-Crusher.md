@@ -10,7 +10,7 @@
 
 ![建造矿石粉碎机](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-ore-crusher.png)
 
-你可以在发射器旁放置一个[物品输出箱](/Output-Chest)来收集产物。
+你可以在发射器旁放置一个[物品输出箱](/Output-Chest)来收集产物。如果没有[物品输出箱](/Output-Chest)，产物将保留在发射器中。
 
 ## 使用 :id=usage
 

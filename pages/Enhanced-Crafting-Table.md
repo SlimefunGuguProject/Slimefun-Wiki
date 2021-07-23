@@ -12,7 +12,7 @@
 
 ![建造增强型工作台](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-enhanced-crafting-table.png)
 
-你可以在发射器旁放置一个[物品输出箱](/Output-Chest)来收集合成的物品。
+你可以在发射器旁放置一个[物品输出箱](/Output-Chest)来收集合成的物品。如果没有[物品输出箱](/Output-Chest)，产物将保留在发射器中。
 
 ## 使用 :id=how-to-use-an-enhanced-crafting-table
 
