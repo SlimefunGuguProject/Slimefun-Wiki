@@ -18,15 +18,15 @@
 
 ### 能源管理 :id=energy-management
 
-* [Energy Regulator](/Energy-Regulator)
+* [能源调节器](/Energy-Regulator)
 * [Energy Capacitors](/Energy-Capacitors)
-* [Multimeter](/Multimeter)
+* [万用表](/Multimeter)
 
 ### 发电机 :id=energy-generation
 
-* [Solar Generator](/Solar-Generator)
-* [Bio Reactor](/Bio-Reactor)
-* [Coal Generator](/Coal-Generator)
+* [太阳能发电机](/Solar-Generator)
+* [生物反应器](/Bio-Reactor)
+* [煤发电机](/Coal-Generator)
 * [Magnesium-powered Generator](/Magnesium-powered-Generator)
 * [Lava Generator](/Lava-Generator)
 * [Combustion Reactor](/Combustion-Reactor)
