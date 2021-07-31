@@ -4,7 +4,7 @@
 
 它是[输出节点](/Output-Node)的升级版本，拥有更多设置，可以过滤物品。
 
-## 制作 :id=obtaining
+## 获取 :id=obtaining
 
 高级输出节点可以在[增强型工作台](/Enhanced-Crafting-Table)中制作。
 

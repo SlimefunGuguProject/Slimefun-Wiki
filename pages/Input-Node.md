@@ -2,7 +2,7 @@
 
 输入节点是[货运管理](/Cargo-Management)系统的组成部分。它负责过滤并将物品传输到匹配的[输出节点](/Output-Node)(或[高级输出节点](/Advanced-Output-Node))它负责将货运网络中的不同部分连接起来。
 
-## 制作 :id=obtaining
+## 获取 :id=obtaining
 
 输入节点可以在[增强型工作台](/Enhanced-Crafting-Table)中一次性制作2个。
 

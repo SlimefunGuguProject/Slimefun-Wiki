@@ -4,7 +4,7 @@
 
 它是货运系统相关物品的合成中间件。
 
-## 制作 :id=obtaining
+## 获取 :id=obtaining
 
 货运马达可以在[增强型工作台](/Enhanced-Crafting-Table)中一次性制作4个。
 

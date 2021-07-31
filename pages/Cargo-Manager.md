@@ -2,7 +2,7 @@
 
 货运管理器是[货运管理](/Cargo-Management)系统的核心。它可以让物品在货运系统中传输。
 
-## 制作 :id=obtaining
+## 获取 :id=obtaining
 
 货运管理器可以在[增强型工作台](/Enhanced-Crafting-Table)中制作。
 

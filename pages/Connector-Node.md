@@ -2,7 +2,7 @@
 
 连接器节点是[货运管理](/Cargo-Management)系统的组成部分。它负责将货运网络中的不同部分连接起来。
 
-## 制作 :id=obtaining
+## 获取 :id=obtaining
 
 连接器节点可以在[增强型工作台](/Enhanced-Crafting-Table)中一次性制作4个。
 

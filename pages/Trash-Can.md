@@ -2,7 +2,7 @@
 
 垃圾箱是一个容器，可以将任何物品放入其中。它与[便携垃圾桶](/Portable-Dustbin)类似，但不同的是，它必须放置下来才能使用，而且它可以接入[货运网络](/Cargo-Management)，能更容易从货运网络中丢弃不需要的物品。
 
-## 制作 :id=obtaining
+## 获取 :id=obtaining
 
 垃圾箱可以在[增强型工作台](/Enhanced-Crafting-Table)中制作。
 

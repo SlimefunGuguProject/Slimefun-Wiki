@@ -4,7 +4,7 @@
 
 输出节点将提取所有信道中的物品。如需过滤物品，请使用[高级输出节点](/Advanced-Output-Node)，它含有白名单/黑名单系统。
 
-## 制作 :id=obtaining
+## 获取 :id=obtaining
 
 输出节点可以在[增强型工作台](/Enhanced-Crafting-Table)中一次性制作2个。
 
