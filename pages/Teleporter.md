@@ -2,7 +2,7 @@
 
 ![传送装置](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/Teleporter.png 'size=50%')
 
-传送装置是一个基于 GPS 的多方块结构机器。
+传送装置是一个基于 [GPS](/GPS) 的多方块结构机器。
 
 ## 建造 :id=obtaining
 

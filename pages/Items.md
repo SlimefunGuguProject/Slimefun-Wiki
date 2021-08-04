@@ -19,4 +19,4 @@
 * [金光闪闪的背包](/Backpacks)
 * [灵魂绑定背包](/Backpacks)
 * [小冰柜](/Cooler)
-* [卷尺](/Tape-Measire)
+* [卷尺](/Tape-Measure)
