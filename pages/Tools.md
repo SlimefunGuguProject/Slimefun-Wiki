@@ -12,7 +12,7 @@
 * [刷怪笼之镐](/Pickaxe-of-Containment)
 * [赫拉克勒斯之镐](/Hercules'-Pickaxe)
 * [爆炸镐](/Explosive-Pickaxe)
-* [爆炸铲子](/Explosive-Shovel)
+* [爆炸铲](/Explosive-Shovel)
 * [寻矿镐](/Pickaxe-of-the-Seeker)
 * [钴镐](/Cobalt-Pickaxe)
 * [矿脉镐](/Pickaxe-of-Vein-Mining)
