@@ -49,4 +49,4 @@ Slimefun 还有个 Discord 服务器，你可以在这里提出建议、讨论�
 这里有一些附属插件的非官方 Wiki:
 
 - [异域花园 ExoticGarden](https://exoticgarden.guizhanss.wiki/)
-- []()
+- [粘液匠魂 SlimeTinker](https://slimetinker.guizhanss.wiki/)

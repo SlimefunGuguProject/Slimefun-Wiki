@@ -32,3 +32,5 @@
     - [节日物品](/Seasonal-Categories)
 - 附属插件的非官方Wiki
     - [异域花园 ExoticGarden](https://exoticgarden.guizhanss.wiki/)
+    - [粘液匠魂 SlimeTinker](https://slimetinker.guizhanss.wiki/)
+    
