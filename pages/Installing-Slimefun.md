@@ -3,7 +3,7 @@
 ## 准备 :id=prerequisites
 
 你需要一个 Spigot 或 Paper 服务器 (推荐使用最新版本) 才能安装 Slimefun。<br>
-尽管我们只在 Paper 与 Spigot 上进行测试，这两类服务器的 Fork 应该能用。
+尽管我们只在 Paper 与 Spigot 上进行测试，这两种服务端的复刻(fork)应该也能使 Slimefun 正常运行。
 
 ### 下载官方版 Slimefun 4 :id=slimefun-4-downloads
 
@@ -19,10 +19,8 @@
 
 由于目前物品名称写死在代码中，要汉化 Slimefun 物品需要修改物品相关的代码。由 StarWishsama 维护的内核汉化版 Slimefun 目前已在 GitHub 与 MCBBS 发布。
 
-MCBBS帖子：[点击前往](https://www.mcbbs.net/thread-827594-1-1.html)
-
-GitHub仓库：[点击前往](https://github.com/StarWishsama/Slimefun4)
-
+MCBBS帖子：[点击前往](https://www.mcbbs.net/thread-827594-1-1.html)  
+GitHub仓库：[点击前往](https://github.com/StarWishsama/Slimefun4)  
 下载地址：[点击前往](https://github.com/StarWishsama/Slimefun4#%e4%b8%8b%e8%bd%bd-Slimefun4)
 
 当然，如果你的服务器已在使用官方版 Slimefun，也可以选择[另一种方法](https://www.mcbbs.net/forum.php?mod=redirect&goto=findpost&ptid=827594&pid=21840915)进行汉化。
@@ -69,5 +67,6 @@ Slimefun 会定期检查更新并自动安装更新。如果你希望禁用此�
 如果你想添加附属插件, 访问[这个页面](/Addons)以查看所有与你当前Slimefun4版本兼容的附属插件。
 
 这些附属插件需要 Slimefun4，并会在服务器的 */plugins/* 文件夹中中创建它们自己的文件夹。
-这些插件的配置文件应该也很容易理解。
-记住，你可以在 Slimefun 的 **Items.yml** 文件中禁用任何来自附属插件的物品。
+
+这些插件的配置文件一般都是简单易懂的。
+请记住，你可以在 Slimefun 的 **Items.yml** 文件中禁用任何来自附属插件的物品。

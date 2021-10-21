@@ -4,7 +4,7 @@
 
 如果你使用的是官方版 Slimefun，请在此[问题追踪器](https://github.com/Slimefun/Slimefun4/issues)中反馈。
 
-如果你使用的是内核汉化版 Slimefun，请在此[问题追踪器](https://github.com/StarWishsama/Slimefun4/issues)中反馈。
+如果你使用的是内核汉化版 Slimefun，请在此[问题追踪器](https://github.com/StarWishsama/Slimefun4/issues)中反馈。**不要向官方问题追踪器提交问题!**
 
 但在汇报 Bug 之前，你应该通读下方的故障排除指南。<br>
 你遇到的许多问题可以自行解决并为我们节省大量时间与精力。
@@ -34,18 +34,17 @@
 * **你的 Slimefun 版本** *(你安装了什么版本? 是开发版还是稳定版?)*
 
 你可以通过指令`/sf versions`收集到这些信息。<br>
-如果你的服主没有给你这条指令权限, 按下 Shift 并右键打开 Slimefun 指南, 那里应该会有书与笔，它至少告诉你 Minecraft 与 Slimefun 的版本。那已经非常有用了。
+如果你的服主没有给你这条指令权限, 按下 Shift 并右键打开 Slimefun 指南, 在左上角，它至少告诉你 Minecraft 与 Slimefun 的版本。那已经非常有用了。
 
 如果你向我们汇报 Bug，我们会要求提供此信息，否则我们无法弄清楚发生了什么。<br>
-It's like finding a nail in a pile of hay, but the pile is on fire and on an entirely different planet than the nail.<br>
-**所以，请一定要告诉我们你在使用哪个版本。"最新版"对我们来说毫无帮助**。
+**请一定要告诉我们你在使用哪个版本。"最新版"对我们来说毫无帮助**。
 
 ### 2. 检查更新 :id=2-checking-for-updates
 
 下一步就是将你从第一步获取的版本信息与最近的版本信息比对。
 
 * **你的服务器软件是最新版本吗?** *(检查 Spigot, Paper, Bukkit, 或其他你在使用的软件是否有更新)*
-* **Slimefun 是最新版本吗?** *(你可以在[官方版下载页面](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/)或[内核汉化版下载页面]()检查是否有版本更新)*
+* **Slimefun 是最新版本吗?** *(你可以在[官方版下载页面](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/)或[内核汉化版下载页面](https://github.com/StarWishsama/Slimefun4/releases)检查是否有版本更新)*
 * **你在使用开发版吗?** *(稳定版本是"稳定"的，但有可能新的开发版本修复了其中的问题)*
 
 加上最后一点: 我们不接受来自稳定版的 Bug 汇报。切换到较新的开发版，看看你的问题是否依然存在。

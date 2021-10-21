@@ -1,12 +1,12 @@
 # 什么是 Slimefun? :id=what-is-slimefun
 
-Slimefun 是一个 Bukkit 插件，以向服务器提供模组级体验为目标。<br>
-如果你想知道如何安装 Slimefun，[点我查看](/Installing-Slimefun).<br>
-如果你正在寻找关于如何使用 Slimefun 的指南, [点我查看](Getting-Started).
+Slimefun 是一个 Bukkit 插件，以向服务器提供模组级体验为目标。  
+如果你想知道如何安装 Slimefun，[点击此处](/Installing-Slimefun)。  
+如果你正在寻找关于如何使用 Slimefun 的指南，[点击此处](Getting-Started)。
 
 ## Slimefun 能做什么? :id=what-does-slimefun-do
 
-在不安装 Mod 的情况下, Slimefun 能够向原版 Minecraft 服务器添加新物品。
+在不安装 Mod 的情况下，Slimefun 能够向原版 Minecraft 服务器添加新物品。
 Slimefun4 本体提供了远远超过 400 种物品和方块，其中包括:
 * 背包
 * 核反应堆
@@ -27,7 +27,7 @@ Slimefun4 本体提供了远远超过 400 种物品和方块，其中包括:
 
 也许会，也许不会。
 
-你会发现在作者[TheBusyBiscuit的网站](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/)上有许多自动上传的新版本。
+你会发现在作者[TheBusyBiscuit的构建页面](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/)上有许多自动上传的新版本。
 那些通常只是 Bug 修复和进行一些小调整。
 请记住, Slimefun4 由整个社区维护, 不仅仅是由一个人或一群人维护。
 所以更新的频率非常不规律。
