@@ -22,4 +22,4 @@
 * [浆果汁](/Juices)
 * [金苹果汁](/Juices)
 
-*如果你在寻找更多的食物，请查看 Slimefun 附属插件[ExoticGarden](/Addons#official-addons)。*
+?> 如果你在寻找更多的食物，请查看 Slimefun 附属插件[ExoticGarden](/Addons#official-addons)。
