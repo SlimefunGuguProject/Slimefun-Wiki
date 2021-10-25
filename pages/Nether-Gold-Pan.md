@@ -21,8 +21,9 @@
 
 ## 自动化下界淘金盘 :id=automating-your-nether-gold-pan
 
-If you prefer to feed your Soul Sand to a machine, check out the [Automated Panning Machine](https://github.com/Slimefun/Slimefun4/wiki/Automated-Panning-Machine).<br>
-If you have electricity, you may also be interested in the [Electric Gold Pan](https://github.com/Slimefun/Slimefun4/wiki/Electric-Gold-Pan).
+如果你倾向于给机器提供灵魂沙，查看[自动淘金机](/Automated-Panning-Machine)。  
+如果你拥有电力，你可能也会对[电力淘金机](/Electric-Gold-Pan)感兴趣。
 
-## See also
-* [Gold Pan](https://github.com/Slimefun/Slimefun4/wiki/Gold-Pan)
+## 另请参见 :id=see-also
+
+* [淘金盘](/Gold-Pan)
