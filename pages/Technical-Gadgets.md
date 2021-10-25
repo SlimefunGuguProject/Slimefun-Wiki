@@ -2,7 +2,7 @@
 
 科技工具分类中包含了一系列在游玩 Slimefun 时有用的工具。
 
-## 目录
+## 内容 :id=table-of-contents
 
 * [电力喷气背包 - I-VII](/Jetpacks)
 * [降落伞](#parachute)
