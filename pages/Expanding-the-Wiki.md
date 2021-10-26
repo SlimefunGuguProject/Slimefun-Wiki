@@ -1,6 +1,9 @@
 # 扩充 Wiki :id=expanding-the-wiki
 
-如果你想帮助扩充官方 Wiki，请点击[这里](https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki)。  
+如果你想帮助扩充官方 Wiki，请点击[这里](https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki)。
+
+----
+
 如果你想帮助我们扩充本 Wiki，请阅读以下内容。
 
 你需要拥有一个 GitHub 账号并登录，才能继续接下来的所有步骤。  
