@@ -8,7 +8,7 @@
 
 ## 用途 :id=usage
 
-可以在[电力打粉机](/Electric-Ingot-Pulverizer)中将镁粉碎成[镁粉](/Magnesium-Dust)。 
+可以在[电力打粉机](/Electric-Ingot-Pulverizer)中将镁锭碎成[镁粉](/Magnesium-Dust)。 
 
 当前没有合成配方直接使用镁锭，但你可以了解一下相关的页面：
 
