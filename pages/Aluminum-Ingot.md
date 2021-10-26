@@ -8,7 +8,7 @@
 
 ## 用途 :id=usage
 
-可以在[电力打粉机](/Electric-Ingot-Pulverizer)中将铝粉碎成[铝粉](/Aluminum-Dust)。 
+可以在[电力打粉机](/Electric-Ingot-Pulverizer)中将铝锭碎成[铝粉](/Aluminum-Dust)。 
 
 铝锭被用于冶炼以下合金:
 

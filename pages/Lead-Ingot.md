@@ -8,7 +8,7 @@
 
 ## 用途 :id=usage
 
-可以在[电力打粉机](/Electric-Ingot-Pulverizer)中将铅粉碎成[铅粉](/Lead-Dust)。 
+可以在[电力打粉机](/Electric-Ingot-Pulverizer)中将铅锭碎成[铅粉](/Lead-Dust)。 
 
 铅锭被用于冶炼以下合金:
 
