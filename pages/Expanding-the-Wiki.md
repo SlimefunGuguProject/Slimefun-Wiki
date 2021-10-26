@@ -118,13 +118,15 @@
 * 如要使用官方 Wiki 中的图片，无需在本 Wiki 中上传
 
 选择或拖拽图片到指定区域，然后点击下方的`Commit changes`按钮来上传图片。
-现在，你可以在文档中插入你上传的图片了。使用以下内容来添加在本 Wiki 中上传的图片:
+现在，你可以在文档中插入你上传的图片了。
+
+我们推荐你使用jsDelivr的CDN来加载上传的图片，你可以使用以下内容来添加在本 Wiki 中上传的图片:
 
 ```markdown
 ![这里填写图片注释](https://cdn.jsdelivr.net/gh/ybw0014/Slimefun-Wiki@master/images/这里填写图片文件名)
 ```
 
-如需使用官方 Wiki 中的图片，添加以下内容至文档中。
+如需使用官方 Wiki 中的图片，添加以下内容至文档中:
 
 ```markdown
 ![这里填写图片注释](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/这里填写图片文件名)

@@ -13,8 +13,8 @@
 - [坏死颅骨](#necrotic-skull)
 - [来世精华](#essence-of-afterlife)
 - [人造潜影壳](#synthetic-shulker-shell)
-- [已损坏的刷怪笼](/broken-spawner)
-- [古代符文](/ancient-runes)
+- [已损坏的刷怪笼](/Broken-Spawner)
+- [古代符文](/Ancient-Runes)
 - [奇怪的下界粘液](#strange-nether-goo)
 
 ## 普通的物品 :id=simple-items
