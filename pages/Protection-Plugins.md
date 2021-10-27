@@ -1,22 +1,21 @@
-# Protection Plugins :id=protection-plugins
+# 保护插件 :id=protection-plugins
 
-!> 本页面暂未翻译
+Slimefun 支持许多现有的保护插件。  
+这将避免滥用 Slimefun 物品并影响到其他玩家。  
+本页面中列出了所有已经支持的保护插件，以及如何向 Slimefun 添加你的保护插件。
 
-Slimefun4 supports a lot of protection plugins out of the box.<br>
-This is done in order to prevent players from abusing Slimefun Items to grief other people.<br>
-This article contains a list of all supported protection plugins as well as instructions on how to add support for your plugin.
+## 支持的保护插件 :id=supported-protection-plugins
 
-## Supported Protection Plugins
-The following plugins are supported by default.<br>
-Plugins that support offline players will even provide support for Programmable Androids if the owner of that android is offline.<br>
-If a plugin does not support offline players, then your android will always require you to be online in order to function properly
+我们默认支持这些保护插件。  
+支持离线玩家的保护插件可以让机器人在拥有者不在线时也可以运作。  
+如果保护插件不支持离线玩家，机器人需要拥有着在线才能正常工作。
 
-:heavy_check_mark: = Full Support<br>
-:heavy_minus_sign: = Partial Support (e.g. only in unprotected regions)<br>
-:x: = No Support<br>
-N/A = Not applicable
+:heavy_check_mark: = 完全支持  
+:heavy_minus_sign: = 部分支持 (例如，仅在受保护的区域)  
+:x: = 不支持  
+N/A = 不可用
 
-| Plugin | Support for Players | Support for Offline Players | Support for PvP | Support for Entities
+| 插件 | 支持玩家 | 支持离线玩家 | 支持 PvP | 支持实体
 | ------------------ | :----: | :----: | :----: | :---: |
 | ASkyBlock | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: |
 | BentoBox | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -35,29 +34,25 @@ N/A = Not applicable
 | Towny | :heavy_check_mark: | :x: | :heavy_minus_sign: | :heavy_minus_sign: |
 | WorldGuard | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
-### You cannot see your protection plugin?
-Either the plugin offers no integration, support for it hasn't been added by the author of that plugin or it is actually supported.<br>
-A lot of plugins actually require WorldGuard or other plugins from the above list and use that plugin in the background.<br>
-If a plugin does not show up in this list, then please ask the author of that plugin if it uses another protection plugin in the background.
+### 没有看到你使用的保护插件? :id=you-cannot-see-your-protection-plugin
 
-If it does not, then feel free to link them this article as we will walk over how to add support later.
+这可能是因为该插件还没有对 Slimefun 提供支持，或依赖其他已经支持的保护插件。  
+有一部分插件需要 WorldGuard 或其他上述列表中已经列出的插件作为前置插件。  
+如果插件没有展示在列表中，请向插件作者询问是否使用了另外一个保护插件作为前置。
 
-## Supported Protection Loggers
-Slimefun4 also supports a few protection loggers.<br>
-These loggers can for example allow you to rollback certain actions, such as blocks destroyed in an unusual manner by Slimefun Items.<br>
-Here is a list of all plugins we support by default.
+如果没有，欢迎向作者发送本页面的链接，我们将在后面讲述如何添加保护插件的支持。
 
-| Plugin | Support for broken Blocks | Support for placed Blocks |
+## 支持的日志插件 :id=supported-protection-loggers
+
+Slimefun 同样支持部分日志插件。
+这些日志允许你追踪玩家的某些操作，例如不小心使用 Slimefun 物品破坏方块。  
+以下是我们支持的日志插件列表:
+
+| 插件 | 支持破坏方块 | 支持放置方块 |
 | ------------------ | :----: | :----: |
 | CoreProtect | :heavy_check_mark: | :heavy_check_mark: |
 | LogBlock | :heavy_check_mark: | :x: |
 
-## Adding Support for your protection plugin
-Protection Integration is handled in CS-CoreLib2 (https://github.com/TheBusyBiscuit/CS-CoreLib2).<br>
-To add support for your own plugin, all you have to do is make a Pull Request to that repository.<br>
-Here is what you need to do:
-1. Add your plugin as a dependency to the [pom.xml](https://github.com/TheBusyBiscuit/CS-CoreLib2/blob/master/pom.xml)
-2. Create a new class that extends [ProtectionModule.java](https://github.com/TheBusyBiscuit/CS-CoreLib2/blob/master/src/main/java/io/github/thebusybiscuit/cscorelib2/protection/ProtectionModule.java) and add it to the [modules - package](https://github.com/TheBusyBiscuit/CS-CoreLib2/tree/master/src/main/java/io/github/thebusybiscuit/cscorelib2/protection/modules)
-3. Override the required methods; make sure to distinguish between the different types of [ProtectableAction.java](https://github.com/TheBusyBiscuit/CS-CoreLib2/blob/master/src/main/java/io/github/thebusybiscuit/cscorelib2/protection/ProtectableAction.java); also consider to add support for offline players or make an instanceof-check if not.
-4. Load an instance of your class when your plugin loads in [ProtectionManager.java](https://github.com/TheBusyBiscuit/CS-CoreLib2/blob/master/src/main/java/io/github/thebusybiscuit/cscorelib2/protection/ProtectionManager.java)
-5. Submit a [Pull Request](https://github.com/TheBusyBiscuit/CS-CoreLib2/pulls) to CS-CoreLib2
+## 添加对你的保护插件的支持 :id=adding-support-for-your-protection-plugin
+
+该部分需要更新，请阅读过时的[原文](https://github.com/Slimefun/Slimefun4/wiki/Protection-Plugins#adding-support-for-your-protection-plugin)。
