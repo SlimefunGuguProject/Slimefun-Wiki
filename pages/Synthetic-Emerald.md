@@ -1,6 +1,6 @@
 # 人造绿宝石 :id=synthetic-emerald
 
-人造绿宝石是一种[资源](/Resources)，拥有与Minecraft原版绿宝石完全相同的功能。
+人造绿宝石是 Slimefun 中的一种[资源](/Resources)，拥有与Minecraft原版绿宝石完全相同的功能。
 
 ## 获取 :id=obtaining
 

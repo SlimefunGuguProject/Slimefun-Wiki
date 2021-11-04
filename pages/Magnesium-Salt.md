@@ -1,6 +1,6 @@
 # 镁盐 :id=magnesium-salt
 
-镁盐是一种[资源](/Resources)，可用于给[镁发电机](/Magnesium-powered-Generator)提供燃料。
+镁盐是 Slimefun 中的一种[资源](/Resources)，可用于给[镁发电机](/Magnesium-powered-Generator)提供燃料。
 
 ## 获取 :id=obtaining
 

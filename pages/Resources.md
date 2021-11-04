@@ -15,7 +15,7 @@
 * [黑金刚石原矿](/Carbonado)
 * [黑金刚石](/Carbonado)
 
-### 元素和化合物 :id=elements-and-compounds
+### 元素与化合物 :id=elements-and-compounds
 
 * [碳](/Carbon)
 * [压缩碳](/Carbon)
