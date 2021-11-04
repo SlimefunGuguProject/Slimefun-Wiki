@@ -16,7 +16,7 @@
   <script>
     window.$docsify = {
       name: 'Slimefun Wiki',
-      repo: 'ybw0014/Slimefun-Wiki', 
+      repo: 'GuizhanCraft/Slimefun-Wiki', 
       basePath: '/pages/',
       homepage: 'Home.md',
       auto2top: true,
@@ -36,6 +36,13 @@
       plugins: [
         function (hook, vm) {
           hook.beforeEach(function (html) {
+            // 官方页面链接 {{official_link}}
+            let officialUrl = "https://github.com/Slimefun/Slimefun4/wiki" + vm.route.path;
+            if (vm.route.query && vm.route.query.id) {
+              officialUrl += "#" + vm.route.query.id
+            }
+            html = html.replace("{{official_link}}", officialUrl)
+
             return (
               html +
               '\n\n----\n\n' +
