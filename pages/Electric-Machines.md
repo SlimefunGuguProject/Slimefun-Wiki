@@ -19,7 +19,8 @@
 ### 能源管理 :id=energy-management
 
 * [能源调节器](/Energy-Regulator)
-* [Energy Capacitors](/Energy-Capacitors)
+* [能源连接器](/Energy-Connector)
+* [电容](/Energy-Capacitors)
 * [万用表](/Multimeter)
 
 ### 发电机 :id=energy-generation
@@ -27,12 +28,10 @@
 * [太阳能发电机](/Solar-Generator)
 * [生物反应器](/Bio-Reactor)
 * [煤发电机](/Coal-Generator)
-* [Magnesium-powered Generator](/Magnesium-powered-Generator)
-* [Lava Generator](/Lava-Generator)
-* [Combustion Reactor](/Combustion-Reactor)
-* [Nuclear Reactor](/Nuclear-Reactor)
-* [Nether Star Reactor](/Nether-Star-Reactor)
-* [Reactor Access Port](/Reactor-Access-Port)
+* [镁发电机](/Magnesium-powered-Generator)
+* [岩浆发电机](/Lava-Generator)
+* [燃烧反应机](/Combustion-Reactor)
+* [反应堆](/Reactors)
 
 ### 电力机器 :id=machines
 
