@@ -48,7 +48,7 @@ Slimefun 的金锭不能替代原版金锭在原版合成台中使用（4克拉�
 12克拉的金锭用于以下物品的配方:
 
 * [金锭 (14克拉)](#gold-ingot-14-carat)
-* [金套装](/Armor#gold-armor)
+* [金套装](/Armor#gold-armor-set)
 
 ### 金锭 (14克拉) :id=gold-ingot-14-carat
 
