@@ -9,6 +9,6 @@
 ## 另请参见 :id=see-also
 
 * [灵魂绑定武器](/Soulbound-Weapons)
-* [灵魂绑定防具](/Soulbound-Armor)
-* [灵魂绑定背包](/Soulbound-Backpack)
-* [灵魂绑定符文](/Soulbound-Rune)
+* [灵魂绑定防具](/Magical-armor#soulbound-armor)
+* [灵魂绑定背包](/Backpacks)
+* [灵魂绑定符文](/Ancient-Runes#soulbound-rune)
