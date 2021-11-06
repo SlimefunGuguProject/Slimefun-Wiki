@@ -4,7 +4,7 @@
 
 ## 获取 :id=obtaining
 
-吸入磁铁可以在[魔法工作台](/Magic-Workbench)中制作。
+古代基座可以在[魔法工作台](/Magic-Workbench)中制作。
 
 ## 用途 :id=Usage
 
