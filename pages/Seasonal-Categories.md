@@ -7,6 +7,6 @@
 
 * [圣诞节限时分类](/Christmas-Seasonal-Category)
 * [情人节限时分类](/Valentines-Day-Seasonal-Category)
-* [复活节分类](/Easter-Seasonal-Category)
+* [复活节限时分类](/Easter-Seasonal-Category)
 * [生日限时分类](/Birthday-Seasonal-Category)
 * [万圣节限时分类](/Halloween-Seasonal-Category)
