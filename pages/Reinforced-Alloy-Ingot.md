@@ -37,7 +37,7 @@
 * [动物生长加速器](/Animal-Growth-Accelerator)
 * [食品堆肥机 II](/Food-Composter)
 * [碳压机 III](/Carbon-Press)
-* [凋零装配机](/Wither-Assembler)
+* [凋灵装配机](/Wither-Assembler)
 * [强化合金套装](/Armor#reinforced-armor-set)
 * [电力喷气背包 - VI](/Jetpacks)
 * [喷气靴](/Jet-Boots)

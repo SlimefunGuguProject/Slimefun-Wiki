@@ -20,8 +20,8 @@
 
 * [垃圾箱](/Trash-Can)
 * [物品输出箱](/Output-Chest)
-* [防凋零玻璃](/Wither-Proof-Blocks)
-* [防凋零黑曜石](/Wither-Proof-Blocks)
+* [防凋灵玻璃](/Wither-Proof-Blocks)
+* [防凋灵黑曜石](/Wither-Proof-Blocks)
 * [电动坩埚](/Electrified-Crucible)
 * [加热压力舱](/Heated-Pressure-Chamber)
 * [电力打粉机](/Electric-Ingot-Pulverizer)
