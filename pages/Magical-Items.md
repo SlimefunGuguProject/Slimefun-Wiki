@@ -37,7 +37,7 @@
 
 ### 坏死颅骨 :id=necrotic-skull
 
-此物品可以在[魔法工作台](/Magic-Workbench)中使用4个[魔法结晶 - III](/Lumps)与一个凋零骷髅头颅合成。
+此物品可以在[魔法工作台](/Magic-Workbench)中使用4个[魔法结晶 - III](/Lumps)与一个凋灵骷髅头颅合成。
 
 ### 来世精华 :id=essence-of-afterlife
 
