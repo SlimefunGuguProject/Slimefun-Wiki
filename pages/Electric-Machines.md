@@ -4,7 +4,7 @@
 
 能源与电力分类包含各种发电机、用电机器或传输电力的装置。我们使用焦耳(**J**)作为电力/能源单位。该分类同样包括[可编程式机器人](/Androids)，它们可以被编程来完成一系列任务。
 
-在使用发电机为你的机器提供电力前，一个能源网络需要一个[能源调节器](/Energy-Regulator)。如果没有它，能源将无法在机器间传输。
+在使用发电机为你的机器提供电力前，一个能源网络(电力网络)需要一个[能源调节器](/Energy-Regulator)。如果没有它，能源将无法在机器间传输。
 
 你会使用到[电容](/Energy-Capacitors)，它们可以储存电力，并扩展能源网络的范围。
 
@@ -21,7 +21,7 @@
 * [能源调节器](/Energy-Regulator)
 * [能源连接器](/Energy-Connector)
 * [电容](/Energy-Capacitors)
-* [万用表](/Multimeter)
+* [万用表](/Technical-Gadgets#multimeter)
 
 ### 发电机 :id=energy-generation
 
