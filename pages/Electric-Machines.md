@@ -21,7 +21,7 @@
 * [能源调节器](/Energy-Regulator)
 * [能源连接器](/Energy-Connector)
 * [电容](/Energy-Capacitors)
-* [万用表](/Multimeter)
+* [万用表](/Technical-Gadgets#multimeter)
 
 ### 发电机 :id=energy-generation
 
