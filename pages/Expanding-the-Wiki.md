@@ -171,7 +171,7 @@
 
 ## 步骤5: 对 Pull request 进行更改 :id=step-5-making-changes-to-your-pull-request
 
-如果你已经提交了 Pull request，但你仍想更改一些文件，你可以重复[步骤2](step-2-making-your-changes)。
+如果你已经提交了 Pull request，但你仍想更改一些文件，你可以重复[步骤2](#step-2-making-your-changes)。
 
 你做出的更改将会自动更新至 Pull request，直到其被合并或关闭。
 
