@@ -28,6 +28,7 @@
     - [科技工具](/Technical-Gadgets)
     - [能源与电力](/Electric-Machines)
     - [GPS](/GPS)
+    - [可编程式机器人](/Androids)
     - [货运管理](/Cargo-Management)
     - [节日物品](/Seasonal-Categories)
 - 附属插件的非官方Wiki
