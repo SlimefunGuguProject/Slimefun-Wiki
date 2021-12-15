@@ -1,6 +1,6 @@
 # 台锯 :id=table-saw
 
-台锯 (Table Saw) 是一种非常好用的[基础机器](/Basic-Machines)。它是多方块结构。
+台锯 (Table Saw) 是一种非常好用的[基础机器](/Basic-Machines)。它是多方块结构。
 
 你可以使用它将原木转换为8个木板，而不是像原版工作台那样只能转换为4个。
 
@@ -10,7 +10,7 @@
 
 台锯的建造方法可以在 Slimefun 指南中找到。这是台锯的完整构造：
 
-![建造台锯](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-table-saw.png)
+![建造台锯](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-table-saw.png ':size=50%')
 
 你可以在发射器旁放置一个[物品输出箱](/Output-Chest)来收集产物。如果没有[物品输出箱](/Output-Chest)，产物将保留在发射器中。
 

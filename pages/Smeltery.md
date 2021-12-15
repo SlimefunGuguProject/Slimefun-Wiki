@@ -12,7 +12,7 @@
 
 冶炼炉的建造方法可以在 Slimefun 指南中找到。这是冶炼炉的完整构造：
 
-![建造冶炼炉](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-smeltery.png)
+![建造冶炼炉](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-smeltery.png ':size=50%')
 
 你可以在发射器旁放置一个[物品输出箱](/Output-Chest)来收集产物。如果没有[物品输出箱](/Output-Chest)，产物将保留在发射器中。
 

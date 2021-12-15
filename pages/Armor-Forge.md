@@ -1,6 +1,6 @@
 # 盔甲锻造台 :id=armor-forge
 
-盔甲锻造台 (Armor Forge) 是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
+盔甲锻造台 (Armor Forge) 是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
 
 ## 建造 :id=obtaining
 
@@ -10,7 +10,7 @@
 
 一个完整的盔甲锻造台看起来像这样:
 
-![建造盔甲锻造台](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-armor-forge.png)
+![建造盔甲锻造台](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-armor-forge.png ':size=50%')
 
 你可以在发射器旁放置一个[物品输出箱](/Output-Chest)来收集产物。如果没有[物品输出箱](/Output-Chest)，产物将保留在发射器中。
 
