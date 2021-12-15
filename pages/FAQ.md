@@ -1,4 +1,4 @@
-# 常见问题 (FAQ) :id=faq
+# FAQ :id=faq
 
 <details>
 <summary>目录</summary>
@@ -62,11 +62,11 @@ Slimefun 在 Minecraft 1.5 及以上的每个版本都可用。所以，你可�
 
 ## 护身符与末影护身符有什么区别? :id=whats-the-difference-between-the-talisman-and-ender-talisman
 
-末影护身符在末影箱中时也会生效。但普通的[护身符](/Talismans)需要你将其放在玩家背包中。
+末影护身符会在末影箱中时生效，普通的[护身符](/Talismans)需要你将其放在物品栏中。
 
 ## 护身符可以堆叠吗? :id=can-you-stack-talismans
 
-护身符物品是可以堆叠的，但多个护身符并不会增强它们的效果。<br>
+护身符物品是可以堆叠的，但多个护身符并不会增强它们的效果。  
 然而，某些护身符在你使用后会消失，所以有多个护身符可以延长使用的时间。
 
 ## 我可以拿石块做什么? :id=what-can-i-do-with-stone-chunks
