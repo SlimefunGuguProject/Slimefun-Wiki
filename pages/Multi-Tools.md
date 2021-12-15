@@ -3,7 +3,7 @@
 多功能工具是一种[科技工具](/Technical-Gadgets)。需要在[充电台](/Charging-Bench)中充电后才能使用。
 
 右键点击以使用，Shift + 右键点击以切换模式。  
-每次使用都会消耗0.3 J存储的能量。
+每次使用都会消耗 0.3 J 存储的能量。
 
 ### 模式 :id=the-multi-tool-has-4-modes
 
