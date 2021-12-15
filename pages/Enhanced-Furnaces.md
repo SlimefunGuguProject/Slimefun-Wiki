@@ -1,6 +1,6 @@
 # 强化熔炉 :id=enhanced-furnaces
 
-强化熔炉是 Slimefun 的[基础机器](/Basic-Machines)之一。
+强化熔炉是 Slimefun 的[基础机器](/Basic-Machines)之一。
 
 它们与原版熔炉功能相同，但有更快的燃烧速度、燃料效率，与更多的产物。
 

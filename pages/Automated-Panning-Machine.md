@@ -1,6 +1,6 @@
 # 自动淘金机 :id=automated-panning-machine
 
-自动淘金机是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
+自动淘金机是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
 
 它是[淘金盘](/Gold-Pan)与[下界淘金盘](/Nether-Gold-Pan)的自动化版本。
 
@@ -10,7 +10,7 @@
 
 一个完整的自动淘金机看起来像这样:
 
-![建造自动淘金机](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-automated-panning-machine.png)
+![建造自动淘金机](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-automated-panning-machine.png ':size=50%')
 
 你可以在发射器旁放置一个[物品输出箱](/Output-Chest)来收集产物。如果没有[物品输出箱](/Output-Chest)，产物将保留在发射器中。
 

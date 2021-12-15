@@ -1,6 +1,6 @@
 # 方块放置机 :id=block-placer
 
-方块放置机是 Slimefun 的[基础机器](/Basic-Machines)之一。它是一个可合成的物品，用来将其中的方块放置出来。
+方块放置机是 Slimefun 的[基础机器](/Basic-Machines)之一。它是一个可合成的物品，用来将其中的方块放置出来。
 
 ## 建造 :id=obtaining
 
