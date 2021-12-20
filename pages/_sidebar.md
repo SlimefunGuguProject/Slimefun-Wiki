@@ -6,7 +6,7 @@
     - [如何反馈 Bug](/How-to-report-bugs)
     - [帮我们扩充 Wiki!](/Expanding-the-Wiki)
     - [帮我们翻译 Slimefun!](/Translating-Slimefun)
-    - [常见问题 (FAQ)](/FAQ)
+    - [FAQ](/FAQ)
 - 其他插件
     - [Slimefun4 附属插件列表](/Addons)
     - [编写自己的附属插件](/Developer-Guide)

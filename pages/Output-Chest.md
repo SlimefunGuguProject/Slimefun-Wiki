@@ -1,6 +1,6 @@
 # 物品输出箱 :id=output-chest
 
-物品输出箱是 Slimefun 的[基础机器](/Basic-Machines)之一。
+物品输出箱是 Slimefun 的[基础机器](/Basic-Machines)之一。
 
 它是一个箱子。当它被放置在基础机器的发射器旁边时，它会收集任何该基础机器制造出的物品。
 

@@ -1,6 +1,6 @@
 # 坩埚 :id=crucible
 
-坩埚 (Crucible) 是 Slimefun 的[基础机器](/Basic-Machines)之一。
+坩埚 (Crucible) 是 Slimefun 的[基础机器](/Basic-Machines)之一。
 
 它可以把物品转换为液体(水/岩浆)。
 

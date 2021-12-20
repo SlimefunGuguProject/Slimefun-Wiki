@@ -1,6 +1,6 @@
 # 魔法工作台 :id=magic-workbench
 
-魔法工作台 (Magic Workbench) 是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
+魔法工作台 (Magic Workbench) 是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
 
 ## 建造 :id=obtaining
 
@@ -8,7 +8,7 @@
 
 一个完整的魔法工作台看起来像这样:
 
-![建造魔法工作台](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-magic-workbench.png)
+![建造魔法工作台](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-magic-workbench.png ':size=50%')
 
 你可以在发射器旁放置一个[物品输出箱](/Output-Chest)来收集合成的物品。
 

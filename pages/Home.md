@@ -13,7 +13,7 @@
 - [权限](/Permissions) & [指令](/Commands)
 - [帮我们扩充 Wiki!](/Expanding-the-Wiki)
 - [帮我们翻译 Slimefun!](/Translating-Slimefun)
-- [常见问题 (FAQ)](/FAQ)
+- [FAQ](/FAQ)
 - [常见问题](/Common-Issues)
 - [编写自己的附属插件](/Developer-Guide)
 

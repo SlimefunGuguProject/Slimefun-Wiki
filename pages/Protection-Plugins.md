@@ -55,4 +55,4 @@ Slimefun 同样支持部分日志插件。
 
 ## 添加对你的保护插件的支持 :id=adding-support-for-your-protection-plugin
 
-该部分需要更新，请阅读过时的[原文](https://github.com/Slimefun/Slimefun4/wiki/Protection-Plugins#adding-support-for-your-protection-plugin)。
+请阅读[原文](https://github.com/Slimefun/Slimefun4/wiki/Protection-Plugins#adding-support-for-your-protection-plugin)。

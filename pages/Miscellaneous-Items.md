@@ -6,11 +6,11 @@
 
 * [筛矿](/Sifted-Ore)
 * 小麦粉
-* [钢板](/Steel-Plate)
-* [锁链](/Chain)
-* [钩子](/Hook)
+* 钢板
+* 锁链
+* 钩子
 * [石块](/FAQ#what-can-i-do-with-stone-chunks)
-* [盐](/Salt)
+* 盐
 * 浓奶油
 * 黄油
 * 奶酪
@@ -20,8 +20,8 @@
 * [一小堆铀](/Small-Chunk-of-Uranium)
 * [一小块铀](/Small-Chunk-of-Uranium)
 * 布
-* [锡罐](/Tin-Can)
-* [金块(24克拉)](/Gold-Block)
-* [钢筋板](/Reinforced-Plate)
-* [强力胶布](/Duct-Tape)
+* 锡罐
+* 金块(24克拉)
+* 钢筋板
+* [强力胶布](/Auto-Anvil)
 * [有机食物](/Food-Fabricator)

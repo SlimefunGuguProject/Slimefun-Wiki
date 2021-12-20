@@ -1,6 +1,6 @@
 # 压力机 :id=pressure-chamber
 
-压力机 (Pressure Chamber) 是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
+压力机 (Pressure Chamber) 是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
 
 ## 建造 :id=obtaining
 
@@ -8,7 +8,7 @@
 
 一个完整的压力机看起来像这样:
 
-![建造压力机](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-pressure-chamber.png)
+![建造压力机](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-pressure-chamber.png ':size=50%')
 
 你可以在发射器旁放置一个[物品输出箱](/Output-Chest)来收集产物。如果没有[物品输出箱](/Output-Chest)，产物将保留在发射器中。
 

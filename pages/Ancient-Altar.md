@@ -15,7 +15,7 @@
 
 一个完整的古代祭坛看起来像这样:
 
-![建造古代祭坛](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-ancient-altar.png)
+![建造古代祭坛](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-ancient-altar.png ':size=50%')
 
 要开始合成过程或"仪式"，配方中的所有物品都必须通过右键点击放置在对应位置的古代基座上。  
 配方中心的物品被称为催化剂，在放置完所有其他物品后，右键点击中心的古代祭坛来开始合成过程。
