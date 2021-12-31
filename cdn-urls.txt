@@ -1,0 +1,7 @@
+https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css
+https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js
+https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js
+https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js
+https://cdn.jsdelivr.net/npm/docsify-edit-on-github@1.0.3/index.min.js
+https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-markdown.min.js
+https://cdn.jsdelivr.net/npm/docsify-copy-code@2.1.1/dist/docsify-copy-code.min.js
