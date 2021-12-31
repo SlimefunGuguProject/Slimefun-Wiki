@@ -3,7 +3,6 @@
     "config:base"
   ],
   "ignorePaths": [
-    "freecdn-internal/**",
-    "jslib/**"
+    "freecdn-internal/**"
   ]
 }
