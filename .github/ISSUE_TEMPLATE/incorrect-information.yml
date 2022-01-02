@@ -21,7 +21,7 @@ body:
       description: |
         请提供错误信息出现的页面地址以及详情。
         页面地址为地址栏中`#`后的内容，例如：
-        *https://slimefun.guizhanss.wiki/#/Enhanced-Crafting-Table*的页面地址仅需填写`Enhanced-Crafting-Table`即可。
+        https://slimefun.guizhanss.wiki/#/Enhanced-Crafting-Table 的页面地址仅需填写 `Enhanced-Crafting-Table` 即可。
         请尽量详细的描述问题。
       placeholder: |
         [...] 页面中的 [...] 应该是 [...]。
