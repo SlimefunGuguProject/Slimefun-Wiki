@@ -34,4 +34,5 @@
 - 附属插件的非官方Wiki
     - [异域花园 ExoticGarden](https://exoticgarden.guizhanss.wiki/)
     - [粘液匠魂 SlimeTinker](https://slimetinker.guizhanss.wiki/)
+    - [无尽科技 InfinityExpansion](https://infinityexpansion.guizhanss.wiki)
     

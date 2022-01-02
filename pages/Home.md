@@ -51,3 +51,4 @@ Slimefun 还有个 Discord 服务器，你可以在这里提出建议、讨论�
 
 - [异域花园 ExoticGarden](https://exoticgarden.guizhanss.wiki/)
 - [粘液匠魂 SlimeTinker](https://slimetinker.guizhanss.wiki/)
+- [无尽科技 InfinityExpansion](https://infinityexpansion.guizhanss.wiki)
