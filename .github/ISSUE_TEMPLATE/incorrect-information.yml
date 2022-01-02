@@ -1,0 +1,27 @@
+name: 错误信息
+description: 反馈 Wiki 中错误/过时的信息
+labels: ['incorrect information | 错误信息']
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 欢迎来到 Slimefun Wiki 问题追踪器
+        你正在反馈 Wiki 中错误/过时的信息。这些信息通常是由于版本更新或作者疏忽而导致的。
+        你可以在阅读[如何扩充Wiki](https://slimefun.guizhanss.wiki/#/Expanding-the-Wiki)后，帮助我们修正这些信息。
+
+        <strong><i>你必须填写标注为星号（*）的表单项</i></strong>
+
+  - id: description
+    type: textarea
+    validations:
+      required: true
+    attributes:
+      label: '问题描述'
+      description: |
+        请提供错误信息出现的页面地址以及详情。
+        页面地址为地址栏中`#`后的内容，例如：
+        *https://slimefun.guizhanss.wiki/#/Enhanced-Crafting-Table*的页面地址仅需填写`Enhanced-Crafting-Table`即可。
+        请尽量详细的描述问题。
+      placeholder: |
+        [...] 页面中的 [...] 应该是 [...]。
