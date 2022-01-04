@@ -12,6 +12,8 @@
 
 ## 目录 :id=table-of-contents
 
+### 货运网络 :id=cargo-network
+
 * [货运马达](/Cargo-Motor)
 * [货运管理器](/Cargo-Manager)
 * [货运节点(连接器)](/Connector-Node)
@@ -19,3 +21,11 @@
 * [货运节点(输出)](/Output-Node)
 * [高级货运节点(输出)](/Advanced-Output-Node)
 * [垃圾箱](/Trash-Can)
+
+### 自动合成机 :id=auto-crafter
+
+* [合成机马达](/Crafting-Motor)
+* [自动合成机(原版)](/Auto-Crafter)
+* [自动合成机(高级)](/Auto-Crafter)
+* [自动合成机(盔甲锻造)](/Auto-Crafter)
+* [合成机智能交互接口](/Crafter-Smart-Port)
