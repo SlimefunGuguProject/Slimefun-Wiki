@@ -1,5 +1,11 @@
 # 主页 :id=home
 
+> 
+> 本 Wiki 新增已备案部署地址，目前可通过以下两个地址访问，访问速度几乎没有差别：
+> - [https://slimefun.guizhanss.wiki/](https://slimefun.guizhanss.wiki/)
+> - [https://slimefun-wiki.guizhanss.cn/](https://slimefun-wiki.guizhanss.cn/)
+> 
+
 欢迎来到 Slimefun4 的非官方中文 Wiki! 本 Wiki 由[ybw0014](https://github.com/ybw0014)维护。
 
 本 Wiki 的物品名称将使用内核汉化版 Slimefun4 ([了解详情](/Installing-Slimefun?id=slimefun-4-cn-downloads)) 中的物品名称。
