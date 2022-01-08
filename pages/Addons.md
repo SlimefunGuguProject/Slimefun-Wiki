@@ -1,6 +1,5 @@
 # 附属插件 :id=addons
 
-!> 本页面暂未翻译完成
 
 想要给你的 Slimefun 服务器加点料吗? 那么你来对地方了。
 
@@ -62,7 +61,7 @@ HardcoreSlimefun 硬核粘液 | Walshy, TheBusyBiscuit | <details><summary>展�
 --- | --- | --- | ------- | ----- | -- |
 SoundMuffler 消音器| J3fftw1 | <details><summary>展开</summary>它添加一个消音机器，可以消除周围的声音</details> | N/A | [官方版](https://github.com/Slimefun-Addon-Community/SoundMuffler) /[汉化版](https://github.com/baoad/SoundMuffler) | [官方版](https://thebusybiscuit.github.io/builds/J3fftw1/SoundMuffler/master/) / [汉化版自行构建]
 ClayTech (RC-26)粘土科技 | ClayCoffee | <details><summary>展开</summary>（国产）该附属添加了一些武器、护甲、装饰、机器，以及一些食物与饮料。同样添加了可以增强原版生存体验的物品，比如高速铁轨。</details> | N/A | [官方旧版](https://github.com/ClayCoffee/ClayTech) / [代理方新版](https://github.com/Xzavier0722/ClayTech) | [官方旧版](https://github.com/ClayCoffee/ClayTech/releases) / [代理方新版](https://github.com/Xzavier0722/ClayTech/releases)
-ExtraTools 额外工具| Sfiguz | <details><summary>展开</summary>额外工具添加了更多实用机器，如混凝土机、电力堆肥桶等</details> | N/A | [官方版(https://github.com/Sfiguz7/ExtraTools) / [汉化版](https://github.com/baoad/ExtraTools) | [官方版](https://thebusybiscuit.github.io/builds/Sfiguz7/ExtraTools/master/) / [汉化版自行构建]
+ExtraTools 额外工具| Sfiguz | <details><summary>展开</summary>额外工具添加了更多实用机器，如混凝土机、电力堆肥桶等</details> | N/A | [官方版](https://github.com/Sfiguz7/ExtraTools) / [汉化版](https://github.com/baoad/ExtraTools) | [官方版](https://thebusybiscuit.github.io/builds/Sfiguz7/ExtraTools/master/) / [汉化版自行构建]
 TranscEndence 末地科技| Sfiguz | <details><summary>展开</summary>这是2020 Slimefun Addon Jam的胜出作品，它的加入，使末地变得更加多姿多彩</details> | N/A | [官方版](https://github.com/Sfiguz7/TranscEndence) / [汉化版](https://github.com/baoad/TranscEndence) | [官方版](https://thebusybiscuit.github.io/builds/Sfiguz7/TranscEndence/master/) /[汉化版自行构建]
 SFCalc SF计数器| Seggan | <details><summary>展开</summary>该附属可以快速的计算粘液科技机器的材料，并告知于你</details> | N/A | [官方版](https://github.com/Seggan/SFCalc) | [官方版](https://thebusybiscuit.github.io/builds/Seggan/SFCalc/master/)
 MoreTools 更多工具| LinoxGH | <details><summary>展开</summary>它添加了粘液货运工具，使货运拆卸配置变得更加便捷</details> | N/A | [官方版](https://github.com/LinoxGH/MoreTools) / [汉化版](https://github.com/LobbyTech-MC/MoreTools) | [官方版](https://thebusybiscuit.github.io/builds/LinoxGH/MoreTools/build/) / [汉化版自行构建]
