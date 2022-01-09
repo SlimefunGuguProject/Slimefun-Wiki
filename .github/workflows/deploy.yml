@@ -1,0 +1,25 @@
+name: Deployment
+
+on:
+  workflow_dispatch: {}
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    if: startsWith(github.event.head_commit.message, '[CI skip]') == false
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@master
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          publish_branch: deploy
+          user_name: 'GuizhanBot'
+          user_email: ${{ secrets.BOT_EMAIL }}
