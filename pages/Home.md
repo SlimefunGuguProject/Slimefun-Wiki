@@ -51,6 +51,10 @@ Slimefun 还有个 Discord 服务器，你可以在这里提出建议、讨论�
 
 [https://discord.gg/slimefun](https://discord.gg/slimefun)
 
+## QQ 交流群 :id=qq-group
+
+欢迎加入 Slimefun 汉化版QQ交流群: [807302496](https://jq.qq.com/?_wv=1027&k=ESbsepYt)
+
 ## 一些附属插件的非官方 Wiki :id=addons-wiki
 
 这里有一些附属插件的非官方 Wiki:
