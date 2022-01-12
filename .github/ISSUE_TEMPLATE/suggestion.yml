@@ -1,0 +1,23 @@
+name: 功能建议
+description: 希望 Wiki 可以改进的地方/新增的功能
+labels: ['suggestion | 建议']
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 欢迎来到 Slimefun Wiki 问题追踪器
+        你向 Wiki 提出建议，这包括 Wiki 需要改进的地方，或者可以新增的功能。
+
+        <strong><i>你必须填写标注为星号（*）的表单项</i></strong>
+
+  - id: description
+    type: textarea
+    validations:
+      required: true
+    attributes:
+      label: '建议'
+      description: |
+        请尽可能详细地描述你的建议。
+      placeholder: |
+        我建议 [...]。
