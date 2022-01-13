@@ -39,6 +39,7 @@
 * [自动烘干机](/Auto-Drier)
 * [自动附魔机](/Auto-Enchanter)
 * [自动喂食机](/Auto-Breeder)
+* [附魔书整合机](/Book-Binder)
 * [碳压机](/Carbon-Press)
 * [充电台](/Charging-Bench)
 * [作物生长加速器](/Crop-Growth-Accelerator)
