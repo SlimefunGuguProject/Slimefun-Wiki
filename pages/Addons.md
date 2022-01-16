@@ -161,7 +161,7 @@ SlimeRP (RC-26) 现代工厂 | SkyCraft78 | <details><summary>展开</summary>�
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
-InfinityExpansion-changed (RC-27)无尽改版 | No.39 希望皇 彼端超霍普 | <details><summary>展开</summary>这是一个改版无尽，具体内容详见Readme</details> | [改版介绍](https://github.com/haiman233/InfinityExpansion-changed-CN/blob/v1.0/README.md) | [改版](https://github.com/haiman233/InfinityExpansion-changed-CN/tree/v1.0) | [改版](https://github.com/haiman233/InfinityExpansion-changed-CN/releases/tag/v1.0)
+InfinityExpansion-changed (RC-27) 无尽改版 | No.39 希望皇 彼端超霍普 | <details><summary>展开</summary>这是一个改版无尽，具体内容详见Readme</details> | [改版介绍](https://github.com/haiman233/InfinityExpansion-changed-CN/blob/v1.0/README.md) | [改版](https://github.com/haiman233/InfinityExpansion-changed-CN/tree/v1.0) | [改版](https://github.com/haiman233/InfinityExpansion-changed-CN/releases/tag/v1.0)
 SCrafter (RC-27)SC科技 | zimzaza4 | <details><summary>展开</summary>内测附属，当前仅在西西里服务器和魔芋服务器实装</details> | N/A | N/A | N/A
 FinalTech (RC-27)Final科技 | Final_ROOT | <details><summary>展开</summary>内测附属，当前仅在魔芋服务器实装</details> | N/A | N/A | N/A
 
