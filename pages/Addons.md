@@ -10,6 +10,7 @@
 
 附属插件的简中汉化由以下用户提供: [@baoad](https://github.com/baoad), [@haiman233](https://github.com/haiman233), [@ybw0014](https://github.com/ybw0014)  
 附属插件的繁中汉化由繁中汉化组提供: [@SlimeTraditionalTranslation](https://github.com/SlimeTraditionalTranslation)
+
 如果你需要安装粘液科技材质包，请详见:[鬼斩材质包](https://ybw0014.net/post/guizhancraft-resource-pack)
 
 ### 目录 :id=table-of-contents
@@ -179,8 +180,11 @@ EquivalencyTech 等价交换| Sefiraat | <details><summary>展开</summary>受�
 ## :trophy: Addon Jams :id=addon-jams
 
 在2020年，我们在Discord服务器中举办了第一届 **Slimefun Addon Jam**。
+
 我们希望该竞赛可以持续举办。该竞赛的基本内容如下：
+
 在竞赛开始时，我们会公布一个主题，然后，每位参与竞赛的开发者将会在有限的时间内根据该主题从头开发一个附属插件。
+
 当竞赛结束后，我们会审核所有的提交。我们会对参赛附属进行评分，并向获得最高分附属的开发者颁发奖励。
 
 以下是我们已经举办过的竞赛列表:
