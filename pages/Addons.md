@@ -11,6 +11,8 @@
 附属插件的简中汉化由以下用户提供: [@baoad](https://github.com/baoad), [@haiman233](https://github.com/haiman233), [@ybw0014](https://github.com/ybw0014)  
 附属插件的繁中汉化由繁中汉化组提供: [@SlimeTraditionalTranslation](https://github.com/SlimeTraditionalTranslation)
 
+如果你需要安装粘液科技材质包，请详见:[鬼斩材质包](https://ybw0014.net/post/guizhancraft-resource-pack)
+
 ### 目录 :id=table-of-contents
 
 - [:star: 官方附属插件](#official-addons)
@@ -23,7 +25,7 @@
 
 这些附属插件是由 Slimefun 的活跃成员高度结合 Slimefun 开发的。
 
-我们在[Discord服务器](https://discord.gg/slimefun)也对这些插件提供支持。
+我们在[Discord服务器](https://discord.gg/slimefun) 也对这些插件提供支持。
 
 名称 | 作者 | 介绍 | 源代码 | 下载
 ------------- | --------- | ----------------------------------------------- | --------- | --------- |
@@ -47,15 +49,15 @@ HardcoreSlimefun 硬核粘液 | Walshy, TheBusyBiscuit | <details><summary>展�
 
 ## :heart: 社区附属插件 :id=community-addons
 
-这些附属插件由我们的社区成员开发。
+这些附属插件由我们的社区成员开发；
 
-在官方Discord服务器中，我们不提供任何支持。
+在官方Discord服务器中，我们不提供任何支持；
 
-我们不保证这些附属可以正常运行，某些附属可能已过期或有问题。我们不对这些附属的内容负责。
+我们不保证这些附属可以正常运行，某些附属可能已过期或有问题，我们不对这些附属的内容负责；
 
 如果你遇到了问题，请向对应的开发者汇报，而不是我们。
 
-如果您想帮助我们汉化，请将您的汉化附属github链接发至中文Slimefun wiki的issue里，我们将及时进行补充
+如果您想帮助我们汉化，请将您的汉化附属github链接发至中文Slimefun wiki的issue里，我们将及时进行补充。
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
@@ -91,21 +93,25 @@ DankTech2 丹克科技2 | Sefiraat | <details><summary>展开</summary>受丹克
 Networks 网络 | Sefiraat | <details><summary>展开</summary>网络是一个附属插件,致力于提供直接且强大的AE2类型的存储方案。该附属插件可以与货运系统联动以接入现有的自动化基地。</details> | N/A | [官方版](https://github.com/Sefiraat/Networks) / [汉化版](https://github.com/ybw0014/Networks-CN) | [官方版](https://thebusybiscuit.github.io/builds/Sefiraat/Networks/master/) / [汉化版](https://builds.guizhanss.net/ybw0014/Networks-CN/master)
 SfChunkInfo 区块信息 | FN_FAL113 | <details><summary>展开</summary>使用一个简单的指令扫描区块中Slimefun方块的数量</details> | [官方版说明](https://github.com/FN-FAL113/SfChunkInfo/blob/main/README.md) / [汉化版说明](https://github.com/ybw0014/SfChunkInfo-CN/blob/main/README.md) | [官方版](https://github.com/FN-FAL113/SfChunkInfo) / [汉化版](https://github.com/ybw0014/SfChunkInfo-CN) | [官方版](https://github.com/FN-FAL113/SfChunkInfo/releases) / [汉化版](https://builds.guizhanss.net/ybw0014/SfChunkInfo-CN/main)
 
-以下附属不在官方粘液附属界面里
+以下附属不在官方粘液附属界面里；
 
-有些附属可能不再更新，请自行选择性使用
+有些附属可能不再更新，请自行选择性使用。
 
 本表由 [@haiman233](https://github.com/haiman233) 整理、收录，适用粘液版本会标在名称后
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
+LuckyPandas (RC-27) 幸运熊猫 | J3fftw1 | <details><summary>展开</summary>一种幸运方块的升级版，添加了熊猫幸运方块</details> | [官方版说明](https://github.com/J3fftw1/LuckyPandas/blob/master/README.md) / [汉化版说明](https://github.com/SlimeTraditionalTranslation/LuckyPandas/blob/main/README.md) | [官方版](https://github.com/J3fftw1/LuckyPandas) / [汉化版](https://github.com/SlimeTraditionalTranslation/LuckyPandas) | [官方版](https://thebusybiscuit.github.io/builds/J3fftw1/LuckyPandas/master/) / [汉化版](https://xmikux.github.io/builds/SlimeTraditionalTranslation/LuckyPandas/master/)
+SlimeGlue 粘液胶 | Xzavier0722 | <details><summary>展开</summary>如果您发现任何不兼容的插件或功能，请在本仓库提交issue</details> | N/A | [官方版](https://github.com/Xzavier0722/SlimeGlue) | N/A
+RandomExpansion (RC-27) 随机扩展 | lucasGithuber | <details><summary>展开</summary>这是一个新附属，介绍待补充</details> | N/A | [官方版](https://github.com/lucasGithuber/RandomExpansion) | 官方版自行构建
+PhoenixSciences (RC-27) 凤凰科学 | Vena-Cava | <details><summary>展开</summary>这是一个新附属，介绍待补充</details> | N/A | [官方版](https://github.com/Vena-Cava/PhoenixSciences) | 官方版自行构建
 Dark-Matter (RC-27) 夜魅 | SurrealArts | <details><summary>展开</summary>这是一个新附属，介绍待补充</details> | N/A | [官方版](https://github.com/SurrealArts/Dark-Matter) | 官方版自行构建
 SlimefunRecipeManager (RC-27) 粘液配方修改器 | qwertyuioplkjhgfd | <details><summary>展开</summary>你可以通过该插件修改粘液科技原版配方</details> | N/A | [官方版](https://github.com/qwertyuioplkjhgfd/SlimefunRecipeManager) | [官方版](https://github.com/qwertyuioplkjhgfd/SlimefunRecipeManager/releases)
 GeneticManipulation (RC-27) 遗传学基因 | Seggan | <details><summary>展开</summary>它添加了生物DNA等物品</details> | N/A | [官方版](https://github.com/Seggan/GeneticManipulation) | 官方版自行构建
 Ex-Limus (RC-27) 新手工具 | TerslenK | <details><summary>展开</summary>它添加一些新手工具</details> | N/A | [官方版](https://github.com/TerslenK/Ex-Limus) / [汉化版](https://github.com/haiman233/Ex-Limus-CN) | 汉化版自行构建
 VoidHarvesters (RC-27) 虚空创世神 | NCBPFluffyBear, Rene98, F1r3Ston3 | <details><summary>展开</summary>它添加一些可以远程破坏方块，收获作物的机器</details> | N/A | [官方版](https://github.com/NCBPFluffyBear/VoidHarvesters) / [汉化版](https://github.com/haiman233/VoidHarvesters-CN) | 汉化版自行构建
 MoneyAndThings (RC-27) 固态货币 | cullendoran | <details><summary>展开</summary>它添加了硬币</details> | N/A | [官方版](https://github.com/cullendoran/Money-and-Things-SLIMEFUN) / [汉化版](https://github.com/haiman233/Money-and-Things-SLIMEFUN) | 汉化版自行构建
-SSB 英(RC-27)中(RC-26) 更多日用物品 | NCBPFluffyBear| <details><summary>展开</summary>它添加更多实用的方块、道具，如防凋灵菌光体、高级浇水壶等</details> | N/A | [官方版](https://github.com/NCBPFluffyBear/SupplementalServiceableness) / [汉化版](https://github.com/haiman233/SupplementalServiceableness) | [汉化版](https://github.com/haiman233/SupplementalServiceableness/releases)
+SupplementalServiceableness 英(RC-27)中(RC-26) 更多日用物品 | NCBPFluffyBear| <details><summary>展开</summary>它添加更多实用的方块、道具，如防凋灵菌光体、高级浇水壶等</details> | N/A | [官方版](https://github.com/NCBPFluffyBear/SupplementalServiceableness) / [汉化版](https://github.com/haiman233/SupplementalServiceableness) | [汉化版](https://github.com/haiman233/SupplementalServiceableness/releases)
 SlimefunNukes (RC-27) 自定义核弹 | aurgiyalgo| <details><summary>展开</summary>通过这个附属，你可以自定义核弹，包括它的威力、解锁需求、配方等</details> | N/A | [官方版](https://github.com/aurgiyalgo/SlimefunNukes) | [官方版](https://github.com/aurgiyalgo/SlimefunNukes/releases)
 Bump (RC-26)/(RC-27) Bump魔法 | bxx2004 | <details><summary>展开</summary>（国产）该附属添加了武器、护甲鉴定系统，以及一些食物与饮料、魔法武器</details> | N/A | [官方旧版](https://www.mcbbs.net/thread-1125935-1-1.html) / [代理方新版](https://github.com/haiman233/Slimefun-Bump) | [代理方新版](https://github.com/haiman233/Slimefun-Bump/releases)
 SlimefunItemExpansion (RC-26) 更多物品 | ItsFlicker| <details><summary>展开</summary>（国产）该附属添加了非常多的梗物品和实用工具</details> | N/A | [官方版](https://github.com/FlickerProjects/SlimefunItemExpansion) | [官方版](https://github.com/FlickerProjects/SlimefunItemExpansion/releases)
@@ -144,6 +150,20 @@ Slimedustry (RC-26) 粘液工业 | Diamondman121314 | <details><summary>展开</
 Spikes (RC-26) 更多地刺 | Asriel_dmr | <details><summary>展开</summary>它添加了一些地刺</details> | N/A | [官方版](https://github.com/Asriel-dmr/Spikes) | 官方版自行构建
 SlimeRP (RC-26) 现代工厂 | SkyCraft78 | <details><summary>展开</summary>它添加了多个自动化工业机器</details> | N/A | [官方版](https://github.com/SkyCraft78/SlimeRP) | 官方版自行构建
 
+以下表格展示改版附属和内测附属；
+
+内测附属仅在部分服务器中实装，依照原作者要求并不公开；
+
+内测附属仅展示名称，不提供任何介绍和下载方式。
+
+如需抢先游玩，请移步到对应服务器去体验。
+
+名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
+--- | --- | --- | ------- | ----- | -- |
+InfinityExpansion-changed (RC-27) 无尽改版 | No.39 希望皇 彼端超霍普 | <details><summary>展开</summary>这是一个改版无尽，具体内容详见Readme</details> | [改版介绍](https://github.com/haiman233/InfinityExpansion-changed-CN/blob/v1.0/README.md) | [改版](https://github.com/haiman233/InfinityExpansion-changed-CN/tree/v1.0) | [改版](https://github.com/haiman233/InfinityExpansion-changed-CN/releases/tag/v1.0)
+SCrafter (RC-27) SC科技 | zimzaza4 | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
+FinalTech (RC-27) Final科技 | Final_ROOT | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
+
 ## :gift: 第三方插件 :id=third-party-plugins
 
 这些插件不是附属，但它们在某些地方与 Slimefun 有关。
@@ -160,7 +180,12 @@ EquivalencyTech 等价交换| Sefiraat | <details><summary>展开</summary>受�
 ## :trophy: Addon Jams :id=addon-jams
 
 在2020年，我们在Discord服务器中举办了第一届 **Slimefun Addon Jam**。
-我们希望该竞赛可以持续举办。该竞赛的基本内容如下：在竞赛开始时，我们会公布一个主题，然后，每位参与竞赛的开发者将会在有限的时间内根据该主题从头开发一个附属插件。当竞赛结束后，我们会审核所有的提交。我们会对参赛附属进行评分，并向获得最高分附属的开发者颁发奖励。
+
+我们希望该竞赛可以持续举办。该竞赛的基本内容如下：
+
+在竞赛开始时，我们会公布一个主题，然后，每位参与竞赛的开发者将会在有限的时间内根据该主题从头开发一个附属插件。
+
+当竞赛结束后，我们会审核所有的提交。我们会对参赛附属进行评分，并向获得最高分附属的开发者颁发奖励。
 
 以下是我们已经举办过的竞赛列表:
 
@@ -172,3 +197,5 @@ EquivalencyTech 等价交换| Sefiraat | <details><summary>展开</summary>受�
 想要编写自己的附属插件吗？请阅读[开发者指南](/Developer-Guide).
 
 如果你编写了一个 Slimefun 附属插件，并想要在这里列出，只需要向我们的Wiki仓库提交拉取请求(Pull Request)。你可以查看[教程](/Expanding-the-Wiki)。 
+
+如果你没有学过任何与java相关的内容，可以尝试用[SlimeCustomizer](https://github.com/NCBPFluffyBear/SlimeCustomizer) 编写属于自己的附属。
