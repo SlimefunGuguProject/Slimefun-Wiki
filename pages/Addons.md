@@ -194,4 +194,4 @@ EquivalencyTech 等价交换| Sefiraat | <details><summary>展开</summary>受�
 
 如果你编写了一个 Slimefun 附属插件，并想要在这里列出，只需要向我们的Wiki仓库提交拉取请求(Pull Request)。你可以查看[教程](/Expanding-the-Wiki)。 
 
-如果你没有学过任何与java相关的内容，可以尝试用[SlimeCustomizer](https://github.com/NCBPFluffyBear/SlimeCustomizer) 编写属于自己的附属
+如果你没有学过任何与java相关的内容，可以尝试用[SlimeCustomizer](https://github.com/NCBPFluffyBear/SlimeCustomizer) 编写属于自己的附属。
