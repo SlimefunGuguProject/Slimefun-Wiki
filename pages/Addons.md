@@ -10,7 +10,7 @@
 
 附属插件的简中汉化由以下用户提供: [@baoad](https://github.com/baoad), [@haiman233](https://github.com/haiman233), [@ybw0014](https://github.com/ybw0014)  
 附属插件的繁中汉化由繁中汉化组提供: [@SlimeTraditionalTranslation](https://github.com/SlimeTraditionalTranslation)
-如果你需要安装粘液科技材质包，请详见:[鬼斩材质包](https://ybw0014.net/post/guizhancraft-resource-pack)
+如果你需要安装粘液科技材质包，请详见: [鬼斩材质包](https://ybw0014.net/post/guizhancraft-resource-pack)
 
 ### 目录 :id=table-of-contents
 
