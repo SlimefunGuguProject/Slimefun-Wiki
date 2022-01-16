@@ -149,6 +149,8 @@ Slimedustry (RC-26) 粘液工业 | Diamondman121314 | <details><summary>展开</
 Spikes (RC-26) 更多地刺 | Asriel_dmr | <details><summary>展开</summary>它添加了一些地刺</details> | N/A | [官方版](https://github.com/Asriel-dmr/Spikes) | 官方版自行构建
 SlimeRP (RC-26) 现代工厂 | SkyCraft78 | <details><summary>展开</summary>它添加了多个自动化工业机器</details> | N/A | [官方版](https://github.com/SkyCraft78/SlimeRP) | 官方版自行构建
 
+---
+
 以下表格展示改版附属和内测附属
 
 内测附属仅在部分服务器中实装，依照原作者要求并不公开
