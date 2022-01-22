@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <script src="/freecdn-loader.min.js"></script>
+  <meta charset="UTF-8">
+  <title>粘液科技 非官方中文 Wiki | Slimefun4 Wiki</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="description" content="Slimefun4 非官方中文Wiki">
+  <meta name="author" content="ybw0014">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="https://gzassets.cn/fonts/AlibabaPuHuiTi.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css">
+  <link rel="stylesheet" href="https://gzassets.cn/guizhanss/docsify/style.css">
+</head>
+<body>
+  <div id="app">加载中。如果这条消息没有消失，请稍后再访问。</div>
+  <script>
+    window.$docsify = {
+      name: 'Slimefun Wiki',
+      nameLink: '/',
+      repo: 'GuizhanCraft/Slimefun-Wiki', 
+      basePath: '/pages/',
+      homepage: 'Home.md',
+      auto2top: true,
+      loadSidebar: true,
+      autoHeader: true,
+      notFoundPage: true,
+      routerMode: 'history',
+      search: {
+        placeholder: '搜索',
+        noData: '没有结果',
+        hideOtherSidebarContent: true,
+      },
+      copyCode: {
+        buttonText: '复制到剪贴板',
+        errorText: '复制出错',
+        successText: '已复制'
+      },
+      plugins: [
+        function (hook, vm) {
+          hook.beforeEach(function (html) {
+            // 官方页面链接 {{official_link}}
+            let officialUrl = "https://github.com/Slimefun/Slimefun4/wiki" + vm.route.path;
+            if (vm.route.query && vm.route.query.id) {
+              officialUrl += "#" + vm.route.query.id
+            }
+            html = html.replace("{{official_link}}", officialUrl)
+
+            return (
+              html +
+              '\n\n----\n\n' +
+              '由 [docsify](https://docsify.js.org) 提供强力驱动'
+            );
+          });
+        },
+      ],
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-edit-on-github@1.0.3/index.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-markdown.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2.1.1/dist/docsify-copy-code.min.js"></script>
+</body>
+</html>
