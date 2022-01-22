@@ -12,3 +12,8 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# 已由 Cloudflare Pages 全面接管，使用404.html
+# 本地服务需要，直接复制404.html为index.html
+# 然后运行 docsify serve 即可
+index.html
