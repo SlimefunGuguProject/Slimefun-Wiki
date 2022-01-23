@@ -2,7 +2,7 @@
 
 > 
 > 本 Wiki 新增已备案部署地址，目前可通过以下两个地址访问，访问速度几乎没有差别：
-> - [https://slimefun.guizhanss.wiki/](https://slimefun.guizhanss.wiki/ ':target=_blank')
+> - [https://slimefun.guizhanss.wiki/](https://slimefun.guizhanss.wiki/)
 > - [https://slimefun-wiki.guizhanss.cn/](https://slimefun-wiki.guizhanss.cn/)
 > 
 

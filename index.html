@@ -20,7 +20,7 @@
       name: 'Slimefun Wiki',
       nameLink: '/',
       repo: 'GuizhanCraft/Slimefun-Wiki', 
-      basePath: '/pages/',
+      basePath: 'https://cdn.jsdelivr.net/gh/GuizhanCraft/Slimefun-Wiki/pages/',
       homepage: 'Home.md',
       auto2top: true,
       loadSidebar: true,
@@ -52,7 +52,18 @@
               '\n\n----\n\n' +
               '由 [docsify](https://docsify.js.org) 提供强力驱动'
             );
+          }); 
+
+          hook.doneEach(function () {
+            const links = Array.from(document.querySelectorAll('article a'))
+
+            for (const link of links) {
+              if (link.getAttribute('href')?.match(/^https:\/\//)) {
+                link.setAttribute('target', '_blank')
+              }
+            }
           });
+
         },
       ],
     }
