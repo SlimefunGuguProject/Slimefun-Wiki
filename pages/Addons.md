@@ -95,7 +95,7 @@ SfChunkInfo 区块信息 | FN_FAL113 | <details><summary>展开</summary>使用�
 
 ----
 
-以下附属不在官方粘液附属界面里；
+以下附属不在官方Wiki的附属列表中；
 
 有些附属可能不再更新，请自行选择性使用。
 
@@ -103,6 +103,7 @@ SfChunkInfo 区块信息 | FN_FAL113 | <details><summary>展开</summary>使用�
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
+VillagerUtil (RC-27) 村民工具 | Apeiros-46B | <details><summary>展开</summary>添加了一系列</details> | [官方版说明](https://github.com/Apeiros-46B/VillagerUtil/blob/main/README.md) / [汉化版说明](https://github.com/ybw0014/VillagerUtil-CN/blob/main/README.md) | [官方版](https://github.com/JApeiros-46B/VillagerUtil) / [汉化版](https://github.com/ybw0014/VillagerUtil-CN) | [官方版](https://thebusybiscuit.github.io/builds/Apeiros-46B/VillagerUtil/main/) / [汉化版](https://builds.guizhanss.net/ybw0014/VillagerUtil-CN/main)
 LuckyPandas (RC-27) 幸运熊猫 | J3fftw1 | <details><summary>展开</summary>一种幸运方块的升级版，添加了熊猫幸运方块</details> | [官方版说明](https://github.com/J3fftw1/LuckyPandas/blob/master/README.md) / [汉化版说明](https://github.com/SlimeTraditionalTranslation/LuckyPandas/blob/main/README.md) | [官方版](https://github.com/J3fftw1/LuckyPandas) / [繁中汉化版](https://github.com/SlimeTraditionalTranslation/LuckyPandas) | [官方版](https://thebusybiscuit.github.io/builds/J3fftw1/LuckyPandas/master/) / [繁中汉化版](https://xmikux.github.io/builds/SlimeTraditionalTranslation/LuckyPandas/master/)
 SlimeGlue 粘液胶 | Xzavier0722 | <details><summary>展开</summary>如果您发现任何不兼容的插件或功能，请在本仓库提交issue</details> | N/A | [官方版](https://github.com/Xzavier0722/SlimeGlue) | N/A
 RandomExpansion (RC-27) 随机扩展 | lucasGithuber | <details><summary>展开</summary>这是一个新附属，介绍待补充</details> | N/A | [官方版](https://github.com/lucasGithuber/RandomExpansion) | 官方版自行构建
