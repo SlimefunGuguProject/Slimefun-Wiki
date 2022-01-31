@@ -47,9 +47,9 @@
 
 访问你 Fork 的 Wiki 仓库，你可以在首页或仓库列表（在 GitHub 中点击右上角的头像，然后选择 **Your repositories** ）中找到。
 
-然后，打开`pages`目录。
+然后，打开`docs`目录（图中为`pages`，现已更改目录）。
 
-![pages目录](https://cdn.jsdelivr.net/gh/ybw0014/Slimefun-Wiki@master/images/github-tutorial-pages.png)
+![docs目录](https://cdn.jsdelivr.net/gh/ybw0014/Slimefun-Wiki@master/images/github-tutorial-pages.png)
 
 在右上角点击`Add file`，在下拉菜单中点击`Create new file`。
 
@@ -87,9 +87,9 @@
 
 访问你 Fork 的 Wiki 仓库，你可以在首页或仓库列表（在 GitHub 中点击右上角的头像，然后选择 **Your repositories** ）中找到。
 
-然后，打开`pages`目录。
+然后，打开`docs`目录（图中为`pages`，现已更改目录）。
 
-![pages目录](https://cdn.jsdelivr.net/gh/ybw0014/Slimefun-Wiki@master/images/github-tutorial-pages.png)
+![docs目录](https://cdn.jsdelivr.net/gh/ybw0014/Slimefun-Wiki@master/images/github-tutorial-pages.png)
 
 打开任何你想要编辑的文件，你可以在内容区域右上角找到编辑按钮。
 
