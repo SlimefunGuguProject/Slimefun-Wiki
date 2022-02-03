@@ -35,4 +35,5 @@
     - [异域花园 ExoticGarden](https://exoticgarden.guizhanss.wiki/)
     - [粘液匠魂 SlimeTinker](https://slimetinker.guizhanss.wiki/)
     - [无尽科技 InfinityExpansion](https://infinityexpansion.guizhanss.wiki)
+    - [网络 Networks](https://networks.guizhanss.wiki)
     
