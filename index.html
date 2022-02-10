@@ -9,24 +9,27 @@
   <meta name="author" content="ybw0014">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="https://gzassets.cn/fonts/AlibabaPuHuiTi.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4.12.1/lib/themes/buble.css">
   <link rel="stylesheet" href="https://gzassets.cn/guizhanss/docsify/style.css">
 </head>
 <body>
   <noscript><h2>本站需要启用JavaScript才能运行</h2></noscript>
   <div id="app">加载中<br>如果这条信息没有消失，请稍后再试。</div>
   <script>
+    var devEnv = false
+    if (window.location.hostname == 'localhost') devEnv = true
+    else if (window.location.hostname.endsWith(".pages.dev")) devEnv = true
     window.$docsify = {
       name: 'Slimefun Wiki',
       nameLink: '/',
       repo: 'GuizhanCraft/Slimefun-Wiki', 
-      basePath: window.location.hostname != 'localhost' ? 'https://slimefun-wiki.guizhanss.net/' : '/docs/',
+      basePath: devEnv ? '/docs/' : 'https://slimefun-wiki.guizhanss.net/',
       homepage: 'Home.md',
       auto2top: true,
       loadSidebar: true,
       autoHeader: true,
       notFoundPage: true,
-      routerMode: window.location.hostname != 'localhost' ? 'history' : 'path',
+      routerMode: devEnv ? 'path' : 'history',
       search: {
         placeholder: '搜索',
         noData: '没有结果',
@@ -36,6 +39,10 @@
         buttonText: '复制到剪贴板',
         errorText: '复制出错',
         successText: '已复制'
+      },
+      toc: {
+        tocMaxLevel: 4,
+        target: 'h2, h3, h4, h5, h6'
       },
       plugins: [
         function (hook, vm) {
@@ -69,11 +76,12 @@
     }
   </script>
   <!-- Docsify v4 -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4.12.1/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4.12.1/lib/plugins/zoom-image.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4.12.1/lib/plugins/search.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-edit-on-github@1.0.3/index.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-markdown.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2.1.1/dist/docsify-copy-code.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-toc@1.2.1/dist/docsify-plugin-toc.min.js"></script>
 </body>
 </html>

@@ -1,4 +1,4 @@
-https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css
+https://cdn.jsdelivr.net/npm/docsify@4.12.1/lib/themes/buble.css
 	https://ajax.cdnjs.com/ajax/libs/docsify/4.12.1/themes/buble.css
 	https://cdnjs.cloudflare.com/ajax/libs/docsify/4.12.1/themes/buble.css
 	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/docsify/4.12.1/themes/buble.css
@@ -10,7 +10,7 @@ https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css
 	https://g.alicdn.com/code/lib/docsify/4.12.1/themes/buble.css
 	hash=Z4Ymd7U+zIjscX697Rh3m81PiSujmZ3g1TzZ/4OLids=
 
-https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js
+https://cdn.jsdelivr.net/npm/docsify@4.12.1/lib/docsify.min.js
 	https://ajax.cdnjs.com/ajax/libs/docsify/4.12.1/docsify.min.js
 	https://cdnjs.cloudflare.com/ajax/libs/docsify/4.12.1/docsify.min.js
 	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/docsify/4.12.1/docsify.min.js
@@ -22,7 +22,7 @@ https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js
 	https://g.alicdn.com/code/lib/docsify/4.12.1/docsify.min.js
 	hash=SMbD6TUjXm39IIYG4s98d3aewAnhceOeHXIEG2EfCOs=
 
-https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js
+https://cdn.jsdelivr.net/npm/docsify@4.12.1/lib/plugins/zoom-image.min.js
 	https://ajax.cdnjs.com/ajax/libs/docsify/4.12.1/plugins/zoom-image.min.js
 	https://cdnjs.cloudflare.com/ajax/libs/docsify/4.12.1/plugins/zoom-image.min.js
 	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/docsify/4.12.1/plugins/zoom-image.min.js
@@ -34,7 +34,7 @@ https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js
 	https://g.alicdn.com/code/lib/docsify/4.12.1/plugins/zoom-image.min.js
 	hash=vjvcOkhhNBuDUEjYgXwqhgzD5cafRG+qdK933G8Xrzk=
 
-https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js
+https://cdn.jsdelivr.net/npm/docsify@4.12.1/lib/plugins/search.min.js
 	https://ajax.cdnjs.com/ajax/libs/docsify/4.12.1/plugins/search.min.js
 	https://cdnjs.cloudflare.com/ajax/libs/docsify/4.12.1/plugins/search.min.js
 	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/docsify/4.12.1/plugins/search.min.js
@@ -45,13 +45,3 @@ https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js
 	https://cdn.bootcdn.net/ajax/libs/docsify/4.12.1/plugins/search.min.js
 	https://g.alicdn.com/code/lib/docsify/4.12.1/plugins/search.min.js
 	hash=gLP5+GYI1aDPOCwQ2tvpQUI+1MIwBzB4eoL8FNXBQAg=
-
-https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-markdown.min.js
-	https://ajax.cdnjs.com/ajax/libs/prism/1.24.1/components/prism-markdown.min.js
-	https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/components/prism-markdown.min.js
-	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/prism/1.24.1/components/prism-markdown.min.js
-	https://cdnjs.loli.net/ajax/libs/prism/1.24.1/components/prism-markdown.min.js
-	https://lib.baomitu.com/prism/1.24.1/components/prism-markdown.min.js
-	https://cdn.staticfile.org/prism/1.24.1/components/prism-markdown.min.js
-	https://cdn.bootcss.com/prism/1.24.1/components/prism-markdown.min.js
-	hash=FpQNrVuaHqG/UMY+pcAMVV3M4cxfWeSJWw/f29yYL78=
