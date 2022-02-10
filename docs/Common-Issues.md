@@ -1,22 +1,13 @@
 # 常见问题 :id=common-issues
 
-<details>
-<summary>目录</summary>
-
-- [全息投影标签](#floating-tags)
-- [无法放置的方块](#unplaceable-blocks)
-- [不掉落基础电路板](#circuit-boards-not-dropping)
-
-</details>
-
-本页面包含一些常见的游戏内问题与解决方案。<br>
+本页面包含一些常见的游戏内问题与解决方案。  
 大部分解决方案需要管理员权限，如果你没有相应的权限，请联系管理员解决问题!
 
 **警告: 部分问题有多种解决方案，这些方案将由影响程度从小到大排序。我们强烈建议你先尝试影响程度较小的解决方案，因为影响程度越小的解决方案风险更小。如果你已经尝试了所有方案但都未解决问题，请考虑[汇报 Bug](/How-to-report-bugs)!**
 
 ## 全息投影标签 :id=floating-tags
 
-某些 Slimefun 物品会在被放置后自动创建全息投影标签，特别是[能量调节器](/Energy-Regulator)和[货运管理器](/Cargo-Manager)。<br>
+某些 Slimefun 物品会在被放置后自动创建全息投影标签，特别是[能量调节器](/Energy-Regulator)和[货运管理器](/Cargo-Manager)。  
 这些标签应该会在破坏机器后消失。但有时候会出现问题，导致部分全息投影依然存留在世界中。该如何解决这个问题呢?
 
 !> 注意: 确保这不是幽灵方块造成的问题! 请参阅[无法放置的方块](#unplaceable-blocks)
@@ -29,7 +20,7 @@
 
 现在，你可以摧毁那些盔甲架了。你也许要摧毁多个盔甲架，因为它们可能由不同的插件生成，但堆叠在一起。
 
-*提示: 推荐使用 MyCommands, CommandOverride 或其他类似插件并为该条指令设置一个容易记住的别名(例如 /holokill)。*
+?> 提示: 推荐使用 MyCommands, CommandOverride 或其他类似插件并为该条指令设置一个容易记住的别名(例如 /holokill)。
 
 ### 如何修复 (方案 2) :id=how-to-fix-this-stage-2
 
@@ -37,17 +28,18 @@
 
 > /gamemode spectator
 
-你应该可以看到隐身的盔甲架，并确定脚部的位置。在盔甲架下方的第一个未被盔甲架占据的方块上，放下一个新的调节器(可通过 */sf cheat* 获取)。<br>
+你应该可以看到隐身的盔甲架，并确定脚部的位置。在盔甲架下方的第一个未被盔甲架占据的方块上，放下一个新的调节器(可通过 */sf cheat* 获取)。  
 调节器会尝试将错误的盔甲架替换成属于该调节器自己的盔甲架，就像正常的一样。然后，移除刚刚放下的调节器，来移除所有的全息投影标签。
 
 ### 如何修复 (方案 3) :id=how-to-fix-this-stage-3
 
-如果全息投影不断重新生成，你可能需要将其当成幽灵方块处理。这与无法放置的方块类似，但区别就是有全息投影。
+如果全息投影不断重新生成，你可能需要将其当成幽灵方块处理。这与无法放置的方块类似，但区别就是有全息投影。  
 只要按照过程来移除幽灵方块，应该没什么大问题。
 
 ## 无法放置的方块 :id=unplaceable-blocks
 
-如果一在某个空的位置尝试放置方块，但放置动作被终止，这说明这可能是个幽灵方块。<br> 这意味着这里曾经有 Slimefun 物品被放置于此处 (通常是[机器人](/Androids)或[货运管理器](/Cargo-Management)等以玩家头类型的物品)，但此处方块的数据没有被正确移除。
+如果一在某个空的位置尝试放置方块，但放置动作被终止，这说明这可能是个幽灵方块。  
+这意味着这里曾经有 Slimefun 物品被放置于此处 (通常是[机器人](/Androids)或[货运管理器](/Cargo-Management)等以玩家头类型的物品)，但此处方块的数据没有被正确移除。
 
 ### 如何修复 (单个方块) :id=how-to-fix-this-cluster-of-blocks
 
@@ -77,15 +69,36 @@ _(可选项): 使用 Shift + 右键 在幽灵方块的位置放置一个占位�
 
 ## 不掉落基础电路板 :id=circuit-boards-not-dropping
 
-如果你击杀了铁傀儡但没有掉落基础电路板，这可能是因为有冲突的插件。<br>
+如果你击杀了铁傀儡但没有掉落基础电路板，这可能是因为有冲突的插件。  
 像 **MobStacker** 这样的插件或其他类似插件有许多已知的自定义物品掉落相关的问题。
 
 ### 如何修复 (方法 1)
 
-最好的解决办法就是在那些插件中开启自定义物品掉落，如果他们有这种选项。<br>
+最好的解决办法就是在那些插件中开启自定义物品掉落，如果他们有这种选项。  
 或者去询问作者是否可以切换物品掉落。
 
 ### 如何修复 (方法 2)
 
-更激进的办法就是换一个支持自定义掉落物的插件。<br>
-_关于这一点，我们并没有一个已确认支持 Slimefun 的自定义生物插件列表。如果你使用的插件没有任何问题，你可以将插件名称告诉我们。详见[扩充 Wiki](/Expanding-the-Wiki)。_
+更激进的办法就是换一个支持自定义掉落物的插件。  
+
+?> 关于这一点，我们并没有一个已确认支持 Slimefun 的自定义生物插件列表。如果你使用的插件没有任何问题，你可以将插件名称告诉我们。详见[扩充 Wiki](/Expanding-the-Wiki)。
+
+## Windows 上遇到了 AccessDeniedException :id=access-denied-exception
+
+如果过你遇到了以下错误:
+
+```
+An Error occurred while copying a temporary File for Slimefun DEV x
+AccessDeniedException: data-storage/Slimefun/stored-blocks/world/BLOCK.sfb.tmp -> data-storage/Slimefun/stored-blocks/world/BLOCK.sfb
+```
+
+这通常是因为:
+
+- 文件锁 - 另外一个进程正在访问此文件，因此该文件被"锁"住了，我们无法修改该文件。
+- 文件权限 - 你的文件权限有问题
+
+如何修复?
+
+打开报错内容所描述的目录（示例中为*data-storage/Slimefun/stored-blocks/world*)，将 BLOCK.sfb.tmp 重命名为 BLOCK.sfb，覆盖原有的文件。
+
+如果你遇到了错误，可能是因为你的权限有问题，你需要先解决你的权限问题

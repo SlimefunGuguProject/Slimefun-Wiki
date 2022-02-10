@@ -1,26 +1,5 @@
 # FAQ :id=faq
 
-<details>
-<summary>目录</summary>
-
-- [我如何下载/安装 Slimefun 或它的附属插件?](#how-can-i-download-install-slimefun-or-its-addons)
-- [我可以在单人模式世界中安装 Slimefun 吗?](#can-i-install-slimefun-on-a-singleplayer-world)
-- [Slimefun 支持 Minecraft XXX 版本吗?](#will-slimefun-be-available-for-minecraft-version-xyz)
-- [我遇到了一个 Slimefun 的错误/Bug](#i-have-an-errorbug-with-slimefun)
-- [护身符与末影护身符有什么区别?](#whats-the-difference-between-the-talisman-and-ender-talisman)
-- [护身符可以堆叠吗?](#can-you-stack-talismans)
-- [我可以拿石块做什么?](#what-can-i-do-with-stone-chunks)
-- [如何根据世界禁用物品?](#how-do-i-disable-items-per-world)
-- [如何禁用所有或单个研究?](#how-to-disable-all-or-individual-researches)
-- [Slimefun 使用多少内存?](#how-much-ram-does-slimefun-use)
-- [XXX 该怎么用?](#how-does-xyz-work)
-- [怎么修复 Slimefun 物品?](#how-do-i-repair-slimefun-items)
-- [我可以给 Slimefun 物品附魔吗?](#can-i-enchant-slimefun-items)
-- [反应堆中的冷却剂可以持续多久?](#how-long-does-coolant-last-in-reactors)
-- [是 Slimefun 还是 SlimeFun?](#is-it-slimefun-or-slimefun)
-
-</details>
-
 ## 我如何下载/安装 Slimefun 或它的附属插件? :id=how-can-i-download-install-slimefun-or-its-addons
 
 要想下载并安装 Slimefun，你可以查看[这篇指南](/Installing-Slimefun)。
@@ -36,7 +15,7 @@ Slimefun 是一个 Bukkit / Spigot 插件，所以你需要一个基于 Bukkit �
 
 ## Slimefun 支持 Minecraft XXX 版本吗? :id=will-slimefun-be-available-for-minecraft-version-xyz
 
-Slimefun 在 Minecraft 1.5 及以上的每个版本都可用。所以，你可以放心地等待对此 Minecraft 版本的支持。我们的项目有超过100名贡献者，通常会很快支持新版本。
+Slimefun 目前支持 Minecraft 1.14 及以上的每个版本。每当 Minecraft 发布新版本时，你可以放心地等待对此 Minecraft 版本的支持。我们的项目有超过100名贡献者，通常会很快支持新版本。
 
 ## 我遇到了一个 Slimefun 的错误/Bug :id=i-have-an-errorbug-with-slimefun
 
@@ -58,7 +37,9 @@ Slimefun 在 Minecraft 1.5 及以上的每个版本都可用。所以，你可�
 
 ### 对于内核汉化版 Slimefun :id=chinese-slimefun
 
-请在内核汉化版的[问题追踪器](https://github.com/StarWishsama/Slimefun4/issues)中汇报问题。
+在内核汉化版的[问题追踪器](https://github.com/StarWishsama/Slimefun4/issues)中汇报问题。
+
+你可以加入反馈QQ群，如果你不会使用GitHub或没有GitHub账号。（找不到在哪？我不告诉你）
 
 ## 护身符与末影护身符有什么区别? :id=whats-the-difference-between-the-talisman-and-ender-talisman
 
@@ -87,7 +68,7 @@ Slimefun 在 Minecraft 1.5 及以上的每个版本都可用。所以，你可�
 
 ## Slimefun 使用多少内存? :id=how-much-ram-does-slimefun-use
 
-我们无法提供一个准确的，甚至估计的值。我们不知道你的其他插件、附属插件、服务器软件、服务器版本。我们在每个版本中都有可能加入对内存使用有影响的改动。我们推荐在任何无论是否安装 Slimefun 的服务器上分配 **至少** 4GB 内存。
+我们无法提供一个准确的，甚至估计的值。我们不知道你的其他插件、附属插件、服务器软件、服务器版本的情况。我们在每个版本中都有可能加入对内存使用有影响的改动。我们推荐在任何无论是否安装 Slimefun 的服务器上分配 **至少** 4GB 内存。
 
 ## XXX 该怎么用? :id=how-does-xyz-work
 
@@ -97,7 +78,7 @@ Slimefun 在 Minecraft 1.5 及以上的每个版本都可用。所以，你可�
 
 ## 怎么修复 Slimefun 物品? :id=how-do-i-repair-slimefun-items
 
-你需要[自动铁砧](/Auto-Anvil)与[强力胶布](/Duct-Tape)。
+你需要[自动铁砧](/Auto-Anvil)与[强力胶布](/Miscellaneous-Items)。
 
 ## 我可以给 Slimefun 物品附魔吗? :id=can-i-enchant-slimefun-items
 
