@@ -1,6 +1,6 @@
 # Slimefun4 Wiki
 
-这里是Slimefun4的非官方中文Wiki，由ybw0014维护。
+这里是Slimefun4的非官方中文Wiki，由[ybw0014](https://github.com)创建，并由[贡献者团队](https://github.com/GuizhanCraft/Slimefun-Wiki/graphs/contributors)共同维护。
 
 官方Wiki (英文): [https://github.com/Slimefun/Slimefun4/wiki](https://github.com/Slimefun/Slimefun4/wiki)
 
