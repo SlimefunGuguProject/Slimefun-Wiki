@@ -36,4 +36,5 @@
     - [粘液匠魂 SlimeTinker](https://slimetinker.guizhanss.wiki/)
     - [无尽科技 InfinityExpansion](https://infinityexpansion.guizhanss.wiki)
     - [网络 Networks](https://networks.guizhanss.wiki)
+    - [神秘科技 FoxyMachines](https://foxymachines.guizhanss.wiki)
     
