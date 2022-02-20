@@ -1,4 +1,4 @@
-name: Deployment
+name: Build and deploy
 
 on:
   workflow_dispatch: {}
@@ -15,11 +15,28 @@ jobs:
       - name: Checkout
         uses: actions/checkout@master
 
-      - name: Deploy
+      - name: Deploy to deploy branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.BOT_TOKEN }}
           publish_dir: ./
           publish_branch: deploy
-          user_name: 'GuizhanBot'
+          user_name: ${{ secrets.BOT_USERNAME }}
           user_email: ${{ secrets.BOT_EMAIL }}
+          exclude_assets: '.github,cdn-urls.txt'
+
+      - name: Deploy to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.BOT_TOKEN }}
+          publish_dir: ./pages
+          publish_branch: gh-pages
+          user_name: ${{ secrets.BOT_USERNAME }}
+          user_email: ${{ secrets.BOT_EMAIL }}
+          exclude_assets: '.github,cdn-urls.txt'
+
+      - name: Invoke Deployment Workflows
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.BOT_TOKEN }}
+          event-type: deploy

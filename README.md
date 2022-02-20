@@ -1,10 +1,10 @@
-# Slimefun4 Wiki
+# Slimefun4 粘液科技 非官方中文 Wiki
 
-这里是Slimefun4的非官方中文Wiki，由[ybw0014](https://github.com)创建，并由[贡献者团队](https://github.com/GuizhanCraft/Slimefun-Wiki/graphs/contributors)共同维护。
+官方Wiki (英文):   
+https://github.com/Slimefun/Slimefun4/wiki
 
-官方Wiki (英文): [https://github.com/Slimefun/Slimefun4/wiki](https://github.com/Slimefun/Slimefun4/wiki)
+Cloudflare Pages 部署地址 (国外访问速度较快):  
+https://slimefun.guizhanss.wiki/
 
-本Wiki地址: 
-
-- [https://slimefun.guizhanss.wiki/](https://slimefun.guizhanss.wiki/) (未备案，无法在QQ、微信的内置浏览器中打开)
-- [https://slimefun-wiki.guizhanss.cn/](https://slimefun-wiki.guizhanss.cn/) (已备案，可直接打开，速度与上方地址没有差别)
+Webify 部署地址 (国内访问速度较快):  
+https://slimefun-wiki.guizhanss.cn/
