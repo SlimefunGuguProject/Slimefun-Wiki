@@ -17,13 +17,16 @@
   <div id="app">加载中<br>如果这条信息没有消失，请稍后再试。</div>
   <script>
     var devEnv = false
+    var basePath = '/pages/';
     if (window.location.hostname == 'localhost') devEnv = true
     else if (window.location.hostname.endsWith(".pages.dev")) devEnv = true
+    if (!devEnv) basePath = 'https://slimefun-wiki.guizhanss.net/'
+    if (window.location.hostname == 'slimefun-wiki.guizhanss.cn') basePath = 'https://slimefun-wiki-pages.guizhanss.cn/'
     window.$docsify = {
       name: 'Slimefun Wiki',
       nameLink: '/',
       repo: 'SlimefunGuguProject/Slimefun-Wiki', 
-      basePath: devEnv ? '/pages/' : 'https://slimefun-wiki.guizhanss.net/',
+      basePath: basePath,
       homepage: 'Home.md',
       auto2top: true,
       loadSidebar: true,
