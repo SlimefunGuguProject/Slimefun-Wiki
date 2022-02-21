@@ -95,7 +95,7 @@ SfChunkInfo 区块信息 | FN_FAL113 | <details><summary>展开</summary>使用�
 VillagerUtil 村民工具 | Apeiros-46B | <details><summary>展开</summary>添加了可以移动村民、治愈僵尸村民、让傻子村民变正常、重置村民交易的魔法工具</details> | [官方版说明](https://github.com/Apeiros-46B/VillagerUtil/blob/main/README.md) / [汉化版说明](https://github.com/ybw0014/VillagerUtil-CN/blob/main/README.md) | [官方版](https://github.com/Apeiros-46B/VillagerUtil) / [汉化版](https://github.com/ybw0014/VillagerUtil-CN) | [官方版](https://thebusybiscuit.github.io/builds/Apeiros-46B/VillagerUtil/main/) / [汉化版](https://builds.guizhanss.net/ybw0014/VillagerUtil-CN/main)
 SlimefunAdvancements (RC-27) 自定义粘液任务 | qwertyuioplkjhgfd | <details><summary>展开</summary>你可以借助该插件自定义粘液任务，为服务器添加更多玩法</details> | N/A | [官方版](https://github.com/qwertyuioplkjhgfd/SlimefunAdvancements) / [汉化版](https://github.com/ybw0014/SlimefunAdvancements-CN) | [官方版](https://thebusybiscuit.github.io/builds/qwertyuioplkjhgfd/SlimefunAdvancements/main/) / [汉化版](https://builds.guizhanss.net/ybw0014/SlimefunAdvancements-CN/main)
 
-----
+### 其他社区附属插件
 
 以下附属不在官方Wiki的附属列表中；
 
