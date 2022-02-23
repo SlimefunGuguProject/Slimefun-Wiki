@@ -32,9 +32,11 @@
     - [货运管理](/Cargo-Management)
     - [节日物品](/Seasonal-Categories)
 - 附属插件的非官方Wiki
-    - [异域花园 ExoticGarden](https://exoticgarden.guizhanss.wiki/)
-    - [粘液匠魂 SlimeTinker](https://slimetinker.guizhanss.wiki/)
-    - [无尽科技 InfinityExpansion](https://infinityexpansion.guizhanss.wiki)
-    - [网络 Networks](https://networks.guizhanss.wiki)
-    - [神秘科技 FoxyMachines](https://foxymachines.guizhanss.wiki)
+    - [异域花园 ExoticGarden](https://guizhanss.wiki/)
+    - [粘液匠魂 SlimeTinker](https://guizhanss.wiki/)
+    - [无尽科技 InfinityExpansion](https://guizhanss.wiki/)
+    - [网络 Networks](https://guizhanss.wiki/)
+    - [神秘科技 FoxyMachines](https://guizhanss.wiki/)
+    - [蓬松机器 FluffyMachines](https://guizhanss.wiki/)
+
     
