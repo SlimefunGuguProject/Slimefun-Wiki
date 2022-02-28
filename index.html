@@ -21,7 +21,8 @@
     if (window.location.hostname == 'localhost') devEnv = true
     else if (window.location.hostname.endsWith(".pages.dev")) devEnv = true
     if (!devEnv) basePath = 'https://slimefun-wiki.guizhanss.net/'
-    if (window.location.hostname == 'slimefun-wiki.guizhanss.cn') basePath = '/pages/'
+    if (window.location.hostname == 'slimefun-wiki.guizhanss.cn') 
+      basePath = '/pages/'
     window.$docsify = {
       name: 'Slimefun Wiki',
       nameLink: '/',
