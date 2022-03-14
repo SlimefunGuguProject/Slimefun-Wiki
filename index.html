@@ -16,6 +16,9 @@
   <noscript><h2>本站需要启用JavaScript才能运行</h2></noscript>
   <div id="app">加载中<br>如果这条信息没有消失，请稍后再试。</div>
   <script>
+    // http redirect
+    if (window.location.protocol == 'http:' && window.location.host != 'localhost') window.location.href = 'https://' + window.location.host + window.location.pathname
+
     var devEnv = false
     var basePath = '/pages/';
     if (window.location.hostname == 'localhost') devEnv = true
