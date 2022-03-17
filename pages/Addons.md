@@ -106,6 +106,7 @@ SlimefunAdvancements (RC-27) 自定义粘液任务 | char321 | <details><summary
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
+ObsidianExpansion (RC-27) 黑曜石科技 | lucasGithuber | <details><summary>展开</summary>新附属，介绍待补充</details> | N/A | [官方版](https://github.com/lucasGithuber/ObsidianExpansion) | 官方版自行构建
 SlimeFunAddon (RC-27) EZ科技 | heRealEzCoins | <details><summary>展开</summary>rc/main/java/io/github/sefiraat/crystamaehistoria/slimefun/Uniques.java</details> | N/A | [官方版](https://github.com/TheRealEzCoins/SlimeFunAddon) / [汉化版](https://github.com/SlimefunGuguProject/EzTech-CN) | 官方版自行构建 / [汉化版](https://builds.guizhanss.net/haiman233/EzTech-CN/master/11)
 KeepSoulbound (RC-27) 高级灵魂绑定 | ChuckLingBao | <details><summary>展开</summary>一个功能性附属，使得粘液科技的灵魂绑定物品在玩家死后直接保留在玩家物品栏，而不是在玩家死亡点生成一个遗产箱</details> | N/A | [官方版](https://github.com/ChuckLingBao/KeepSoulbound) | 官方版自行构建
 LuckyPandas (RC-27) 幸运熊猫 | J3fftw1 | <details><summary>展开</summary>一种幸运方块的升级版，添加了熊猫幸运方块</details> | [官方版说明](https://github.com/J3fftw1/LuckyPandas/blob/master/README.md) / [汉化版说明](https://github.com/SlimeTraditionalTranslation/LuckyPandas/blob/main/README.md) | [官方版](https://github.com/J3fftw1/LuckyPandas) / [繁中汉化版](https://github.com/SlimeTraditionalTranslation/LuckyPandas) | [官方版](https://thebusybiscuit.github.io/builds/J3fftw1/LuckyPandas/master/) / [繁中汉化版](https://xmikux.github.io/builds/SlimeTraditionalTranslation/LuckyPandas/master/)
