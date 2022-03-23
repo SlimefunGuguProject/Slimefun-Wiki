@@ -106,7 +106,9 @@ SlimefunAdvancements (RC-27) 自定义粘液任务 | char321 | <details><summary
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
-UltimateGenerators (RC-27) 终极发电机 | ItsFlicker| <details><summary>展开</summary>（国产）原作者:@freeze-dolphin，原贴地址:https://github.com/freeze-dolphin/UltimateGenerators 适配作者:@LittleQiu233，该附属添加了多种功能的发电机（由红石信号强度大小来决定发电量）、电容等</details> | N/A | [适配版](https://github.com/SlimefunGuguProject/UltimateGenerators-RC27) | [适配版](https://builds.guizhanss.net/SlimefunGuguProject/UltimateGenerators-RC27/main)
+Paradoxium (RC-27) | MrNickCoder | <details><summary>展开</summary>译名待定</details> | N/A | [官方版](https://github.com/MrNickCoder/Paradoxium) | 官方版自行构建
+GlobiaMachines (RC-27) | Fhoz | <details><summary>展开</summary>译名待定</details> | N/A | [官方版](https://github.com/Fhoz/GlobiaMachines) | 官方版自行构建
+UltimateGenerators (RC-27) 终极发电机 | freeze-dolphin , LittleQiu233 | <details><summary>展开</summary>（国产）原作者:@freeze-dolphin，原贴地址:https://github.com/freeze-dolphin/UltimateGenerators 适配作者:@LittleQiu233，该附属添加了多种功能的发电机（由红石信号强度大小来决定发电量）、电容等</details> | N/A | [适配版](https://github.com/SlimefunGuguProject/UltimateGenerators-RC27) | [适配版](https://builds.guizhanss.net/SlimefunGuguProject/UltimateGenerators-RC27/main)
 SlimefunItemExpansion (RC-30) 更多物品 | ItsFlicker| <details><summary>展开</summary>（国产）该附属添加了非常多的梗物品和实用工具</details> | N/A | [官方版](https://github.com/FlickerProjects/SlimefunItemExpansion) | [官方版](https://github.com/FlickerProjects/SlimefunItemExpansion/releases)
 ObsidianExpansion (RC-27) 黑曜石科技 | lucasGithuber | <details><summary>展开</summary>新附属，介绍待补充</details> | N/A | [官方版](https://github.com/lucasGithuber/ObsidianExpansion) | 官方版自行构建
 EzTech (RC-27) EZ科技 | heRealEzCoins | <details><summary>展开</summary>一个致力于科技线的附属，EZ科技添加了很多物品 包含各种机器、装饰物、发电机和仿无尽的生物芯片</details> | N/A | [官方版](https://github.com/TheRealEzCoins/SlimeFunAddon) / [汉化版](https://github.com/SlimefunGuguProject/EzTech-CN) | 官方版自行构建 / [汉化版](https://builds.guizhanss.net/haiman233/EzTech-CN/master)
