@@ -106,6 +106,7 @@ SlimefunAdvancements (RC-27) 自定义粘液任务 | char321 | <details><summary
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
+SlimefunSync (RC-27) 粘液同步数据 | zimzaza4 | <details><summary>展开</summary>多子服同步玩家粘液科技数据（不包括背包）</details> | N/A | [官方版](https://github.com/zimzaza4/SlimefunSync) | [官方版](https://github.com/zimzaza4/SlimefunSync/releases)
 BEKT (RC-27) 基岩科技 | CTimet | <details><summary>展开</summary>（国产）尚在开发中</details> | N/A | [官方版](https://github.com/CTimet/BEKT) | 官方版自行构建
 Paradoxium (RC-27) | MrNickCoder | <details><summary>展开</summary>译名待定</details> | N/A | [官方版](https://github.com/MrNickCoder/Paradoxium) | 官方版自行构建
 GlobiaMachines (RC-27) | Fhoz | <details><summary>展开</summary>译名待定</details> | N/A | [官方版](https://github.com/Fhoz/GlobiaMachines) | 官方版自行构建
