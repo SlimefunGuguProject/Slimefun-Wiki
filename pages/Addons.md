@@ -96,6 +96,19 @@ VillagerUtil 村民工具 | Apeiros-46B | <details><summary>展开</summary>添�
 MissileWarfare 导弹科技 | Kaiyan2006 | <details><summary>展开</summary>添加了许多可以向其他玩家发射的导弹</details> | N/A | [官方版](https://github.com/koiboi-dev/MissileWarfare) / [汉化版](https://github.com/SlimefunGuguProject/MissileWarfare) | [官方版](https://github.com/koiboi-dev/MissileWarfare/releases) / [汉化版](https://builds.guizhanss.net/haiman233/MissileWarfare-CN/master)
 SlimefunAdvancements (RC-27) 自定义粘液任务 | char321 | <details><summary>展开</summary>你可以借助该插件自定义粘液任务，为服务器添加更多玩法</details> | N/A | [官方版](https://github.com/qwertyuioplkjhgfd/SlimefunAdvancements) / [汉化版](https://github.com/ybw0014/SlimefunAdvancements-CN) | [官方版](https://thebusybiscuit.github.io/builds/qwertyuioplkjhgfd/SlimefunAdvancements/main/) / [汉化版](https://builds.guizhanss.net/ybw0014/SlimefunAdvancements-CN/main)
 
+### 功能性插件
+
+以下附属没有额外添加任何物品
+
+但它们有自己各自的功能，各腐竹可根据自身服务器情况选择
+
+本表由 [@haiman233](https://github.com/haiman233) 整理、收录
+
+名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
+--- | --- | --- | ------- | ----- | -- |
+SlimefunSync 粘液同步数据 | zimzaza4 | <details><summary>展开</summary>多子服同步玩家粘液科技数据（不包括背包）</details> | N/A | [官方版](https://github.com/zimzaza4/SlimefunSync) | [官方版](https://github.com/zimzaza4/SlimefunSync/releases)
+
+
 ### 其他社区附属插件
 
 以下附属不在官方Wiki的附属列表中；
@@ -106,7 +119,6 @@ SlimefunAdvancements (RC-27) 自定义粘液任务 | char321 | <details><summary
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
-SlimefunSync (RC-27) 粘液同步数据 | zimzaza4 | <details><summary>展开</summary>多子服同步玩家粘液科技数据（不包括背包）</details> | N/A | [官方版](https://github.com/zimzaza4/SlimefunSync) | [官方版](https://github.com/zimzaza4/SlimefunSync/releases)
 BEKT (RC-27) 基岩科技 | CTimet | <details><summary>展开</summary>（国产）尚在开发中</details> | N/A | [官方版](https://github.com/CTimet/BEKT) | 官方版自行构建
 Paradoxium (RC-27) | MrNickCoder | <details><summary>展开</summary>译名待定</details> | N/A | [官方版](https://github.com/MrNickCoder/Paradoxium) | 官方版自行构建
 GlobiaMachines (RC-27) | Fhoz | <details><summary>展开</summary>译名待定</details> | N/A | [官方版](https://github.com/Fhoz/GlobiaMachines) | 官方版自行构建
