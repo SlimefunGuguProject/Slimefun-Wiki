@@ -109,6 +109,8 @@ SlimefunAdvancements (RC-27) 自定义粘液任务 | char321 | <details><summary
 SlimefunSync 粘液同步数据 | zimzaza4 | <details><summary>展开</summary>多子服同步玩家粘液科技数据（不包括背包）</details> | N/A | [官方版](https://github.com/zimzaza4/SlimefunSync) | [官方版](https://github.com/zimzaza4/SlimefunSync/releases)
 KeepSoulbound (RC-27) 高级灵魂绑定 | ChuckLingBao | <details><summary>展开</summary>一个功能性附属，使得粘液科技的灵魂绑定物品在玩家死后直接保留在玩家物品栏，而不是在玩家死亡点生成一个遗产箱</details> | N/A | [官方版](https://github.com/ChuckLingBao/KeepSoulbound) | 官方版自行构建
 SlimefunRecipeManager (RC-27) 粘液配方修改器 | qwertyuioplkjhgfd | <details><summary>展开</summary>你可以通过该插件修改粘液科技原版配方</details> | N/A | [官方版](https://github.com/qwertyuioplkjhgfd/SlimefunRecipeManager) | [官方版](https://github.com/qwertyuioplkjhgfd/SlimefunRecipeManager/releases)
+SFMobDrops (RC-27) 粘液生物掉落物 | WalshyDev | <details><summary>展开</summary>让生物掉落粘液科技物品（可配置）</details> | N/A | [官方版](https://github.com/WalshyDev/SFMobDrops) | [官方版](https://github.com/qwertyuioplkjhgfd/SlimefunRecipeManager/releases)
+
 
 
 ### 其他社区附属插件
