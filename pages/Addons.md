@@ -106,6 +106,7 @@ SlimefunAdvancements (RC-27) 自定义粘液任务 | char321 | <details><summary
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
+HeadLimiter 头颅限制 | J3fftw1 | <details><summary>展开</summary>限制单个区块内的头颅</details> | N/A | [官方版](https://github.com/J3fftw1/HeadLimiter) / [汉化版](https://github.com/SlimefunGuguProject/HeadLimiter) | [官方版](https://github.com/J3fftw1/HeadLimiter/releases) / [汉化版](https://builds.guizhanss.net/ybw0014/HeadLimiter-CN/master)
 SlimefunSync 粘液同步数据 | zimzaza4 | <details><summary>展开</summary>多子服同步玩家粘液科技数据（不包括背包）</details> | N/A | [官方版](https://github.com/zimzaza4/SlimefunSync) | [官方版](https://github.com/zimzaza4/SlimefunSync/releases)
 KeepSoulbound (RC-27) 高级灵魂绑定 | ChuckLingBao | <details><summary>展开</summary>一个功能性附属，使得粘液科技的灵魂绑定物品在玩家死后直接保留在玩家物品栏，而不是在玩家死亡点生成一个遗产箱</details> | N/A | [官方版](https://github.com/ChuckLingBao/KeepSoulbound) | 官方版自行构建
 SFMobDrops (RC-27) 粘液生物掉落物 | WalshyDev | <details><summary>展开</summary>让生物掉落粘液科技物品（可配置）</details> | N/A | [官方版](https://github.com/WalshyDev/SFMobDrops) | [官方版](https://thebusybiscuit.github.io/builds/WalshyDev/SFMobDrops/main/)
