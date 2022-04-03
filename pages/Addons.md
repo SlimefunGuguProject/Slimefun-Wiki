@@ -125,6 +125,7 @@ HardlessMachine (RC-26) 弹跳工具 | TheSmileCat| <details><summary>展开</su
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
+SfEnchanterLimit 限制附魔机 | JinOuYongGu | <details><summary>展开</summary>限制粘液科技自动附魔台的附魔等级和数量 </details> | N/A | [官方版](https://github.com/JinOuYongGu/SfEnchanterLimit) | 官方版自行构建
 HeadLimiter 头颅限制 | J3fftw1 | <details><summary>展开</summary>限制单个区块内的头颅</details> | N/A | [官方版](https://github.com/J3fftw1/HeadLimiter) / [汉化版](https://github.com/SlimefunGuguProject/HeadLimiter) | [官方版](https://github.com/J3fftw1/HeadLimiter/releases) / [汉化版](https://builds.guizhanss.net/ybw0014/HeadLimiter-CN/master)
 SlimefunSync 粘液同步数据 | zimzaza4 | <details><summary>展开</summary>多子服同步玩家粘液科技数据（不包括背包）</details> | N/A | [官方版](https://github.com/zimzaza4/SlimefunSync) | [官方版](https://github.com/zimzaza4/SlimefunSync/releases)
 KeepSoulbound (RC-27) 高级灵魂绑定 | ChuckLingBao | <details><summary>展开</summary>一个功能性附属，使得粘液科技的灵魂绑定物品在玩家死后直接保留在玩家物品栏，而不是在玩家死亡点生成一个遗产箱</details> | N/A | [官方版](https://github.com/ChuckLingBao/KeepSoulbound) | 官方版自行构建
