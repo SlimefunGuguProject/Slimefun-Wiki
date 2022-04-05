@@ -105,6 +105,8 @@ SlimefunAdvancements (RC-27) 自定义粘液任务 | char321 | <details><summary
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
+FinalTech (RC-30) 乱序技艺 | Final_ROOT | <details><summary>展开</summary>由国人Final_ROOT开放的史诗级货运类粘液附属，它添加了各式各样复杂的、多样的货运机器，使货运效果最大化，且自身优化也比粘液原版货运好，是一个非常烧脑的粘液附属</details> | N/A | [官方版](https://github.com/zomx127/FinalTech) | 官方版自行构建
+FutureTech (RC-30) 未来科技 | bxx2004 | <details><summary>展开</summary>（国产）添加了Siri智能机器人可以跟你进行对话，也可以用Siri给你手上的物品充电</details> | N/A | [官方版](https://gitee.com/bxx2004/FutureTech/tree/master) | 官方版自行构建
 BEKT (RC-30) 基岩科技 | CTimet | <details><summary>展开</summary>（国产）尚在开发中</details> | N/A | [官方版](https://github.com/CTimet/BEKT) | [官方版](https://github.com/CTimet/BedrockTechnology/releases)
 SlimefunItemExpansion (RC-30) 更多物品 | ItsFlicker | <details><summary>展开</summary>（国产）该附属添加了非常多的梗物品和实用工具</details> | N/A | [官方版](https://github.com/FlickerProjects/SlimefunItemExpansion) | [官方版](https://github.com/FlickerProjects/SlimefunItemExpansion/releases)
 GuizhanCraft (RC-30) 鬼斩科技 | ybw0014 | <details><summary>展开</summary>（国产）该附属由鬼斩(ybw0014)一手开发，旨在向游戏中加入新机器、新玩法</details> | N/A | [官方版](https://github.com/ybw0014/GuizhanCraft) | [官方版](https://builds.guizhanss.net/ybw0014/GuizhanCraft/master)
@@ -127,6 +129,7 @@ HardlessMachine (RC-26) 弹跳工具 | TheSmileCat| <details><summary>展开</su
 --- | --- | --- | ------- | ----- | -- |
 SfEnchanterLimit 限制附魔机 | JinOuYongGu | <details><summary>展开</summary>限制粘液科技自动附魔台的附魔等级和数量 </details> | N/A | [官方版](https://github.com/JinOuYongGu/SfEnchanterLimit) | 官方版自行构建
 HeadLimiter 头颅限制 | J3fftw1 | <details><summary>展开</summary>限制单个区块内的头颅</details> | N/A | [官方版](https://github.com/J3fftw1/HeadLimiter) / [汉化版](https://github.com/SlimefunGuguProject/HeadLimiter) | [官方版](https://github.com/J3fftw1/HeadLimiter/releases) / [汉化版](https://builds.guizhanss.net/ybw0014/HeadLimiter-CN/master)
+SlimeGlue 粘液胶 | Xzavier0722 | <details><summary>展开</summary>如果您发现任何不兼容的插件或功能，请在本仓库提交issue</details> | N/A | [官方版](https://github.com/Xzavier0722/SlimeGlue) | N/A
 SlimefunSync 粘液同步数据 | zimzaza4 | <details><summary>展开</summary>多子服同步玩家粘液科技数据（不包括背包）</details> | N/A | [官方版](https://github.com/zimzaza4/SlimefunSync) | [官方版](https://github.com/zimzaza4/SlimefunSync/releases)
 KeepSoulbound (RC-27) 高级灵魂绑定 | ChuckLingBao | <details><summary>展开</summary>一个功能性附属，使得粘液科技的灵魂绑定物品在玩家死后直接保留在玩家物品栏，而不是在玩家死亡点生成一个遗产箱</details> | N/A | [官方版](https://github.com/ChuckLingBao/KeepSoulbound) | 官方版自行构建
 SFMobDrops (RC-27) 粘液生物掉落物 | WalshyDev | <details><summary>展开</summary>让生物掉落粘液科技物品（可配置）</details> | N/A | [官方版](https://github.com/WalshyDev/SFMobDrops) | [官方版](https://thebusybiscuit.github.io/builds/WalshyDev/SFMobDrops/main/)
@@ -136,9 +139,9 @@ SlimeFunItemBanned 在其它子服禁用粘液 | 321zhangjvzhi | <details><summa
 
 
 
-### 其他社区附属插件
+### 其他社区附属插件（RC-27）
 
-以下附属不在官方Wiki的附属列表中；
+以下RC-27附属不在官方Wiki的附属列表中；
 
 有些附属可能不再更新，请自行选择性使用。
 
@@ -146,13 +149,15 @@ SlimeFunItemBanned 在其它子服禁用粘液 | 321zhangjvzhi | <details><summa
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
+Chocohills (RC-30) 虫火谷工艺 | zwrumpy | <details><summary>展开</summary>一种货运类插件，添加了实用的货运接口和各种工具</details> | N/A | [官方版](https://github.com/zwrumpy/Chocohills) / [汉化版](https://github.com/SlimefunGuguProject/Chocohills) | 官方版/汉化版自行构建
 DracFun (RC-30) 龙之研究 | lidanthedev | <details><summary>展开</summary>受龙之研究mod启发而制作的附属</details> | N/A | [官方版](https://github.com/lidanthedev/DracFun) / [汉化版](https://github.com/SlimefunGuguProject/DracFun) | [官方版](https://github.com/lidanthedev/DracFun) / 汉化版请自行构建
+NotEnoughAddons (RC-27) | Fhoz | <details><summary>展开</summary>译名待定</details> | N/A | [官方版](https://github.com/Fhoz/NotEnoughAddons) | 官方版自行构建
+security-slimefun (RC-27) 安全粘液 | Agwebberley | <details><summary>展开</summary>介绍待补充</details> | N/A | [官方版](https://github.com/Agwebberley/security-slimefun) | 官方版自行构建
 Paradoxium (RC-27) | MrNickCoder | <details><summary>展开</summary>译名待定</details> | N/A | [官方版](https://github.com/MrNickCoder/Paradoxium) | 官方版自行构建
 GlobiaMachines (RC-27) | Fhoz | <details><summary>展开</summary>译名待定</details> | N/A | [官方版](https://github.com/Fhoz/GlobiaMachines) | 官方版自行构建
 ObsidianExpansion (RC-27) 黑曜石科技 | lucasGithuber | <details><summary>展开</summary>新附属，介绍待补充</details> | N/A | [官方版](https://github.com/lucasGithuber/ObsidianExpansion) | 官方版自行构建
 EzTech (RC-27) EZ科技 | heRealEzCoins | <details><summary>展开</summary>一个致力于科技线的附属，EZ科技添加了很多物品 包含各种机器、装饰物、发电机和仿无尽的生物芯片</details> | N/A | [官方版](https://github.com/TheRealEzCoins/SlimeFunAddon) / [汉化版](https://github.com/SlimefunGuguProject/EzTech-CN) | 官方版自行构建 / [汉化版](https://builds.guizhanss.net/haiman233/EzTech-CN/master)
 LuckyPandas (RC-27) 幸运熊猫 | J3fftw1 | <details><summary>展开</summary>一种幸运方块的升级版，添加了熊猫幸运方块</details> | [官方版说明](https://github.com/J3fftw1/LuckyPandas/blob/master/README.md) / [汉化版说明](https://github.com/SlimeTraditionalTranslation/LuckyPandas/blob/main/README.md) | [官方版](https://github.com/J3fftw1/LuckyPandas) / [繁中汉化版](https://github.com/SlimeTraditionalTranslation/LuckyPandas) | [官方版](https://thebusybiscuit.github.io/builds/J3fftw1/LuckyPandas/master/) / [繁中汉化版](https://xmikux.github.io/builds/SlimeTraditionalTranslation/LuckyPandas/master/)
-SlimeGlue 粘液胶 | Xzavier0722 | <details><summary>展开</summary>如果您发现任何不兼容的插件或功能，请在本仓库提交issue</details> | N/A | [官方版](https://github.com/Xzavier0722/SlimeGlue) | N/A
 RandomExpansion (RC-27) 随机扩展 | lucasGithuber | <details><summary>展开</summary>添加了一些材料和护甲</details> | N/A | [官方版](https://github.com/lucasGithuber/RandomExpansion) / [汉化版](https://github.com/SlimefunGuguProject/RandomExpansion-CN) | 官方版自行构建 / [汉化版](https://builds.guizhanss.net/haiman233/RandomExpansion-CN/master/)
 PhoenixSciences (RC-27) 凤凰科学 | Vena-Cava | <details><summary>展开</summary>这是一个新附属，介绍待补充</details> | N/A | [官方版](https://github.com/Vena-Cava/PhoenixSciences) | 官方版自行构建
 Dark-Matter (RC-27) 夜魅 | SurrealArts | <details><summary>展开</summary>这是一个新附属，介绍待补充</details> | N/A | [官方版](https://github.com/SurrealArts/Dark-Matter) | 官方版自行构建
@@ -162,12 +167,25 @@ VoidHarvesters (RC-27) 虚空挖掘机 | NCBPFluffyBear, Rene98, F1r3Ston3 | <de
 MoneyAndThings (RC-27) 固态货币 | cullendoran | <details><summary>展开</summary>它添加了硬币</details> | N/A | [官方版](https://github.com/cullendoran/Money-and-Things-SLIMEFUN) / [汉化版](https://github.com/haiman233/Money-and-Things-SLIMEFUN) | 汉化版自行构建
 SupplementalServiceableness 英(RC-27)中(RC-26) 更多日用物品 | NCBPFluffyBear| <details><summary>展开</summary>它添加更多实用的方块、道具，如防凋灵菌光体、高级浇水壶等</details> | N/A | [官方版](https://github.com/NCBPFluffyBear/SupplementalServiceableness) / [汉化版](https://github.com/haiman233/SupplementalServiceableness) | [汉化版](https://github.com/haiman233/SupplementalServiceableness/releases)
 SlimefunNukes (RC-27) 自定义核弹 | aurgiyalgo| <details><summary>展开</summary>通过这个附属，你可以自定义核弹，包括它的威力、解锁需求、配方等</details> | N/A | [官方版](https://github.com/aurgiyalgo/SlimefunNukes) | [官方版](https://github.com/aurgiyalgo/SlimefunNukes/releases)
+SlimyBees (RC-26)/(RC-27) 林业蜜蜂 | martinbrom | <details><summary>展开</summary>它参考了林业mod并添加了各式各样蜜蜂，可让玩家在闲暇之余来养蜂</details> | N/A | [官方版](https://github.com/martinbrom/SlimyBees) | [官方版](https://github.com/martinbrom/SlimyBees/releases)
+Endrex (RC-27) 末地拓展 | nahkd | <details><summary>展开</summary>它添加了龙鳞，神秘矿等物品，同时还为末地增添了一个新的结构</details> | N/A | [官方版](https://github.com/nahkd123/Endrex) | [官方版](https://github.com/nahkd123/Endrex/releases) / [外置汉化版](https://www.mcbbs.net/forum.php?mod=viewthread&tid=1179885)
+
+
+### 其他社区附属插件（RC-26）
+
+以下为RC-26附属
+
+这些附属已不再更新，请自行选择性使用。
+
+本表由 [@haiman233](https://github.com/haiman233) 整理、收录，适用粘液版本会标在名称后
+
+名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
+--- | --- | --- | ------- | ----- | -- |
 SlimeChem (RC-26) 粘液化学 | TheBusyBiscuit团队 | <details><summary>展开</summary>它添加更多化学元素等</details> | N/A | [官方版](https://github.com/Slimefun-Addon-Community/SlimeChem) / [汉化版](https://github.com/haiman233/SlimeChem) | [汉化版](https://github.com/haiman233/SlimeChem/releases)
 PomaExpansion (RC-26) 高级安卓机器人 | poma123 | <details><summary>展开</summary>它添加更多高级的安卓机器人</details> | N/A | [汉化版](https://github.com/LobbyTech-MC/PomaExpansion) | 汉化版自行构建
 BloodAlchemy (RC-26) 血炼金术 | Mooy1 | <details><summary>展开</summary>通过嗜血增强自己的力量，打造属于自己的魔法武器</details> | N/A | [官方版](https://github.com/Mooy1/BloodAlchemy) / [汉化版](https://github.com/baoad/BloodAlchemy) | 汉化版自行构建
 Hohenheim (RC-26) 嬗变工艺| Tweep | <details><summary>展开</summary>它可以让你感知魔法的力量</details> | N/A | [官方版](https://github.com/TweepCoding/hohenheim) / [汉化版](https://github.com/haiman233/hohenheim) | [汉化版](https://github.com/haiman233/hohenheim/releases)
 BetterFarming (RC-26) 工艺农场 | HAL989 | <details><summary>展开</summary>它添加了一些农具，同时多了一种获取附魔金苹果的途径</details> | N/A | [官方版](https://github.com/Gavin296/betterfarming) / [汉化版](https://github.com/haiman233/betterfarming) | [汉化版](https://github.com/haiman233/betterfarming/releases)
-Endrex (RC-26)/(RC-27) 末地拓展 | nahkd | <details><summary>展开</summary>它添加了龙鳞，神秘矿等物品，同时还为末地增添了一个新的结构</details> | N/A | [官方版](https://github.com/nahkd123/Endrex) | [官方版](https://github.com/nahkd123/Endrex/releases) / [外置汉化版](https://www.mcbbs.net/forum.php?mod=viewthread&tid=1179885)
 New-Beginnings (RC-26) 新生 | Tweep | <details><summary>展开</summary>它添加了非常多的魔法武器和魔法装甲以及末影珍珠发电机</details> | N/A | [官方版](https://github.com/TweepCoding/New-Begginings) / [汉化版](https://github.com/LobbyTech-MC/New-Begginings) | 汉化版自行构建
 End-Combat/The End (RC-26) 终焉 | HAL989, Gavin296 | <details><summary>展开</summary>它添加了更具杀伤力的武器和道具</details> | N/A | [官方版](https://github.com/Gavin296/end-combat) / [汉化版](https://github.com/LobbyTech-MC/slimestack) | [汉化版](https://github.com/haiman233/slimestack/releases)
 EnderPanda (RC-26) 末地熊猫| J3fftw1 | <details><summary>展开</summary>它添加了一些护甲和可将末影人转换成熊猫的机器</details> | N/A | [官方版](https://github.com/J3fftw1/EnderPanda) / [汉化版](https://github.com/LobbyTech-MC/EnderPanda) | 汉化版自行构建
@@ -176,7 +194,6 @@ ArcaneExploration (RC-26) 怪物强化 | Walshy | <details><summary>展开</summ
 MagicXpansion (RC-26) 霊幻之梦 | Apeiros-46B | <details><summary>展开</summary>它添加了魔法机器和魔法弩、三叉戟等</details> | N/A | [官方版](https://github.com/Apeiros-46B/MagicXpansion) / [汉化版](https://github.com/haiman233/MagicXpansion) | [汉化版](https://github.com/haiman233/MagicXpansion/releases)
 SlimeQuest (RC-26) 粘液任务 | Mooy1 | <details><summary>展开</summary>它添加了一本任务书和多个任务</details> | N/A | [官方版](https://github.com/Mooy1/SlimeQuest) / [汉化版](https://github.com/haiman233/SlimeQuest) | [汉化版](https://github.com/haiman233/SlimeQuest/releases)
 CompressedMachines (RC-26) 压缩机器 | LordIdra | <details><summary>展开</summary>它添加了多个压缩版机器，可减轻服务器负担</details> | N/A | [官方版](https://github.com/LordIdra/CompressedMachines) | [官方版](https://github.com/LordIdra/CompressedMachines/releases)
-SlimyBees (RC-26)/(RC-27) 林业蜜蜂 | martinbrom | <details><summary>展开</summary>它添加了各式各样蜜蜂，可让玩家在闲暇之余来养蜂</details> | N/A | [官方版](https://github.com/martinbrom/SlimyBees) | [官方版](https://github.com/martinbrom/SlimyBees/releases)
 Beyond_Horizons (RC-26) 以太 | Tweep | <details><summary>展开</summary>受以太mod的启发，添加了多个魔杖和煤尘机</details> | N/A | [官方版](https://github.com/TweepCoding/Beyond_Horizons) / [汉化版](https://github.com/haiman233/Beyond_Horizons) | [汉化版](https://github.com/haiman233/Beyond_Horizons/releases)
 DisguiseCookie (RC-26) 伪装曲奇 | SentryoZ | <details><summary>展开</summary>它添加了多个生物的伪装曲奇，可以使玩家伪装成动物/怪物等</details> | N/A | [官方版](https://github.com/SentryoZ/DisguiseCookies) / [汉化版](https://github.com/haiman233/DisguiseCookies) | [汉化版](https://github.com/haiman233/DisguiseCookies/releases)
 FireSlime (RC-26) 碳泥科技 | GKFire | <details><summary>展开</summary>它添加了多种材质的剑，分解工作台、一拳、生物信息书等</details> | N/A | [官方版](https://github.com/GKFire/FireSlime) | [官方版](https://github.com/GKFire/FireSlime/releases)
@@ -196,6 +213,7 @@ Slimedustry (RC-26) 粘液工业 | Diamondman121314 | <details><summary>展开</
 Spikes (RC-26) 更多地刺 | Asriel_dmr | <details><summary>展开</summary>它添加了一些地刺</details> | N/A | [官方版](https://github.com/Asriel-dmr/Spikes) | 官方版自行构建
 SlimeRP (RC-26) 现代工厂 | SkyCraft78 | <details><summary>展开</summary>它添加了多个自动化工业机器</details> | N/A | [官方版](https://github.com/SkyCraft78/SlimeRP) | 官方版自行构建
 
+
 ----
 
 以下表格展示改版附属和内测附属；
@@ -210,7 +228,6 @@ SlimeRP (RC-26) 现代工厂 | SkyCraft78 | <details><summary>展开</summary>�
 --- | --- | --- | ------- | ----- | -- |
 InfinityExpansion-changed (RC-27) 无尽改版 | No.39 希望皇 彼端超霍普 | <details><summary>展开</summary>这是一个改版无尽，具体内容详见Readme</details> | [改版介绍](https://github.com/SlimefunGuguProject/InfinityExpansion-changed-CN/blob/master/README.md) | [改版](https://github.com/SlimefunGuguProject/InfinityExpansion-changed-CN) | [改版](https://builds.guizhanss.net/SlimefunGuguProject/InfinityExpansion-changed-CN/master)
 SCrafter (RC-27) SC科技 | zimzaza4 | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
-FinalTech (RC-30) Final科技 | Final_ROOT | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
 MagicSpace (RC-27) 魔法太空 | zimzaza4 | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
 SkySlimeFunTest (RC-27) 动力工厂 | xbaimiao | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
 
