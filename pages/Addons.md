@@ -105,6 +105,7 @@ SlimefunAdvancements (RC-27) 自定义粘液任务 | char321 | <details><summary
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
+FutureTech (RC-30) 未来科技 | bxx2004 | <details><summary>展开</summary>（国产）添加了Siri智能机器人可以跟你进行对话，也可以用Siri给你手上的物品充电</details> | N/A | [官方版](https://gitee.com/bxx2004/FutureTech/tree/master) | 官方版自行构建
 BEKT (RC-30) 基岩科技 | CTimet | <details><summary>展开</summary>（国产）尚在开发中</details> | N/A | [官方版](https://github.com/CTimet/BEKT) | [官方版](https://github.com/CTimet/BedrockTechnology/releases)
 SlimefunItemExpansion (RC-30) 更多物品 | ItsFlicker | <details><summary>展开</summary>（国产）该附属添加了非常多的梗物品和实用工具</details> | N/A | [官方版](https://github.com/FlickerProjects/SlimefunItemExpansion) | [官方版](https://github.com/FlickerProjects/SlimefunItemExpansion/releases)
 GuizhanCraft (RC-30) 鬼斩科技 | ybw0014 | <details><summary>展开</summary>（国产）该附属由鬼斩(ybw0014)一手开发，旨在向游戏中加入新机器、新玩法</details> | N/A | [官方版](https://github.com/ybw0014/GuizhanCraft) | [官方版](https://builds.guizhanss.net/ybw0014/GuizhanCraft/master)
@@ -146,6 +147,7 @@ SlimeFunItemBanned 在其它子服禁用粘液 | 321zhangjvzhi | <details><summa
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
+Chocohills (RC-30) 虫火谷工艺 | zwrumpy | <details><summary>展开</summary>一种货运类插件，添加了实用的货运接口和各种工具</details> | N/A | [官方版](https://github.com/zwrumpy/Chocohills) / [汉化版](https://github.com/SlimefunGuguProject/Chocohills) | 官方版/汉化版自行构建
 DracFun (RC-30) 龙之研究 | lidanthedev | <details><summary>展开</summary>受龙之研究mod启发而制作的附属</details> | N/A | [官方版](https://github.com/lidanthedev/DracFun) / [汉化版](https://github.com/SlimefunGuguProject/DracFun) | [官方版](https://github.com/lidanthedev/DracFun) / 汉化版请自行构建
 Paradoxium (RC-27) | MrNickCoder | <details><summary>展开</summary>译名待定</details> | N/A | [官方版](https://github.com/MrNickCoder/Paradoxium) | 官方版自行构建
 GlobiaMachines (RC-27) | Fhoz | <details><summary>展开</summary>译名待定</details> | N/A | [官方版](https://github.com/Fhoz/GlobiaMachines) | 官方版自行构建
