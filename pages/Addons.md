@@ -105,6 +105,7 @@ SlimefunAdvancements (RC-27) 自定义粘液任务 | char321 | <details><summary
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
+FinalTech (RC-30) 乱序技艺 | Final_ROOT | <details><summary>展开</summary>由国人Final_ROOT开放的史诗级货运类粘液附属，它添加了各式各样复杂的、多样的货运机器，使货运效果最大化，且自身优化也比粘液原版货运好，是一个非常烧脑的粘液附属</details> | N/A | [官方版](https://github.com/zomx127/FinalTech) | 官方版自行构建
 FutureTech (RC-30) 未来科技 | bxx2004 | <details><summary>展开</summary>（国产）添加了Siri智能机器人可以跟你进行对话，也可以用Siri给你手上的物品充电</details> | N/A | [官方版](https://gitee.com/bxx2004/FutureTech/tree/master) | 官方版自行构建
 BEKT (RC-30) 基岩科技 | CTimet | <details><summary>展开</summary>（国产）尚在开发中</details> | N/A | [官方版](https://github.com/CTimet/BEKT) | [官方版](https://github.com/CTimet/BedrockTechnology/releases)
 SlimefunItemExpansion (RC-30) 更多物品 | ItsFlicker | <details><summary>展开</summary>（国产）该附属添加了非常多的梗物品和实用工具</details> | N/A | [官方版](https://github.com/FlickerProjects/SlimefunItemExpansion) | [官方版](https://github.com/FlickerProjects/SlimefunItemExpansion/releases)
@@ -227,7 +228,6 @@ SlimeRP (RC-26) 现代工厂 | SkyCraft78 | <details><summary>展开</summary>�
 --- | --- | --- | ------- | ----- | -- |
 InfinityExpansion-changed (RC-27) 无尽改版 | No.39 希望皇 彼端超霍普 | <details><summary>展开</summary>这是一个改版无尽，具体内容详见Readme</details> | [改版介绍](https://github.com/SlimefunGuguProject/InfinityExpansion-changed-CN/blob/master/README.md) | [改版](https://github.com/SlimefunGuguProject/InfinityExpansion-changed-CN) | [改版](https://builds.guizhanss.net/SlimefunGuguProject/InfinityExpansion-changed-CN/master)
 SCrafter (RC-27) SC科技 | zimzaza4 | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
-FinalTech (RC-30) Final科技 | Final_ROOT | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
 MagicSpace (RC-27) 魔法太空 | zimzaza4 | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
 SkySlimeFunTest (RC-27) 动力工厂 | xbaimiao | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
 
