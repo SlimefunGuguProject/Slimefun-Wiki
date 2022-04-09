@@ -24,6 +24,7 @@ jobs:
           user_name: ${{ secrets.BOT_USERNAME }}
           user_email: ${{ secrets.BOT_EMAIL }}
           exclude_assets: '.github,.gitignore,.editorconfig'
+          enable_jekyll: true
 
       - name: Checkout deploy
         uses: actions/checkout@master
