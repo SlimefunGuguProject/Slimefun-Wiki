@@ -15,29 +15,13 @@ jobs:
       - name: Checkout master
         uses: actions/checkout@master
 
-      - name: Deploy to deploy branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          personal_token: ${{ secrets.BOT_TOKEN }}
-          publish_dir: ./
-          publish_branch: deploy
-          user_name: ${{ secrets.BOT_USERNAME }}
-          user_email: ${{ secrets.BOT_EMAIL }}
-          exclude_assets: '.github,.gitignore,.editorconfig,LICENSE,README.md,renovate.json'
-          enable_jekyll: true
-
-      - name: Checkout deploy
-        uses: actions/checkout@master
-        with:
-          ref: deploy
-
-      - name: Upload pages and images to COS
+      - name: Upload pages to COS
         uses: TencentCloud/cos-action@v1
         with:
           secret_id: ${{ secrets.TENCENT_CLOUD_SECRET_ID }}
           secret_key: ${{ secrets.TENCENT_CLOUD_SECRET_KEY }}
           cos_bucket: ${{ secrets.COS_BUCKET }}
           cos_region: ${{ secrets.COS_REGION }}
-          local_path: ./
-          remote_path: minecraft/plugin/slimefun/wiki/slimefun/
+          local_path: ./pages/
+          remote_path: minecraft/plugin/slimefun/wiki/slimefun/pages
           clean: true
