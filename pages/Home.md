@@ -49,9 +49,9 @@ Slimefun 还有个 Discord 服务器，你可以在这里提出建议、讨论�
 
 这里有一些附属插件的非官方 Wiki:
 
-- [异域花园 ExoticGarden](/ExoticGarden/)
-- [粘液匠魂 SlimeTinker](/SlimeTinker/)
-- [无尽科技 InfinityExpansion](/InfinityExpansion/)
-- [网络 Networks](/Networks/)
-- [神秘科技 FoxyMachines](/FoxyMachines/)
-- [蓬松机器 FluffyMachines](/FluffyMachines/)
+- [ExoticGarden 异域花园](https://slimefun-addons-wiki.guizhanss.cn/exotic-garden/)
+- [FluffyMachines 蓬松机器](https://slimefun-addons-wiki.guizhanss.cn/fluffy-machines/)
+- [FoxyMachines 神秘科技](https://slimefun-addons-wiki.guizhanss.cn/foxy-machines/)
+- [InfinityExpansion 无尽科技](https://slimefun-addons-wiki.guizhanss.cn/infinity-expansion/)
+- [Networks 网络](https://slimefun-addons-wiki.guizhanss.cn/networks/)
+- [SlimeTinker 粘液匠魂](https://slimefun-addons-wiki.guizhanss.cn/slime-tinker/)
