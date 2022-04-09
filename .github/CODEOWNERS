@@ -1,2 +1,3 @@
 /pages/*.md             @SlimefunGuguProject/wiki-maintainers 
+/images/*.*             @SlimefunGuguProject/wiki-maintainers 
 /.github/CODEOWNERS     @ybw0014

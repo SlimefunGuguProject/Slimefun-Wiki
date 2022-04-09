@@ -3,8 +3,7 @@
 官方Wiki (英文):   
 https://github.com/Slimefun/Slimefun4/wiki
 
-Cloudflare Pages 部署地址 (国外访问速度较快):  
-https://slimefun.guizhanss.wiki/
-
-Webify 部署地址 (国内访问速度较快):  
+非官方中文Wiki (全新且唯一地址):  
 https://slimefun-wiki.guizhanss.cn/
+
+包含附属插件的非官方中文Wiki。

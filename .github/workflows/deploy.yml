@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout master
         uses: actions/checkout@master
 
       - name: Deploy to deploy branch
@@ -23,20 +23,20 @@ jobs:
           publish_branch: deploy
           user_name: ${{ secrets.BOT_USERNAME }}
           user_email: ${{ secrets.BOT_EMAIL }}
-          exclude_assets: '.github,cdn-urls.txt'
+          exclude_assets: '.github,.gitignore,.editorconfig'
 
-      - name: Deploy to gh-pages branch
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Checkout deploy
+        uses: actions/checkout@master
         with:
-          personal_token: ${{ secrets.BOT_TOKEN }}
-          publish_dir: ./pages
-          publish_branch: gh-pages
-          user_name: ${{ secrets.BOT_USERNAME }}
-          user_email: ${{ secrets.BOT_EMAIL }}
-          exclude_assets: '.github,cdn-urls.txt'
+          ref: deploy
 
-      - name: Invoke Deployment Workflows
-        uses: peter-evans/repository-dispatch@v2
+      - name: Upload pages and images to COS
+        uses: TencentCloud/cos-action@v1
         with:
-          token: ${{ secrets.BOT_TOKEN }}
-          event-type: deploy
+          secret_id: ${{ secrets.TENCENT_CLOUD_SECRET_ID }}
+          secret_key: ${{ secrets.TENCENT_CLOUD_SECRET_KEY }}
+          cos_bucket: ${{ secrets.COS_BUCKET }}
+          cos_region: ${{ secrets.COS_REGION }}
+          local_path: ./
+          remote_path: minecraft/plugin/slimefun/wiki/slimefun/
+          clean: true
