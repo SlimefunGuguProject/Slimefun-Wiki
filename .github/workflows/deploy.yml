@@ -23,7 +23,7 @@ jobs:
           publish_branch: deploy
           user_name: ${{ secrets.BOT_USERNAME }}
           user_email: ${{ secrets.BOT_EMAIL }}
-          exclude_assets: '.github,.gitignore,.editorconfig'
+          exclude_assets: '.github,.gitignore,.editorconfig,LICENSE,README.md,renovate.json'
           enable_jekyll: true
 
       - name: Checkout deploy
