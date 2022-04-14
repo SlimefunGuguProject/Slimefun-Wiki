@@ -127,7 +127,7 @@ HardlessMachine (RC-26) 弹跳工具 | TheSmileCat| <details><summary>展开</su
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
-SfEnchanterLimit 限制附魔机 | JinOuYongGu | <details><summary>展开</summary>限制粘液科技自动附魔台的附魔等级和数量 </details> | N/A | [官方版](https://github.com/JinOuYongGu/SfEnchanterLimit) | 官方版自行构建
+EnchanterLimit 限制附魔机 | JinOuYongGu | <details><summary>展开</summary>限制粘液科技自动附魔台的附魔等级和数量 </details> | N/A | [官方版](https://github.com/JinOuYongGu/EnchanterLimit) | 官方版自行构建
 HeadLimiter 头颅限制 | J3fftw1 | <details><summary>展开</summary>限制单个区块内的头颅</details> | N/A | [官方版](https://github.com/J3fftw1/HeadLimiter) / [汉化版](https://github.com/SlimefunGuguProject/HeadLimiter) | [官方版](https://github.com/J3fftw1/HeadLimiter/releases) / [汉化版](https://builds.guizhanss.net/ybw0014/HeadLimiter-CN/master)
 SlimeGlue 粘液胶 | Xzavier0722 | <details><summary>展开</summary>如果您发现任何不兼容的插件或功能，请在本仓库提交issue</details> | N/A | [官方版](https://github.com/Xzavier0722/SlimeGlue) | N/A
 SlimefunSync 粘液同步数据 | zimzaza4 | <details><summary>展开</summary>多子服同步玩家粘液科技数据（不包括背包）</details> | N/A | [官方版](https://github.com/zimzaza4/SlimefunSync) | [官方版](https://github.com/zimzaza4/SlimefunSync/releases)
