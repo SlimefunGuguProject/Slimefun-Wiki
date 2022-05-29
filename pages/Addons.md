@@ -137,8 +137,6 @@ SlimeFunBookFix 修复粘液书卡服 | 小张up | <details><summary>展开</sum
 SlimeFunItemBanned 在其它子服禁用粘液 | 321zhangjvzhi | <details><summary>展开</summary>在没装粘液的子服禁用粘液</details> | N/A | [官方版](https://www.mcbbs.net/thread-1219387-1-1.html) | [官方版](https://www.mcbbs.net/thread-1219387-1-1.html)
 岛屿删除时自动删除Slimefun机器数据 | lu8121695 | <details><summary>展开</summary>岛屿删除时自动删除Slimefun机器数据</details> | N/A | [官方版](https://www.mcbbs.net/thread-1262424-1-1.html) | [官方版](https://www.mcbbs.net/thread-1262424-1-1.html)
 
-
-
 ### 其他社区附属插件（RC-27）
 
 以下附属不在官方Wiki的附属列表中。这些附属支持粘液科技RC-27以上版本。
@@ -150,7 +148,7 @@ SlimeFunItemBanned 在其它子服禁用粘液 | 321zhangjvzhi | <details><summa
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
 Drugfun (RC-30) 自定义医药用品 | TheSilentPro | <details><summary>展开</summary>原理类似于自定义附属，它可以让你自定义医药科技，并支持研究经验解锁</details> | N/A | [官方版](https://github.com/TheSilentPro/Drugfun) / [汉化版](https://github.com/SlimefunGuguProject/Drugfun) | [官方版](https://github.com/martinbrom/SlimyBees/releases) / [汉化版](https://builds.guizhanss.net/SlimefunGuguProject/Drugfun/master) 
-SlimefunNotchApple (RC-30) 粘液Notch旗帜图案 | Fhoz | <details><summary>展开</summary>为Nortch旗帜图案添加了粘液科技的配方</details> | N/A | [官方版](https://github.com/Fhoz/SlimefunNotchApple) / [汉化版](https://github.com/SlimefunGuguProject/SlimefunNotchApple) | [官方版](https://github.com/Fhoz/SlimefunNotchApple/releases) / [汉化版](https://builds.guizhanss.net/SlimefunGuguProject/SlimefunNotchApple/master) 
+SlimefunNotchApple (RC-30) 粘液Notch旗帜图案 | Fhoz | <details><summary>展开</summary>为Notch旗帜图案添加了粘液科技的配方</details> | N/A | [官方版](https://github.com/Fhoz/SlimefunNotchApple) / [汉化版](https://github.com/SlimefunGuguProject/SlimefunNotchApple) | [官方版](https://github.com/Fhoz/SlimefunNotchApple/releases) / [汉化版](https://builds.guizhanss.net/SlimefunGuguProject/SlimefunNotchApple/master) 
 SlimyBees (RC-30) 林业蜜蜂 | martinbrom | <details><summary>展开</summary>它参考了林业mod并添加了各式各样蜜蜂，可让玩家在闲暇之余来养蜂，获取自动化必备材料</details> | N/A | [官方版](https://github.com/martinbrom/SlimyBees) / [汉化版](https://github.com/SlimefunGuguProject/SlimyBees) | [官方版](https://github.com/martinbrom/SlimyBees/releases) / [汉化版](https://builds.guizhanss.net/SlimefunGuguProject/SlimyBees/master) 
 MiniBlocks (RC-30) 迷你方块 | TheRealEzCoins | <details><summary>展开</summary>一种装饰类插件，添加了各种迷你方块装饰物</details> | N/A | [官方版](https://github.com/TheRealEzCoins/MiniBlocks) / [汉化版](https://github.com/SlimefunGuguProject/MiniBlocks) | 官方版自行构建 / [汉化版](https://builds.guizhanss.net/SlimefunGuguProject/MiniBlocks/master)
 Chocohills (RC-30) 虫火谷工艺 | zwrumpy | <details><summary>展开</summary>一种货运类插件，添加了实用的货运接口和各种工具</details> | N/A | [官方版](https://github.com/zwrumpy/Chocohills) / [汉化版](https://github.com/SlimefunGuguProject/Chocohills) | 官方版 / [汉化版](https://builds.guizhanss.net/SlimefunGuguProject/Chocohills/main)
@@ -215,7 +213,6 @@ Slimedustry (RC-26) 粘液工业 | Diamondman121314 | <details><summary>展开</
 Spikes (RC-26) 更多地刺 | Asriel_dmr | <details><summary>展开</summary>它添加了一些地刺</details> | N/A | [官方版](https://github.com/Asriel-dmr/Spikes) | 官方版自行构建
 SlimeRP (RC-26) 现代工厂 | SkyCraft78 | <details><summary>展开</summary>它添加了多个自动化工业机器</details> | N/A | [官方版](https://github.com/SkyCraft78/SlimeRP) | 官方版自行构建
 
-
 ### 其他附属
 
 以下表格展示改版附属和内测附属；
@@ -232,7 +229,6 @@ InfinityExpansion-changed (RC-27) 无尽改版 | No.39 希望皇 彼端超霍普
 MagicLand (RC-27) 魔法太空 | zimzaza4 | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
 Sea (RC-30) 海洋传说 | FxRayHughes | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
 SkySlimeFunTest (RC-27) 动力工厂 | xbaimiao | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
-
 
 ## :gift: 第三方插件 :id=third-party-plugins
 
