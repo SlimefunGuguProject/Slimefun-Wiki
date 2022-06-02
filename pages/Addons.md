@@ -102,7 +102,7 @@ Supreme 至尊研究院 | RelativoBR | <details><summary>展开</summary>添加�
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
-FinalTech (RC-30) 乱序技艺 | Final_ROOT | <details><summary>展开</summary>由国人Final_ROOT开发的货运类粘液附属，它添加了各式各样复杂的、多样的货运机器，使货运效果最大化，且自身优化也比粘液原版货运好，是一个非常烧脑的粘液附属</details> | N/A | [官方版](https://github.com/zomx127/FinalTech) | 官方版自行构建
+FinalTech (RC-30) 乱序技艺 | Final_ROOT | <details><summary>展开</summary>添加了一系列功能诡异的机器和道具</details> | N/A | [官方版](https://github.com/zomx127/FinalTech) | [官方版](https://builds.guizhanss.net/zomx127/FinalTECH/master)
 RaySlimefunAddon (RC-30) 高级自定义粘液附属 | FxRayHughes | <details><summary>展开</summary>（国产）它充分运用了脚本，你可以通过脚本来拓展你的玩法，自定义添加多方块机器等等</details> | [Wiki](https://shimo.im/docs/2wAlXL71R5SwWBAP/read) | [官方版](https://github.com/FxRayHughes/RaySlimefunAddon) | [官方版](https://shimo.im/docs/2wAlXL71R5SwWBAP/read)
 FutureTech (RC-30) 未来科技 | bxx2004 | <details><summary>展开</summary>（国产）添加了Siri智能机器人可以跟你进行对话，也可以用Siri给你手上的物品充电</details> | N/A | [官方版](https://gitee.com/bxx2004/FutureTech/tree/master) | 官方版自行构建
 BEKT (RC-30) 基岩科技 | CTimet | <details><summary>展开</summary>（国产）尚在开发中</details> | N/A | [官方版](https://github.com/CTimet/BEKT) | [官方版](https://github.com/CTimet/BedrockTechnology/releases)
