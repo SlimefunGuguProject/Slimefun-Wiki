@@ -140,7 +140,8 @@ SFMobDrops (RC-27) 自定义生物掉落 | WalshyDev | <details><summary>展开<
 SlimeFunItemBanned 在其它子服禁用粘液 | 321zhangjvzhi | <details><summary>展开</summary>在没装粘液的子服禁用粘液</details> | N/A | [官方版](https://www.mcbbs.net/thread-1219387-1-1.html) | [官方版](https://www.mcbbs.net/thread-1219387-1-1.html)
 岛屿删除时自动删除Slimefun机器数据 | lu8121695 | <details><summary>展开</summary>岛屿删除时自动删除Slimefun机器数据</details> | N/A | [官方版](https://www.mcbbs.net/thread-1262424-1-1.html) | [官方版](https://www.mcbbs.net/thread-1262424-1-1.html)
 
-### :trophy: Addon Jam 2022比赛附属（下界主题）:id=addon-jam-nether
+### :trophy: Addon Jam 2022比赛附属（下界主题） :id=addon-jam-nether
+
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
 Netheopoiesis 下界乌托邦 | Sefiraat / J3fftw | <details><summary>展开</summary>这个附属是我们的2022年粘液科技附属竞赛的参赛作品。该附属致力于让玩家可以只在下界就能玩原版MC与粘液科技。随着花时间的推移，你可以净化和美化下界，包括更改生物群系，生物生成，以及更多。你需要种植净化之种，再通过各种杂交培育来获得更多的种子。这些种子长大后可以生成生物、树木、物品以及更多东西。这个附属有一个较为平滑的合成曲线。</details> | [官方版介绍](https://github.com/Sefiraat/Netheopoiesis/blob/master/README.md) / [汉化版介绍](https://github.com/SlimefunGuguProject/Netheopoiesis/blob/master/README.md) | [官方版](https://github.com/Sefiraat/Netheopoiesis) / [汉化版](https://github.com/SlimefunGuguProject/Netheopoiesis) | [官方版](https://thebusybiscuit.github.io/builds/Sefiraat/Netheopoiesis/master/) / [汉化版](https://builds.guizhanss.net/SlimefunGuguProject/Netheopoiesis/master)
@@ -153,7 +154,7 @@ InfernalExpansion 下界工艺 | NotKirzu | <details><summary>展开</summary>20
 ThermalFun 灼岩科技 | mmm1245 | <details><summary>展开</summary>2022年粘液科技附属竞赛的参赛作品。</details> | [官方版介绍](https://github.com/mmm1245/ThermalFun/blob/master/README.md) / [汉化版介绍](https://github.com/SlimefunGuguProject/ThermalFun/blob/master/README.md)  | [官方版](https://github.com/mmm1245/ThermalFun) / [汉化版](https://github.com/SlimefunGuguProject/ThermalFun) | 官方版自行构建 / [汉化版](https://github.com/SlimefunGuguProject/ThermalFun/actions)
 Azap 狱刑 | TerslenK | <details><summary>展开</summary>2022年粘液科技附属竞赛主题附属，添加了防火蜡</details> | [官方版介绍](https://github.com/TerslenK/outdatedshit/blob/master/README.md) / [汉化版介绍](https://github.com/SlimefunGuguProject/Azap/blob/master/README.md)  | [官方版](https://github.com/TerslenK/outdatedshit) / [汉化版](https://github.com/SlimefunGuguProject/Azap) | 官方版自行构建 / [汉化版](https://builds.guizhanss.net/SlimefunGuguProject/Azap/master)
 
-### :smile: 其他社区附属插件（RC-27）:id=not-listed-rc-27
+### :smile: 其他社区附属插件（RC-27） :id=not-listed-rc-27
 
 以下附属不在官方Wiki的附属列表中。这些附属支持粘液科技RC-27以上版本。
 
