@@ -6,4 +6,5 @@ https://github.com/Slimefun/Slimefun4/wiki
 非官方中文Wiki (全新且唯一地址):  
 https://slimefun-wiki.guizhanss.cn/
 
-包含附属插件的非官方中文Wiki。
+附属插件非官方中文Wiki:  
+https://slimefun-addons-wiki.guizhanss.cn/
