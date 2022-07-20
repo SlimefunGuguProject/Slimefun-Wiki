@@ -19,9 +19,11 @@
 
 由于目前物品名称写死在代码中，要汉化 Slimefun 物品需要修改物品相关的代码。由 StarWishsama 维护的内核汉化版 Slimefun 目前已在 GitHub 与 MCBBS 发布。
 
+汉化版同样拥有两个分支，["稳定版"分支](https://github.com/StarWishsama/Slimefun4/releases/latest) 或 ["开发版"分支](https://builds.guizhanss.cn/StarWishsama/Slimefun4/master)。  
+关于两个分支的区别参见上方官方版的介绍。
+
 MCBBS帖子：[点击前往](https://www.mcbbs.net/thread-827594-1-1.html)  
 GitHub仓库：[点击前往](https://github.com/StarWishsama/Slimefun4)  
-下载地址：[点击前往](https://github.com/StarWishsama/Slimefun4#%e4%b8%8b%e8%bd%bd-Slimefun4)
 
 当然，如果你的服务器已在使用官方版 Slimefun，也可以选择[另一种方法](https://www.mcbbs.net/forum.php?mod=redirect&goto=findpost&ptid=827594&pid=21840915)进行汉化。
 
