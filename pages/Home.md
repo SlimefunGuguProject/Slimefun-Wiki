@@ -2,7 +2,7 @@
 
 欢迎来到 Slimefun4 的非官方中文 Wiki! 本 Wiki 由[ybw0014](https://github.com/ybw0014)创建并由[贡献者团队](https://github.com/GuizhanCraft/Slimefun-Wiki/graphs/contributors)共同维护。
 
-本 Wiki 的物品名称将使用内核汉化版 Slimefun4 ([了解详情](/Installing-Slimefun?id=slimefun-4-cn-downloads)) 中的物品名称。
+本 Wiki 的物品名称将使用 StarWishsama 汉化的 Slimefun4 ([了解详情](/Installing-Slimefun?id=slimefun-4-cn-downloads)) 中的物品名称。
 
 ## 总览 :id=overview
 
@@ -47,11 +47,6 @@ Slimefun 还有个 Discord 服务器，你可以在这里提出建议、讨论�
 
 ## 一些附属插件的非官方 Wiki :id=addons-wiki
 
-这里有一些附属插件的非官方 Wiki:
+由于附属插件 Wiki 会不断更新，因此此处不再维护列表。  
 
-- [ExoticGarden 异域花园](https://slimefun-addons-wiki.guizhanss.cn/exotic-garden/)
-- [FluffyMachines 蓬松机器](https://slimefun-addons-wiki.guizhanss.cn/fluffy-machines/)
-- [FoxyMachines 神秘科技](https://slimefun-addons-wiki.guizhanss.cn/foxy-machines/)
-- [InfinityExpansion 无尽科技](https://slimefun-addons-wiki.guizhanss.cn/infinity-expansion/)
-- [Networks 网络](https://slimefun-addons-wiki.guizhanss.cn/networks/)
-- [SlimeTinker 粘液匠魂](https://slimefun-addons-wiki.guizhanss.cn/slime-tinker/)
+请前往[附属插件中文Wiki](https://slimefun-addons-wiki.guizhanss.cn/)查看详情。
