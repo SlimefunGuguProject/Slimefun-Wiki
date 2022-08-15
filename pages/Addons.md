@@ -113,6 +113,7 @@ SlimeHUD 方块信息显示 | SchnTgaiSpock | <details><summary>展开</summary>
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
 FinalTech (RC-30) 乱序技艺 | Final_ROOT | <details><summary>展开</summary>添加了一系列功能诡异的机器和道具</details> | N/A | [官方版](https://github.com/zomx127/FinalTech) | [官方版](https://builds.guizhanss.cn/zomx127/FinalTECH/master)
+NetherTech-2 (RC-30) 下界科技 | The_Banks | <details><summary>展开</summary>添加了一系列有利于自动化产线的机器</details> | N/A | [官方版](https://www.mcbbs.net/forum.php?mod=viewthread&tid=1371566) | [官方版](https://www.spigotmc.org/resources/slimefun-addon-nether-tech-2-support-1-13-x-1-19-x.104216/)
 RedstoneConnector (RC-30) 可控连接器 | zimzaza4 | <details><summary>展开</summary>添加了一个可以利用红石控制能源网络开关的方块</details> | N/A | [官方版](https://github.com/zimzaza4/RedstoneConnector) | [官方版](https://builds.guizhanss.cn/zimzaza4/RedstoneConnector/master)
 RaySlimefunAddon (RC-30) 高级自定义粘液附属 | FxRayHughes | <details><summary>展开</summary>（国产）它充分运用了脚本，你可以通过脚本来拓展你的玩法，自定义添加多方块机器等等</details> | [Wiki](https://shimo.im/docs/2wAlXL71R5SwWBAP/read) | [官方版](https://github.com/FxRayHughes/RaySlimefunAddon) | [官方版](https://shimo.im/docs/2wAlXL71R5SwWBAP/read)
 FutureTech (RC-30) 未来科技 | bxx2004 | <details><summary>展开</summary>（国产）添加了Siri智能机器人可以跟你进行对话，也可以用Siri给你手上的物品充电</details> | N/A | [官方版](https://gitee.com/bxx2004/FutureTech/tree/master) | [官方版](https://builds.guizhanss.cn/bxx2004/FutureTech/master)
