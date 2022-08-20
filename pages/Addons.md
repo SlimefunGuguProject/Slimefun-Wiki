@@ -4,20 +4,25 @@
 
 这里是我们已知的所有 Slimefun 附属插件。你可以安装这些附属插件来向服务器添加更多内容。
 
-!> 访问官方版源代码/下载地址请自备魔法上网工具。
-
-!> 附属插件的中文名均不是官方译名，汉化版不保证随时可用。
+!> 访问官方版源代码/下载地址请自备魔法上网工具。  
+附属插件的中文名均不是官方译名，汉化版不保证随时可用。
 
 附属插件的简中汉化由简中汉化组提供: [@SlimefunGuguProject](https://github.com/SlimefunGuguProject)  
 附属插件的繁中汉化由繁中汉化组提供: [@SlimeTraditionalTranslation](https://github.com/SlimeTraditionalTranslation)
 
 如果你需要安装粘液科技材质包，请查看: [鬼斩材质包](https://ybw0014.net/post/guizhancraft-resource-pack)
 
-!> 我们已将所有汉化版下载链接更新为中国大陆境内的镜像站点，应该不会出现部分地区无法访问的问题了。
-
 ### 目录 :id=table-of-contents
 
 Wiki已支持在右侧显示目录，请通过右侧目录查看附属插件。
+
+## 公告 :id=announcement
+
+关于汉化版附属的前置要求：
+
+部分汉化版附属需要GuizhanLib才能运行，在此下载：[点击前往](https://builds.guizhanss.cn/ybw0014/GuizhanLibPlugin/master)
+
+在问为什么运行不了之前，请阅读[故障排除指南](/How-to-report-bugs)。
 
 ## :star: 官方附属插件 :id=official-addons
 
