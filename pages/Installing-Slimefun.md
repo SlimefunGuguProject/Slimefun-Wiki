@@ -2,10 +2,14 @@
 
 ## 准备 :id=prerequisites
 
-你需要一个 Spigot 或 Paper 服务器 (推荐使用最新版本) 才能安装 Slimefun。<br>
-尽管我们只在 Paper 与 Spigot 上进行测试，这两种服务端的复刻(fork)应该也能使 Slimefun 正常运行。
+你需要一个 Spigot 或 Paper 服务器 (推荐使用最新版本) 才能安装 Slimefun。  
+尽管我们只在 Paper 与 Spigot 上进行测试，这两种服务端的衍生版本应该也能使 Slimefun 正常运行。
+
+我们推荐使用Paper，你可以[点击此处](https://papermc.io/downloads)前往下载。
 
 ### 下载官方版 Slimefun 4 :id=slimefun-4-downloads
+
+**请注意，如果你没有特殊需求，建议你使用汉化版。**
 
 你可以在 Slimefun 的两个分支中选择, ["稳定版"分支](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/stable/) 或 ["开发版"分支](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/)。
 稳定版本通常经过长时间的完整测试。开发版则是你可以获取的Slimefun最新版本。
@@ -15,15 +19,23 @@
 
 **我们通常推荐开发版本而不是稳定版本，因为它们是 Slimefun 的最新版本。稳定版通常一个月只更新一次，或者以更低的频率更新。所以修复可能需要相当长的时间才能应用到稳定版本。**
 
+</details>
+
 ### 下载汉化版 Slimefun 4 :id=slimefun-4-cn-downloads
 
-由于目前物品名称写死在代码中，要汉化 Slimefun 物品需要修改物品相关的代码。由 StarWishsama 维护的内核汉化版 Slimefun 目前已在 GitHub 与 MCBBS 发布。
+由于目前物品名称写死在代码中，Slimefun 官方版的中文仅包含消息、分类以及研究部分的汉化。大部分物品与界面仍然是英文的。  
+要汉化这些内容，需要修改相关的代码。由 StarWishsama 维护的内核汉化版 Slimefun 目前已在 GitHub 与 MCBBS 发布。
 
-汉化版同样拥有两个分支，["稳定版"分支](https://github.com/StarWishsama/Slimefun4/releases/latest) 或 ["开发版"分支](https://builds.guizhanss.cn/StarWishsama/Slimefun4/master)。  
-关于两个分支的区别参见上方官方版的介绍。
+汉化版与官方版一样，也拥有两个分支。  
+["正式版"分支](https://github.com/StarWishsama/Slimefun4/releases/latest)是每月发布一次新版本的分支，包含较长时间的测试，功能较为稳定。  
+["金丝雀"分支](https://builds.guizhanss.cn/StarWishsama/Slimefun4/master)对应着上游的开发版分支，包含最新的内容。
+
+**虽然汉化版的问题追踪器同时接受最新的开发版与正式版问题汇报，但仍然建议你使用开发版。**
 
 MCBBS帖子：[点击前往](https://www.mcbbs.net/thread-827594-1-1.html)  
 GitHub仓库：[点击前往](https://github.com/StarWishsama/Slimefun4)  
+正式版下载：[点击前往](https://builds.guizhanss.cn/StarWishsama/Slimefun4/release)  
+开发版下载：[点击前往](https://builds.guizhanss.cn/StarWishsama/Slimefun4/master)
 
 当然，如果你的服务器已在使用官方版 Slimefun，也可以选择[另一种方法](https://www.mcbbs.net/forum.php?mod=redirect&goto=findpost&ptid=827594&pid=21840915)进行汉化。
 

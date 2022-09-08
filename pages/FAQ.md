@@ -1,4 +1,4 @@
-# FAQ :id=faq
+# 常见问题 (FAQ) :id=faq
 
 ## 我如何下载/安装 Slimefun 或它的附属插件? :id=how-can-i-download-install-slimefun-or-its-addons
 
