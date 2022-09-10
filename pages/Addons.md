@@ -177,7 +177,6 @@ Azap 狱刑 | TerslenK | <details><summary>展开</summary>（非参赛作品）
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
-MoStuff (RC-30) | JasperChaseTOQ | <details><summary>展开</summary>待翻译</details> | N/A | [官方版](https://github.com/JasperChaseTOQ/MoStuff) | 官方版自行构建
 Drugfun (RC-30) 自定义医药用品 | TheSilentPro | <details><summary>展开</summary>原理类似于自定义附属，它可以让你自定义医药科技，并支持研究经验解锁</details> | N/A | [官方版](https://github.com/TheSilentPro/Drugfun) / [汉化版](https://github.com/SlimefunGuguProject/Drugfun) | [官方版](https://github.com/martinbrom/SlimyBees/releases) / [汉化版](https://builds.guizhanss.cn/SlimefunGuguProject/Drugfun/master) 
 Cringle-Bosses (RC-27) 混沌Boss |  CrashCringle12 | <details><summary>展开</summary>它添加了几个铃铛，可以为附近玩家增益/减益</details> | N/A | [官方版](https://github.com/CrashCringle12/Cringle-Bosses) / [汉化版](https://github.com/SlimefunGuguProject/Cringle-Bosses) | 官方版自行构建  / [汉化版](https://builds.guizhanss.cn/SlimefunGuguProject/Cringle-Bosses/master)
 Cakecraft (RC-27) 蛋糕工艺 |  SchnTgaiSpock | <details><summary>展开</summary>它添加了几种拥有特殊功能的蛋糕</details> | N/A | [官方版](https://github.com/SchnTgaiSpock/myFirstAddon) / [汉化版](https://github.com/SlimefunGuguProject/Cakecraft) | 官方版自行构建  / [汉化版](https://builds.guizhanss.cn/SlimefunGuguProject/Cakecraft/master)
