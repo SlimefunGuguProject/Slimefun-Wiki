@@ -135,7 +135,10 @@ HardlessMachine (RC-26) 弹跳工具 | TheSmileCat| <details><summary>展开</su
 
 ### 自定义粘液附属 :id=slimecustomizer
 
-以下均为自定义粘液附属的配置
+以下均为自定义粘液附属的配置。
+
+该列表为[SlimeCustomizer 自定义粘液附属](https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/)的配置文件。  
+在安装好自定义粘液附属后，将下载的配置文件覆盖原配置文件即可。
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
