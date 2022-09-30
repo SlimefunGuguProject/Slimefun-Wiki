@@ -135,7 +135,7 @@ HardlessMachine (RC-26) 弹跳工具 | TheSmileCat| <details><summary>展开</su
 
 ### 自定义粘液附属 :id=slimecustomizer
 
-以下插件均为自定义附属配置
+以下均为自定义粘液附属的配置
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
