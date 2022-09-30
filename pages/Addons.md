@@ -133,6 +133,14 @@ DimensionTraveler (RC-30) 维度旅者 | Ironnoob73 | <details><summary>展开</
 ClayTech (RC-26) 粘土科技 | ClayCoffee | <details><summary>展开</summary>（国产）该附属添加了一些武器、护甲、装饰、机器，以及一些食物与饮料。同样添加了可以增强原版生存体验的物品，比如高速铁轨。</details> | N/A | [官方旧版](https://github.com/ClayCoffee/ClayTech) / [代理方新版](https://github.com/Xzavier0722/ClayTech) | [官方旧版](https://github.com/ClayCoffee/ClayTech/releases) / [代理方新版](https://github.com/Xzavier0722/ClayTech/releases)
 HardlessMachine (RC-26) 弹跳工具 | TheSmileCat| <details><summary>展开</summary>（国产）该附属添加了一些弹跳板</details> | N/A | [官方版](https://github.com/TheSmileCat/HardlessMachine) | [官方版](https://github.com/TheSmileCat/HardlessMachine)
 
+### sc: 自定义粘液附属 :id=slimecustomizer
+
+以下插件均自定义附属
+
+名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
+--- | --- | --- | ------- | ----- | -- |
+HaimanTech 海曼科技 | haiman | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/shixinzia/HaimanTech) | [官方版](https://github.com/shixinzia/HaimanTech)
+
 ### :wrench: 功能性插件 :id=functional-addons
 
 以下附属没有额外添加任何物品
