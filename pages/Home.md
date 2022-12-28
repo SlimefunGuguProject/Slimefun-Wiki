@@ -39,11 +39,11 @@
 - [货运管理](/Cargo-Management)
 - [节日物品](/Seasonal-Categories)
 
-## Discord :id=discord
+## KOOK :id=kook
 
-Slimefun 还有个 Discord 服务器，你可以在这里提出建议、讨论功能或只是聊天。
+Slimefun 还有个 KOOK 服务器，你可以在这里提出建议、讨论功能或只是聊天。
 
-[https://discord.gg/slimefun](https://discord.gg/slimefun)
+[https://kook.top/oqZwh8](https://kook.top/oqZwh8)
 
 ## 一些附属插件的非官方 Wiki :id=addons-wiki
 
