@@ -45,6 +45,10 @@ Slimefun 还有个 Discord 服务器，你可以在这里提出建议、讨论�
 
 [https://discord.gg/slimefun](https://discord.gg/slimefun)
 
+## KOOK :id=kook
+
+[https://kook.top/oqZwh8](https://kook.top/oqZwh8)
+
 ## 一些附属插件的非官方 Wiki :id=addons-wiki
 
 由于附属插件 Wiki 会不断更新，因此此处不再维护列表。  
