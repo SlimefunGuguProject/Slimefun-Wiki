@@ -144,6 +144,7 @@ HardlessMachine (RC-26) 弹跳工具 | TheSmileCat| <details><summary>展开</su
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
 HaimanTech 海曼科技 | haiman | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/shixinzia/HaimanTech) | [官方版](https://github.com/shixinzia/HaimanTech)
+无尽拓展 | HuoSj | <details><summary>展开</summary>添加了一系列物品机器到粘液书中 </details> | N/A | [官方版](https://lanzouw.com/iR5wP0jnnqah) | [官方版](https://lanzouw.com/iR5wP0jnnqah)
 
 ### :wrench: 功能性插件 :id=functional-addons
 
