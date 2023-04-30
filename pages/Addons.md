@@ -274,6 +274,7 @@ InfinityExpansion-changed (RC-27) 无尽改版 | No.39 希望皇 彼端超霍普
 MagicLand (RC-27) 魔法太空 | zimzaza4 | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
 Sea (RC-30) 海洋传说 | FxRayHughes | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
 SkySlimeFunTest (RC-27) 动力工厂 | xbaimiao | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
+Networks-Changed (RC-30) 网络改版 | shixinzia | <details><summary>展开</summary>这是一个改版无尽，添加了更多等级的推送</details> | [改版介绍] 无 | [改版](https://github.com/shixinzia/Networks-Changed) | [改版](https://github.com/shixinzia/Networks-Changed/releases/tag/Networks-Changed)
 
 ## :gift: 第三方插件 :id=third-party-plugins
 
