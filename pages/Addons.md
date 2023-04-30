@@ -10,7 +10,7 @@
 附属插件的简中汉化由简中汉化组提供: [@SlimefunGuguProject](https://github.com/SlimefunGuguProject)  
 附属插件的繁中汉化由繁中汉化组提供: [@SlimeTraditionalTranslation](https://github.com/SlimeTraditionalTranslation)
 
-如果你需要安装粘液科技材质包，请查看: [鬼斩材质包](https://ybw0014.net/post/guizhancraft-resource-pack) (1.19.2及以下) 或者 [繁中材质包](https://github.com/xMikux/Slimefun-Resourcepack) (1.14-最新)
+如果你需要安装粘液科技材质包，请查看: [鬼斩材质包](https://ybw0014.net/post/guizhancraft-resource-pack) (1.14-1.19.2) 或者 [繁中材质包](https://github.com/xMikux/Slimefun-Resourcepack) (1.14-最新)
 
 ### 目录 :id=table-of-contents
 
