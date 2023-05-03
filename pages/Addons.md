@@ -10,7 +10,7 @@
 附属插件的简中汉化由简中汉化组提供: [@SlimefunGuguProject](https://github.com/SlimefunGuguProject)  
 附属插件的繁中汉化由繁中汉化组提供: [@SlimeTraditionalTranslation](https://github.com/SlimeTraditionalTranslation)
 
-如果你需要安装粘液科技材质包，请查看: [鬼斩材质包](https://ybw0014.net/post/guizhancraft-resource-pack)
+如果你需要安装粘液科技材质包，请查看: [鬼斩材质包](https://ybw0014.net/post/guizhancraft-resource-pack) (1.14-1.19.2) 或者 [繁中材质包](https://github.com/xMikux/Slimefun-Resourcepack) (1.14-最新)
 
 ### 目录 :id=table-of-contents
 
@@ -274,6 +274,7 @@ InfinityExpansion-changed (RC-27) 无尽改版 | No.39 希望皇 彼端超霍普
 MagicLand (RC-27) 魔法太空 | zimzaza4 | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
 Sea (RC-30) 海洋传说 | FxRayHughes | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
 SkySlimeFunTest (RC-27) 动力工厂 | xbaimiao | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
+Networks-Changed (RC-30) 网络改版 | shixinzia | <details><summary>展开</summary>这是一个改版网络，添加了更多等级的推送</details> | [改版介绍] 无 | [改版](https://github.com/shixinzia/Networks-Changed) | [改版](https://github.com/shixinzia/Networks-Changed/releases/tag/Networks-Changed)
 
 ## :gift: 第三方插件 :id=third-party-plugins
 
