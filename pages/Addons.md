@@ -150,7 +150,7 @@ VillagerTrade (RC-33) 村民交易 | ybw0014 | <details><summary>展开</summary
 --- | --- | --- | ------- | ----- | -- |
 HaimanTech 海曼科技 | haiman | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/shixinzia/HaimanTech) | [官方版](https://github.com/shixinzia/HaimanTech)
 无尽拓展 | HuoSj | <details><summary>展开</summary>添加了一系列物品机器到粘液书中 </details> | N/A | [官方版](https://lanzouw.com/iR5wP0jnnqah) | [官方版](https://lanzouw.com/iR5wP0jnnqah)
-OrangeTech 橘子科技 | duoduojuzi | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | https://github.com/duoduojuzi/OrangeTech/blob/main/README.md | [官方版](https://github.com/duoduojuzi/OrangeTech) | [官方版](https://github.com/duoduojuzi/OrangeTech/archive/refs/heads/main.zip)
+OrangeTech 橘子科技 | duoduojuzi | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | [更多信息](https://github.com/duoduojuzi/OrangeTech/blob/main/README.md) | [官方版](https://github.com/duoduojuzi/OrangeTech) | [官方版](https://github.com/duoduojuzi/OrangeTech/archive/refs/heads/main.zip)
 
 ### :wrench: 功能性插件 :id=functional-addons
 
