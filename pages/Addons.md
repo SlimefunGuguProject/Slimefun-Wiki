@@ -155,7 +155,6 @@ XingchengCraft 星辰工艺 | fengxiang | <details><summary>展开</summary>添�
 GreedAndCreation 贪婪与创世 | HuoSJ | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/HuoSJ7820/GreedAndCreation) | [官方版](https://github.com/HuoSJ7820/GreedAndCreation)
 DefoLiationTech 落叶科技 | lyen | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/LuoYe5555/DefoLiationTech) | [官方版](https://github.com/LuoYe5555/DefoLiationTech)
 
-
 ### :wrench: 功能性插件 :id=functional-addons
 
 以下附属没有额外添加任何物品
