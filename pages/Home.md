@@ -39,11 +39,13 @@
 - [货运管理](/Cargo-Management)
 - [节日物品](/Seasonal-Categories)
 
-## KOOK :id=kook
+## 交流 :id=communication
 
-Slimefun 还有个 KOOK 服务器，你可以在这里提出建议、讨论功能或只是聊天。
+粘液科技简中汉化组创建了一个 KOOK 服务器，你可以在这里提出建议、讨论功能或只是聊天。
 
 [https://kook.top/oqZwh8](https://kook.top/oqZwh8)
+
+你也可以加入更加活跃的QQ群 [205679802](https://50l.cc/gugu-qgroup)。
 
 ## 一些附属插件的非官方 Wiki :id=addons-wiki
 
