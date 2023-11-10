@@ -159,9 +159,10 @@ FastMachines 快捷机器 | ybw0014 | <details><summary>展开</summary>该附�
 HaimanTech 海曼科技 | haiman | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/shixinzia/HaimanTech) | [官方版](https://github.com/shixinzia/HaimanTech)
 InfiniteExtensionV2 无尽扩展V2 | HuoSJ | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/HuoSJ7820/InfiniteExtensionV2) | [官方版](https://github.com/HuoSJ7820/InfiniteExtensionV2)
 OrangeTech 橘子科技 | duoduojuzi | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | [更多信息](https://github.com/duoduojuzi/OrangeTech#readme) | [官方版](https://github.com/duoduojuzi/OrangeTech) | [官方版](https://github.com/duoduojuzi/OrangeTech/archive/refs/heads/main.zip)
-XingchengCraft 星辰工艺 | fengxiang | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/FengXiang2233/XingCheng_Craft) | [官方版](https://github.com/FengXiang2233/XingCheng_Craft)
+XingchengCraft 星辰工艺 | fengxiangQAQ | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/FengXiang2233/XingCheng_Craft) | [官方版](https://github.com/FengXiang2233/XingCheng_Craft)
 GreedAndCreation 贪婪与创世 | HuoSJ | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/HuoSJ7820/GreedAndCreation) | [官方版](https://github.com/HuoSJ7820/GreedAndCreation)
 DefoLiationTech 落叶科技 | lyen | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/LuoYe5555/DefoLiationTech) | [官方版](https://github.com/LuoYe5555/DefoLiationTech)
+BocchiTechnology 波奇科技 | yigexu | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/bocchiyigexu/Bocchi_Technology) | [官方版](https://github.com/bocchiyigexu/Bocchi_Technology)
 
 ### :wrench: 功能性插件 :id=functional-addons
 
