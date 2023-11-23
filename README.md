@@ -8,3 +8,5 @@ https://slimefun-wiki.guizhanss.cn/
 
 附属插件非官方中文Wiki:  
 https://slimefun-addons-wiki.guizhanss.cn/
+
+想要扩充/补充/修正Wiki？[点击这里查看](https://slimefun-wiki.guizhanss.cn/Expanding-the-Wiki)
