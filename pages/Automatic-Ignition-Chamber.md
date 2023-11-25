@@ -8,4 +8,4 @@
 
 你只需要将此机器放在冶炼炉的**发射器旁**，然后填充打火石，它就会自动给冶炼炉点火。
 
-![放置自动点火机](https://cdn.jsdelivr.net/gh/ybw0014/Slimefun-Wiki@master/images/auto-ignition-chamber-setup.png ':size=50%' )
+![放置自动点火机](https://cdn.jsdelivr.net/gh/SlimefunGuguProject/Slimefun-Wiki@master/images/auto-ignition-chamber-setup.png ':size=50%' )
