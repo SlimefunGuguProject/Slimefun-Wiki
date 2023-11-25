@@ -11,7 +11,7 @@
 * 1 [硅铁](/Ferrosilicon)
 * 1 [硬化金属](/Hardened-Metal)
 
-#### 累计基础材料消耗 :id=total-base-material-cost
+### 累计基础材料消耗 :id=total-base-material-cost
 
 * 10 红石粉
 * 6 [铁粉](/Iron-Dust)
