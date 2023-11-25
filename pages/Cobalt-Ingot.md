@@ -8,9 +8,9 @@
 
 * 1 [铁粉](/Iron-Dust)
 * 1 [铜粉](/Copper-Dust)
-* 1 [镍锭](/Nickel-Ingot) 
+* 1 [镍锭](/Nickel-Ingot)
 
-#### 累计基础材料消耗 :id=total-base-material-cost 
+### 累计基础材料消耗 :id=total-base-material-cost
 
 * 2 [铜粉](/Copper-Dust)
 * 3 [铁粉](/Iron-Dust)

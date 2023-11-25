@@ -8,7 +8,7 @@
 
 ## 用途 :id=usage
 
-可以在[电力打粉机](/Electric-Ingot-Pulverizer)中将银锭碎成[银粉](/Silver-Dust)。 
+可以在[电力打粉机](/Electric-Ingot-Pulverizer)中将银锭碎成[银粉](/Silver-Dust)。
 
 银锭被用于以下配方:
 
@@ -18,4 +18,3 @@
 * [冰箱](/Freezer)
 * [货运马达](/Cargo-Motor)
 * [连接器节点](/Connector-Node)
-

@@ -8,7 +8,7 @@ Slimefun 的[武器](/Weapons)分类中增加了三种弓：灵魂绑定弓、�
 
 灵魂绑定弓在你死亡后仍保留在你的背包中。
 
-*另请参见: [灵魂绑定武器](/Soulbound-Weapons)*
+*另请参见：[灵魂绑定武器](/Soulbound-Weapons)*
 
 ## 爆裂之弓 :id=explosive-bow
 

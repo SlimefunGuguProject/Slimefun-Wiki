@@ -1,6 +1,6 @@
 # 钚铀混合氧化核燃料 :id=boosted-uranium
 
-钚铀混合氧化核燃料 (MOX) 是 Slimefun 中的一种[资源](/Resources)，可用于给[核反应堆](/Reactors)提供燃料。在所有的核燃料中，钚铀混合氧化核燃料可燃烧时间最最久。
+钚铀混合氧化核燃料（MOX）是 Slimefun 中的一种[资源](/Resources)，可用于给[核反应堆](/Reactors)提供燃料。在所有的核燃料中，钚铀混合氧化核燃料可燃烧时间最最久。
 
 ## 获取 :id=obtaining
 

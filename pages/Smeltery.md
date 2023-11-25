@@ -1,14 +1,12 @@
 # 冶炼炉 :id=smeltery
 
-冶炼炉 (Smeltery) 是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
+冶炼炉（Smeltery）是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
 
-简易冶炼炉只能将[矿粉](/Dusts)冶炼成[锭](/Ingots)，而冶炼炉还可以冶炼[合金](/Alloys)。
+冶炼炉不仅可以将[矿粉](/Dusts)冶炼成[锭](/Ingots)，还可以冶炼[合金](/Ingots#alloys)。
 
-!> 注意: 冶炼炉下方需要有火焰。当冶炼物品时，火焰会随机被熄灭，需要随时重新点燃。查看[提示与技巧](#tips-and-tricks)了解更多信息。
+!> 注意：冶炼炉下方需要有火焰。当冶炼物品时，火焰会随机被熄灭，需要随时重新点燃。查看[提示与技巧](#tips-and-tricks)了解更多信息。
 
 ## 如何建造冶炼炉 :id=how-to-build-a-smeltery
-
-由于简易冶炼炉用途单一，此处不展示如何建造简易冶炼炉。
 
 冶炼炉的建造方法可以在 Slimefun 指南中找到。这是冶炼炉的完整构造：
 
