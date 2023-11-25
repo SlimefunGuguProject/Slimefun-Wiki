@@ -1,12 +1,12 @@
 # 压力机 :id=pressure-chamber
 
-压力机 (Pressure Chamber) 是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
+压力机（Pressure Chamber）是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
 
 ## 建造 :id=obtaining
 
 压力机是一个多方块结构，它由一个发射器，两个平滑石台阶，一块玻璃，一个炼药锅与四个活塞组成。
 
-一个完整的压力机看起来像这样:
+一个完整的压力机看起来像这样：
 
 ![建造压力机](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-pressure-chamber.png ':size=50%')
 

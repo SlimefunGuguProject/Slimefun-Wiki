@@ -2,7 +2,7 @@
 
 ## 准备 :id=prerequisites
 
-你需要一个 Spigot 或 Paper 服务器 (推荐使用最新版本) 才能安装 Slimefun。  
+你需要一个 Spigot 或 Paper 服务器（推荐使用最新版本）才能安装 Slimefun。  
 尽管我们只在 Paper 与 Spigot 上进行测试，这两种服务端的衍生版本应该也能使 Slimefun 正常运行。
 
 我们推荐使用 Paper，你可以[点击此处](https://papermc.io/downloads)前往下载。

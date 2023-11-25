@@ -1,6 +1,6 @@
 # 磨石 :id=grind-stone
 
-磨石 (Grind Stone) 是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
+磨石（Grind Stone）是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
 
 ## 建造 :id=obtaining
 
@@ -21,7 +21,7 @@
 ## 配方 :id=recipes
 
 磨石的可用配方在下表中列出，列表基于1.17.1版本。  
-部分配方可能由于服务器设置被禁用，由附属插件添加的配方不在此列出。  
+部分配方可能由于产物被禁用而不可用。由附属插件添加的配方不在此列出。  
 后续更新可能会对配方进行修改，具体以游戏内 Slimefun 指南中展示的配方为准。
 
 | 材料 | 产物 |

@@ -1,4 +1,4 @@
-# 可编程式机器人 (屠夫) :id=butcher-androids
+# 可编程式机器人（屠夫）:id=butcher-androids
 
 屠夫机器人是为击杀敌对生物或动物而设计的[机器人](/Androids)。
 

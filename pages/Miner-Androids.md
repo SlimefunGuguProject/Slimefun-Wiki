@@ -1,4 +1,4 @@
-# 可编程式机器人 (矿工) :id=miner-androids
+# 可编程式机器人（矿工）:id=miner-androids
 
 矿工机器人是为挖矿而设计的[机器人](/Androids)，但它也能破坏其他方块。
 

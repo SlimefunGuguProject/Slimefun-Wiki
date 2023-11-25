@@ -1,6 +1,6 @@
 # 榨汁机 :id=juicer
 
-榨汁机 (Juicer) 是 Slimefun 的[基础机器](/Basic-Machines)之一。它可以把特定的水果制作成果汁。
+榨汁机（Juicer）是 Slimefun 的[基础机器](/Basic-Machines)之一。它可以把特定的水果制作成果汁。
 
 ## 建造 :id=obtaining
 

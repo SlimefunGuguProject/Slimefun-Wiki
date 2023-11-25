@@ -1,6 +1,6 @@
 # 自动点火机 :id=automatic-ignition-chamber
 
-自动点火机 (Automatic Ignition Chamber) 是 Slimefun 的[基础机器](/Basic-Machines)之一。
+自动点火机（Automatic Ignition Chamber）是 Slimefun 的[基础机器](/Basic-Machines)之一。
 
 ## 使用方法 :id=usage
 

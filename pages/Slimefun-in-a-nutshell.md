@@ -70,7 +70,7 @@ TheBusyBiscuit 仍在审查由社区贡献者提交的代码，并在各处对�
 于此同时，到**2020年6月**初，我们的 Discord 服务器成员数量已达到2000个。
 Slimefun 仍然活跃，因为在它的背后和周围都有一个令人难以置信的社区。
 
-在**2021年**初，Discord 服务器已经有4500多名成员，而且我们正在发展我们的第二个组织：[Slimefun 附属插件社区 (Slimefun Addon Community)](https://github.com/Slimefun-Addon-Community)，一个可以让开发者展示他们的创意并与其他人交流并分享经验的地方。这个项目的目标是将人们聚在一起，合作开发附属插件。 第二届 [Addon Jam](/Addon-Jam-2021) 也在 **2021年4月** 举办。
+在**2021年**初，Discord 服务器已经有4500多名成员，而且我们正在发展我们的第二个组织：[Slimefun 附属插件社区（Slimefun Addon Community)](https://github.com/Slimefun-Addon-Community)，一个可以让开发者展示他们的创意并与其他人交流并分享经验的地方。这个项目的目标是将人们聚在一起，合作开发附属插件。 第二届 [Addon Jam](/Addon-Jam-2021）也在 **2021年4月** 举办。
 到目前为止，Slimefun 已经满8岁了。
 如果 Slimefun 是一个孩子，它已经坐在小学里了……当你想到这里时，你也许会感到奇怪。但是，Slimefun 的社区已经坚持了许多年，并且仍在继续增长。
 

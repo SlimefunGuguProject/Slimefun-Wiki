@@ -14,7 +14,7 @@
 
 ### 放置 :id=placement
 
-高级输出节点必须放置在箱子或机器上(通过Shift+右键方块旁边)，并连接到6格直线范围内（不能是对角线）的[货运管理器](/Cargo-Manager)或[连接器节点](/Connector-Node)。
+高级输出节点必须放置在箱子或机器上（通过Shift+右键方块旁边），并连接到6格直线范围内（不能是对角线）的[货运管理器](/Cargo-Manager)或[连接器节点](/Connector-Node)。
 
 ### 配置 :id=configuration
 

@@ -47,12 +47,8 @@ HardcoreSlimefun 硬核粘液 | Walshy, TheBusyBiscuit | <details><summary>展�
 
 ## :heart: 社区附属插件 :id=community-addons
 
-这些附属插件由我们的社区成员开发；
-
-在官方Discord服务器中，我们不提供任何支持；
-
-我们不保证这些附属可以正常运行，某些附属可能已过期或有问题，我们不对这些附属的内容负责；
-
+这些附属插件由我们的社区成员开发，在官方Discord服务器中，我们不提供任何支持。  
+我们不保证这些附属可以正常运行，某些附属可能已过期或有问题，我们不对这些附属的内容负责。  
 如果你遇到了问题，请向对应的开发者汇报，而不是我们。
 
 这些附属也在官方Wiki的附属列表中。
@@ -116,11 +112,9 @@ FastMachines 快捷机器 | ybw0014 | <details><summary>展开</summary>该附�
 
 ### :cn: 国产附属 :id=made-in-china
 
-以下插件均为国产附属
+以下插件均为国产附属，是由国人作者开发的。
 
-是由国内大佬一手开发的
-
-本表由 [@haiman233](https://github.com/haiman233) 整理、收录
+本表由 [@haiman233](https://github.com/haiman233) 整理、收录。
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
@@ -141,7 +135,7 @@ HardlessMachine (RC-26) 弹跳工具 | TheSmileCat | <details><summary>展开</s
 VillagerTrade (RC-33) 村民交易 | ybw0014 | <details><summary>展开</summary>（国产）该附属支持将粘液科技物品添加到村民/流浪商人的交易中</details> | N/A | [官方版](https://github.com/ybw0014/VillagerTrade) | [官方版](https://github.com/ybw0014/VillagerTrade)
 FastMachines 快捷机器 | ybw0014 | <details><summary>展开</summary>该附属将乱序技艺的快捷机器玩法提取出来做成一个单独的附属。快捷机器可以批量制作物品，且不需要按顺序摆放配方物品。</details> | [官方版介绍](https://github.com/ybw0014/FastMachines#readme) | [官方版](https://github.com/ybw0014/FastMachines) | [官方版](https://thebusybiscuit.github.io/builds/ybw0014/FastMachines/master/) （自带中文） / [备用下载](https://builds.guizhanss.com/ybw0014/FastMachines/master)
 
-### 自定义粘液附属 :id=slimecustomizer
+### :anchor: 自定义粘液附属 :id=slime-customizer-addons
 
 以下均为自定义粘液附属的配置。
 
@@ -149,6 +143,8 @@ FastMachines 快捷机器 | ybw0014 | <details><summary>展开</summary>该附�
 在安装好自定义粘液附属后，将下载的配置文件覆盖原配置文件即可。
 
 如需安装多个配置，你需要手动合并文件内容。
+
+!> 所有的配置文件均由相关作者提供，本 Wiki 仅列出这些配置文件，不会对内容的真实性、兼容性、可用性进行检验。出现任何问题请寻找作者。
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
@@ -162,9 +158,7 @@ BocchiTechnology 波奇科技 | yigexu | <details><summary>展开</summary>添�
 
 ### :wrench: 功能性插件 :id=functional-addons
 
-以下附属没有额外添加任何物品
-
-但它们有自己各自的功能，各腐竹可根据自身服务器情况选择
+以下附属没有额外添加任何物品。但它们有自己各自的功能，各腐竹可根据自身服务器情况选择。
 
 本表由 [@haiman233](https://github.com/haiman233) 整理、收录
 
@@ -200,7 +194,7 @@ Azap 狱刑 | TerslenK | <details><summary>展开</summary>（非参赛作品）
 
 有些附属可能不再更新，请自行选择性使用。
 
-本表由 [@haiman233](https://github.com/haiman233) 整理、收录，适用粘液版本会标在名称后
+本表由 [@haiman233](https://github.com/haiman233) 整理、收录，适用粘液版本会标在名称后。
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
@@ -238,7 +232,7 @@ ChestTerminal 箱子终端 (已停更) | TheBusyBiscuit | <details><summary>展�
 
 这些附属已不再更新，请自行选择性使用。
 
-本表由 [@haiman233](https://github.com/haiman233) 整理、收录，适用粘液版本会标在名称后
+本表由 [@haiman233](https://github.com/haiman233) 整理、收录，适用粘液版本会标在名称后。
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
@@ -272,24 +266,6 @@ Slimedustry (RC-26) 粘液工业 | Diamondman121314 | <details><summary>展开</
 Spikes (RC-26) 更多地刺 | Asriel_dmr | <details><summary>展开</summary>它添加了一些地刺</details> | N/A | [官方版](https://github.com/Asriel-dmr/Spikes) | 官方版自行构建
 SlimeRP (RC-26) 现代工厂 | SkyCraft78 | <details><summary>展开</summary>它添加了多个自动化工业机器</details> | N/A | [官方版](https://github.com/SkyCraft78/SlimeRP) | 官方版自行构建
 
-### :balloon: 其他附属 :id=other-addons
-
-以下表格展示改版附属和内测附属；
-
-内测附属仅在部分服务器中实装，依照原作者要求并不公开；
-
-内测附属仅展示名称，不提供任何介绍和下载方式。
-
-如需抢先游玩，请移步到对应服务器去体验。
-
-名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
---- | --- | --- | ------- | ----- | -- |
-InfinityExpansion-changed (RC-27) 无尽改版 | No.39 希望皇 彼端超霍普 | <details><summary>展开</summary>这是一个改版无尽，具体内容详见Readme</details> | [改版介绍](https://github.com/SlimefunGuguProject/InfinityExpansion-changed#readme) | [改版](https://github.com/SlimefunGuguProject/InfinityExpansion-changed) | [改版](https://builds.guizhanss.com/SlimefunGuguProject/InfinityExpansion-changed/master)
-MagicLand (RC-27) 魔法太空 | zimzaza4 | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
-Sea (RC-30) 海洋传说 | FxRayHughes | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
-SkySlimeFunTest (RC-27) 动力工厂 | xbaimiao | <details><summary>展开</summary>内测附属</details> | N/A | N/A | N/A
-Networks-Changed (RC-30) 网络改版 | shixinzia | <details><summary>展开</summary>这是一个改版网络，添加了更多等级的推送</details> | [改版介绍] 无 | [改版](https://github.com/shixinzia/Networks-Changed) | [改版](https://github.com/shixinzia/Networks-Changed/releases/tag/Networks-Changed)
-
 ## :gift: 第三方插件 :id=third-party-plugins
 
 这些插件不是附属，但它们在某些地方与 Slimefun 有关。
@@ -322,6 +298,6 @@ EquivalencyTech 等价交换| Sefiraat | <details><summary>展开</summary>受�
 
 想要编写自己的附属插件吗？请阅读[开发者指南](/Developer-Guide)。
 
-如果你编写了一个 Slimefun 附属插件，并想要在这里列出，只需要向我们的Wiki仓库提交拉取请求(Pull Request)。你可以查看[教程](/Expanding-the-Wiki)。
+如果你编写了一个 Slimefun 附属插件，并想要在这里列出，只需要向我们的 Wiki 仓库提交拉取请求（Pull Request）。你可以查看[该页面](/Expanding-the-Wiki)来了解详细流程。
 
-如果你没有学过任何与java相关的内容，可以尝试用 [SlimeCustomizer 自定义粘液附属](https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/) 编写属于自己的附属。
+如果你没有学过任何与java相关的内容，可以尝试用 [SlimeCustomizer 自定义粘液附属](https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/) 编写属于自己的附属，并在完成后同样向我们的 Wiki 仓库提交拉取请求（Pull Request）来添加你的配置文件。

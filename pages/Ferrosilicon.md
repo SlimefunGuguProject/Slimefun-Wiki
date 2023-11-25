@@ -23,7 +23,7 @@
 
 ### 物品 :id=items
 
-* [光伏电池](/Solar-Panel)
+* [光伏电池](/Photovoltaic-Cell)
 * [熔炉镐](/Smelter's-Pickaxe)
 * [刷怪笼之镐](/Pickaxe-of-Containment)
 * [赫拉克勒斯之镐](/Hercules'-Pickaxe)

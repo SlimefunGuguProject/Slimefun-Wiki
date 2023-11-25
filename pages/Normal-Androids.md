@@ -1,4 +1,4 @@
-# 可编程式机器人 (普通) :id=normal-androids
+# 可编程式机器人（普通）:id=normal-androids
 
 普通机器人用于合成特定类型的[机器人](/Androids)。
 

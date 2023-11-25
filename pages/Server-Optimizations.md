@@ -88,7 +88,7 @@ options:
 
 ## 5. 降低 Tick 速率 :id=5-slower-tick-rates
 
-Slimefun 方块都以固定的速率运行，默认情况下，Slimefun 每 10 tick (20 tick = 1 秒) 执行一次 Tick 操作。  
+Slimefun 方块都以固定的速率运行，默认情况下，Slimefun 每 10 tick（20 tick = 1 秒）执行一次 Tick 操作。  
 增加 Tick 的间隙来**也许**可以优化服务器性能。  
 然而，你不应该把这个值设置的太大，否则玩家可能会抱怨机器运行太慢。
 

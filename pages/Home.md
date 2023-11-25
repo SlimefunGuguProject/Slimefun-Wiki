@@ -2,7 +2,7 @@
 
 欢迎来到 Slimefun4 的非官方中文 Wiki！本 Wiki 由[ybw0014](https://github.com/ybw0014)创建并由[贡献者团队](https://github.com/GuizhanCraft/Slimefun-Wiki/graphs/contributors)共同维护。
 
-本 Wiki 的物品名称将使用 [StarWishsama](https://github.com/StarWishsama) 汉化的 Slimefun4 ([了解详情](/Installing-Slimefun?id=slimefun-4-cn-downloads)) 中的物品名称。
+本 Wiki 的物品名称将使用 [StarWishsama](https://github.com/StarWishsama) 汉化的 Slimefun4（[了解详情](/Installing-Slimefun?id=slimefun-4-cn-downloads)）中的物品名称。
 
 ## 总览 :id=overview
 

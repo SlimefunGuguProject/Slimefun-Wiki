@@ -1,4 +1,4 @@
-# 常见问题 (FAQ) :id=faq
+# 常见问题（FAQ）:id=faq
 
 ## 我如何下载/安装 Slimefun 或它的附属插件? :id=how-can-i-download-install-slimefun-or-its-addons
 
@@ -21,26 +21,24 @@ Slimefun 目前支持 Minecraft 1.14 及以上的每个版本。每当 Minecraft
 
 ### 对于官方版 Slimefun :id=official-slimefun
 
-首先，加入我们的[Discord服务器](https://discord.gg/slimefun)，并进入`#bug-discussions`频道。我们需要确认是否是 Bug，用户错误，或者是预期的行为。请注意，我们**不接受在discord中的bug汇报，只接受来自GitHub的**。根据我们积累的经验，10个"bug"中的9个是因为使用了旧版本的插件，所以请先在我们的discord服务器中与其他人讨论这个问题，让我们的开发者能够专注于已确认的Bug汇报。
+首先，加入我们的[Discord服务器](https://discord.gg/slimefun)，并进入`#bug-discussions`频道。我们需要确认是否是 Bug、用户错误、或者是预期的行为。请注意，我们**不接受在discord中的bug汇报，只接受来自GitHub的**。根据我们积累的经验，10个"bug"中的9个是因为使用了旧版本的插件，所以请先在我们的Discord服务器中与其他人讨论这个问题，让我们的开发者能够专注于已确认的Bug汇报。
 
 现在，请在`#bug-discussions`频道向我们提供以下信息:
 
 1. 运行 `/sf versions` 然后向我们发送截图。我们需要知道你正在使用哪个版本，否则，我们无法帮到你。
 "最新版本"对我们没有任何帮助。所以，请运行该指令。如果你没有运行该指令的权限，请 Shift + 右键 点击你的 Slimefun 指南，你可以在顶部中间的格子找到正在使用的版本。
 
-2. 检查控制台，看看是否有错误？ (如果有，请发布在 <https://pastebin.com/>)
+2. 检查控制台，看看是否有错误？（如果有，请发布在 [pastebin.com](https://pastebin.com/)）
 
-3. 接下来该怎么办?
+3. 接下来该怎么办？
 
 请访问[此页面](/How-to-report-bugs)了解更多关于汇报问题的指南。
 
-当你把所有的信息发送给我们后，我们的工作人员或社区成员会帮助你。**请不要 ping 任何人！** 如果超过15分钟没有人回应，你可以 ping `@Helpful`权限组的人员获取帮助。请耐心等待，如果你 ping 了任何一位成员(**特别是工作人员**)，你可能被警告或被踢出服务器。
+当你把所有的信息发送给我们后，我们的工作人员或社区成员会帮助你。**请不要@任何人！** 如果超过15分钟没有人回应，你可以`@Helpful`权限组的人员获取帮助。请耐心等待，如果你@了任何一位成员（**特别是工作人员**），你可能被警告或被踢出服务器。
 
-### 对于内核汉化版 Slimefun :id=chinese-slimefun
+### 对于汉化版 Slimefun :id=chinese-slimefun
 
-在内核汉化版的[问题追踪器](https://github.com/StarWishsama/Slimefun4/issues)中汇报问题。
-
-你可以加入反馈QQ群，如果你不会使用GitHub或没有GitHub账号。（找不到在哪？我不告诉你）
+在汉化版的[问题追踪器](https://github.com/StarWishsama/Slimefun4/issues)中汇报问题。
 
 ## 护身符与末影护身符有什么区别? :id=whats-the-difference-between-the-talisman-and-ender-talisman
 
@@ -53,7 +51,7 @@ Slimefun 目前支持 Minecraft 1.14 及以上的每个版本。每当 Minecraft
 
 ## 我可以拿石块做什么? :id=what-can-i-do-with-stone-chunks
 
-4个石块可以通过[压缩机](/Compressor)变成圆石。
+4个石块可以通过[压缩机](/Compressor)变成圆石。它们在部分附属中会被大量使用。
 
 ## 如何根据世界禁用物品? :id=how-do-i-disable-items-per-world
 
@@ -91,10 +89,10 @@ Slimefun 目前支持 Minecraft 1.14 及以上的每个版本。每当 Minecraft
 
 | 燃料      | 持续时间        | 冷却剂类型 | 冷却剂数量|
 | --------- | ------------- | --------- | ------- |
-| 铀        | 20分钟 (1200秒) | 普通      | 48      |
-| 镎        | 10分钟 (600秒)  | 普通      | 24      |
-| 高纯度铀   | 25分钟 (1500秒) | 普通      | 60      |
-| 下界之星   | 30分钟 (1800秒) | 下界冰     | 72     |
+| 铀        | 20分钟（1200秒）| 普通      | 48      |
+| 镎        | 10分钟（600秒） | 普通      | 24      |
+| 高纯度铀   | 25分钟（1500秒）| 普通      | 60      |
+| 下界之星   | 30分钟（1800秒）| 下界冰     | 72     |
 
 ## 是 Slimefun 还是 SlimeFun? :id=is-it-slimefun-or-slimefun
 
