@@ -10,7 +10,7 @@
 * 1 [黄铜锭](/Brass-Ingot)
 * 1 [铝锭](/Aluminum-Ingot)
 
-#### 累计基础材料消耗 :id=total-base-material-cost 
+#### 累计基础材料消耗 :id=total-base-material-cost
 
 * 2 [铝粉](/Aluminum-Dust)
 * 2 [铜粉](/Copper-Dust)

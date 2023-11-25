@@ -21,5 +21,5 @@
 
 ## 用途 :id=usage
 
-矿粉可以在[冶炼炉](/Smeltery)中冶炼成对应的[锭](/Ingots#Metals)或[合金](/Ingots#Alloys)。   
+矿粉可以在[冶炼炉](/Smeltery)中冶炼成对应的[锭](/Ingots#Metals)或[合金](/Ingots#Alloys)。
 矿粉也可以在[电动铸锭机](/Electric-Ingot-Factory)中冶炼成对应的[锭](/Ingots#Metals)或在[电力冶炼炉](/Electric-Smeltery)中冶炼成[合金](/Ingots#Alloys)。

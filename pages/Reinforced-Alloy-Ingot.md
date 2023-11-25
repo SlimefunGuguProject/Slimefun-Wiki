@@ -13,7 +13,7 @@
 * 1 [银铜合金锭](/Billon-Ingot)
 * 1 [金锭（24克拉）](/Gold-Ingot#Gold-Ingot-24-Carat)
 
-#### 累计基础材料消耗 :id=total-base-material-cost 
+#### 累计基础材料消耗 :id=total-base-material-cost
 
 * 8 [铁粉](/Iron-Dust)
 * 4 [铝粉](/Aluminum-Dust)

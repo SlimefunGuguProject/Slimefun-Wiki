@@ -24,10 +24,11 @@ Slimefun 目前支持 Minecraft 1.14 及以上的每个版本。每当 Minecraft
 首先，加入我们的[Discord服务器](https://discord.gg/slimefun)，并进入`#bug-discussions`频道。我们需要确认是否是 Bug，用户错误，或者是预期的行为。请注意，我们**不接受在discord中的bug汇报，只接受来自GitHub的**。根据我们积累的经验，10个"bug"中的9个是因为使用了旧版本的插件，所以请先在我们的discord服务器中与其他人讨论这个问题，让我们的开发者能够专注于已确认的Bug汇报。
 
 现在，请在`#bug-discussions`频道向我们提供以下信息:
+
 1. 运行 `/sf versions` 然后向我们发送截图。我们需要知道你正在使用哪个版本，否则，我们无法帮到你。
 "最新版本"对我们没有任何帮助。所以，请运行该指令。如果你没有运行该指令的权限，请 Shift + 右键 点击你的 Slimefun 指南，你可以在顶部中间的格子找到正在使用的版本。
 
-2. 检查控制台，看看是否有错误？ (如果有，请发布在 https://pastebin.com/)
+2. 检查控制台，看看是否有错误？ (如果有，请发布在 <https://pastebin.com/>)
 
 3. 接下来该怎么办?
 
@@ -74,7 +75,7 @@ Slimefun 目前支持 Minecraft 1.14 及以上的每个版本。每当 Minecraft
 
 如果你想知道某个物品该如何使用，请阅读[官方Wiki](https://github.com/Slimefun/Slimefun4/wiki)或本Wiki。你可以使用搜索功能来查找你需要的物品。
 
-!> **注意**: Wiki 仍缺少页面。它是由社区管理的。如果你想向 Wiki 添加内容，请参阅[这篇指南](/Expanding-the-Wiki)。
+!> **注意**：Wiki 仍缺少页面。它是由社区管理的。如果你想向 Wiki 添加内容，请参阅[这篇指南](/Expanding-the-Wiki)。
 
 ## 怎么修复 Slimefun 物品? :id=how-do-i-repair-slimefun-items
 

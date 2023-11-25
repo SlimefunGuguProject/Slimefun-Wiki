@@ -11,7 +11,7 @@
 * 3 [铜粉](/Copper-Dust)
 * 1 [青铜锭](/Bronze-Ingot)
 
-#### 累计基础材料消耗 :id=total-base-material-cost 
+#### 累计基础材料消耗 :id=total-base-material-cost
 
 * 1 [银粉](/Silver-Dust)
 * 1 [金粉](/Gold-Dust)

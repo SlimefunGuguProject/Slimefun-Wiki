@@ -15,4 +15,3 @@
 能源调节器无法储存能量。要储存能量，你可以使用[电容](/Energy-Connector)。
 
 能源调节器会显示能源网络中的电力总和。你可以使用[万用表](/Technical-Gadgets#multimeter)来查看单个方块的电力信息。
- 

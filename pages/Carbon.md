@@ -13,5 +13,5 @@
 
 ## 另请参阅 :id=see-also
 
-* [黑金刚石原矿](/Carbonado)
-* [黑金刚石](/Carbonado)
+- [黑金刚石原矿](/Carbonado)
+- [黑金刚石](/Carbonado)

@@ -17,12 +17,14 @@ Slimefun 的金锭不能替代原版金锭在原版合成台中使用（4克拉�
 4克拉的金锭可以在[电力打粉机](/Electric-Ingot-Pulverizer)中粉碎成[金粉](/Gold-Dust)。  
 4克拉的金锭可以替代金锭在原版合成台中使用。
 它也用于以下物品的配方:
+
 * [金锭 (6克拉)](#gold-ingot-6-carat)
 * [方块放置机](/Block-Placer)
 
 ### 金锭 (6克拉) :id=gold-ingot-6-carat
 
 6克拉的金锭用于以下物品的配方:
+
 * [金锭 (8克拉)](#gold-ingot-8-carat)
 * [万用表](/Technical-Gadgets#multimeter)
 * [小型背包](/Backpacks)

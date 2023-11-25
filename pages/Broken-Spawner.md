@@ -1,6 +1,6 @@
 # 已损坏的刷怪笼 :id=broken-spawner
 
-已损坏的刷怪笼是[魔法物品](/Magical-Items)分类中的物品。   
+已损坏的刷怪笼是[魔法物品](/Magical-Items)分类中的物品。
 正如物品名称所述，该物品没有任何功能。
 
 ## 获取 :id=obtaining

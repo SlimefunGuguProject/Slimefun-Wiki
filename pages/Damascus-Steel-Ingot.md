@@ -11,7 +11,7 @@
 * 1 [碳](/Carbon)
 * 1 [铁锭](/Iron-Ingot)
 
-#### 累计基础材料消耗 :id=total-base-material-cost 
+#### 累计基础材料消耗 :id=total-base-material-cost
 
 * 4 [铁粉](/Iron-Dust)
 * 16 煤
