@@ -1,4 +1,4 @@
-# 可编程式机器人 (渔夫) :id=fisherman-androids
+# 可编程式机器人（渔夫）:id=fisherman-androids
 
 渔夫机器人是为自动化钓鱼而设计的[机器人](/Androids)。
 

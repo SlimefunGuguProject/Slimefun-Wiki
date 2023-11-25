@@ -8,7 +8,7 @@
 
 ## 用途 :id=usage
 
-可以在[电力打粉机](/Electric-Ingot-Pulverizer)中将锌锭碎成[锌粉](/Zinc-Dust)。 
+可以在[电力打粉机](/Electric-Ingot-Pulverizer)中将锌锭碎成[锌粉](/Zinc-Dust)。
 
 锌锭被用于下列物品的配方:
 

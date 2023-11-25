@@ -10,7 +10,7 @@
 * 1 [锌粉](/Zinc-Dust)
 * 1 [铜锭](/Copper-Ingot)
 
-#### 累计基础材料消耗 :id=total-base-material-cost 
+### 累计基础材料消耗 :id=total-base-material-cost
 
 * 2 [铜粉](/Copper-Dust)
 * 1 [锌粉](/Zinc-Dust)

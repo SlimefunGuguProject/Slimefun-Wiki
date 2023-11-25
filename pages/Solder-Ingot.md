@@ -10,7 +10,7 @@
 * 1 [锡粉](/Tin-Dust)
 * 1 [铅锭](/Lead-Ingot)
 
-#### 累计基础材料消耗 :id=total-base-material-cost 
+### 累计基础材料消耗 :id=total-base-material-cost
 
 * 2 [铅粉](/Lead-Dust)
 * 1 [锡粉](/Tin-Dust)

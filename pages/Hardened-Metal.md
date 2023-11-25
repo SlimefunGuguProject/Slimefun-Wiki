@@ -11,7 +11,7 @@
 * 1 [压缩碳](/Carbon)
 * 1 [铝青铜锭](/Aluminum-Bronze-Ingot)
 
-#### 累计基础材料消耗 :id=total-base-material-cost 
+### 累计基础材料消耗 :id=total-base-material-cost
 
 * 4 [铁粉](/Iron-Dust)
 * 4 [铝粉](/Aluminum-Dust)

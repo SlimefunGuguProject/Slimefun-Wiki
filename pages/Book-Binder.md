@@ -7,7 +7,7 @@
 当前只有1个等级的附魔书整合机。  
 合并持续时间取决于附魔的数量和等级。
 
-**电力消耗**: 16 J/s
+**电力消耗**：16 J/s
 
 ## 设置 :id=book-binder-settings
 
@@ -20,4 +20,4 @@
 | has-custom-max-level     | 启用后，通过`custom-max-level`来设置新的附魔等级上限。 | boolean | false         |
 | custom-max-level         | 附魔等级上限   | int     | 15            |
 
-?> 提示: 在`/plugins/Slimefun/Items.yml`中修改机器相关的设置。
+?> 提示：在`/plugins/Slimefun/Items.yml`中修改机器相关的设置。

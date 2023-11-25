@@ -1,6 +1,6 @@
 # 压缩机 :id=compressor
 
-压缩机 (Compressor) 是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
+压缩机（Compressor）是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
 
 ## 建造 :id=obtaining
 

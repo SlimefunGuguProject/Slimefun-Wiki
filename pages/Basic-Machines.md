@@ -9,7 +9,7 @@
 * [盔甲锻造台](/Armor-Forge)
 * [矿石粉碎机](/Ore-Crusher)
 * [压缩机](/Compressor)
-* [简易冶炼炉](/Smeltery)
+* [简易冶炼炉](/Makeshift-Smeltery)
 * [冶炼炉](/Smeltery)
 * [自动点火机](/Automatic-Ignition-Chamber)
 * [压力机](/Pressure-Chamber)

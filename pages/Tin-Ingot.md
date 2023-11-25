@@ -8,9 +8,8 @@
 
 ## 用途 :id=usage
 
-可以在[电力打粉机](/Electric-Ingot-Pulverizer)中将锡锭粉碎成[锡粉](/Tin-Dust)。 
+可以在[电力打粉机](/Electric-Ingot-Pulverizer)中将锡锭粉碎成[锡粉](/Tin-Dust)。
 
 锡锭被用于以下配方:
 
 * [锡罐](/Tin-Can)
-

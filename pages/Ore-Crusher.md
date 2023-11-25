@@ -1,6 +1,6 @@
 # 矿石粉碎机 :id=ore-crusher
 
-矿石粉碎机 (Ore Crusher) 是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
+矿石粉碎机（Ore Crusher）是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
 
 ## 建造 :id=obtaining
 
@@ -25,17 +25,17 @@
 | 材料 | 产物 |
 | :-- | :-- |
 | 8 圆石 | 1 沙子 |
-| 1 [金锭 (4克拉)](/Gold-Ingot) | 1 [金粉](/Gold-Dust) |
-| 1 [金锭 (6克拉)](/Gold-Ingot) | 2 [金粉](/Gold-Dust) |
-| 1 [金锭 (8克拉)](/Gold-Ingot) | 2 [金粉](/Gold-Dust) |
-| 1 [金锭 (10克拉)](/Gold-Ingot) | 3 [金粉](/Gold-Dust) |
-| 1 [金锭 (12克拉)](/Gold-Ingot) | 3 [金粉](/Gold-Dust) |
-| 1 [金锭 (14克拉)](/Gold-Ingot) | 4 [金粉](/Gold-Dust) |
-| 1 [金锭 (16克拉)](/Gold-Ingot) | 4 [金粉](/Gold-Dust) |
-| 1 [金锭 (18克拉)](/Gold-Ingot) | 5 [金粉](/Gold-Dust) |
-| 1 [金锭 (20克拉)](/Gold-Ingot) | 5 [金粉](/Gold-Dust) |
-| 1 [金锭 (22克拉)](/Gold-Ingot) | 6 [金粉](/Gold-Dust) |
-| 1 [金锭 (24克拉)](/Gold-Ingot) | 6 [金粉](/Gold-Dust) |
+| 1 [金锭（4克拉）](/Gold-Ingot) | 1 [金粉](/Gold-Dust) |
+| 1 [金锭（6克拉）](/Gold-Ingot) | 2 [金粉](/Gold-Dust) |
+| 1 [金锭（8克拉）](/Gold-Ingot) | 2 [金粉](/Gold-Dust) |
+| 1 [金锭（10克拉）](/Gold-Ingot) | 3 [金粉](/Gold-Dust) |
+| 1 [金锭（12克拉）](/Gold-Ingot) | 3 [金粉](/Gold-Dust) |
+| 1 [金锭（14克拉）](/Gold-Ingot) | 4 [金粉](/Gold-Dust) |
+| 1 [金锭（16克拉）](/Gold-Ingot) | 4 [金粉](/Gold-Dust) |
+| 1 [金锭（18克拉）](/Gold-Ingot) | 5 [金粉](/Gold-Dust) |
+| 1 [金锭（20克拉）](/Gold-Ingot) | 5 [金粉](/Gold-Dust) |
+| 1 [金锭（22克拉）](/Gold-Ingot) | 6 [金粉](/Gold-Dust) |
+| 1 [金锭（24克拉）](/Gold-Ingot) | 6 [金粉](/Gold-Dust) |
 | 1 沙砾 | 1 沙子 |
 | 1 岩浆块 | 1 [硫酸盐](/Sulfate) |
 | 1 [碳](/Carbon) | 8 煤炭 |
@@ -50,7 +50,7 @@
 | 1 [纯矿簇](/Small-Chunk-of-Uranium) | 1 [一小撮铀](/Small-Chunk-of-Uranium) |
 
 在`Items.yml`中可以配置是否开启双倍矿产`double-ores`，默认开启。  
-开启后，下方配方产物的数量将翻倍。矿石包含其深层变种（例如, 煤矿石的深层变种: 深层煤矿石）。
+开启后，下方配方产物的数量将翻倍。矿石包含其深层变种（例如，煤矿石的深层变种：深层煤矿石）。
 
 | 材料 | 产物 |
 | :-- | :-- |

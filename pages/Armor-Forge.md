@@ -1,6 +1,6 @@
 # 盔甲锻造台 :id=armor-forge
 
-盔甲锻造台 (Armor Forge) 是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
+盔甲锻造台（Armor Forge）是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
 
 ## 建造 :id=obtaining
 

@@ -1,4 +1,4 @@
-# 可编程式机器人 (樵夫) :id=woodcutter-androids
+# 可编程式机器人（樵夫）:id=woodcutter-androids
 
 樵夫机器人是为自动化种树而设计的[机器人](/Androids)。
 

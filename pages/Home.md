@@ -1,8 +1,8 @@
 # 主页 :id=home
 
-欢迎来到 Slimefun4 的非官方中文 Wiki! 本 Wiki 由[ybw0014](https://github.com/ybw0014)创建并由[贡献者团队](https://github.com/GuizhanCraft/Slimefun-Wiki/graphs/contributors)共同维护。
+欢迎来到 Slimefun4 的非官方中文 Wiki！本 Wiki 由[ybw0014](https://github.com/ybw0014)创建并由[贡献者团队](https://github.com/GuizhanCraft/Slimefun-Wiki/graphs/contributors)共同维护。
 
-本 Wiki 的物品名称将使用 StarWishsama 汉化的 Slimefun4 ([了解详情](/Installing-Slimefun?id=slimefun-4-cn-downloads)) 中的物品名称。
+本 Wiki 的物品名称将使用 [StarWishsama](https://github.com/StarWishsama) 汉化的 Slimefun4（[了解详情](/Installing-Slimefun?id=slimefun-4-cn-downloads)）中的物品名称。
 
 ## 总览 :id=overview
 
@@ -39,11 +39,13 @@
 - [货运管理](/Cargo-Management)
 - [节日物品](/Seasonal-Categories)
 
-## Discord :id=discord
+## 交流 :id=communication
 
-Slimefun 还有个 Discord 服务器，你可以在这里提出建议、讨论功能或只是聊天。
+粘液科技简中汉化组创建了一个 KOOK 服务器，你可以在这里提出建议、讨论功能或只是聊天。
 
-[https://discord.gg/slimefun](https://discord.gg/slimefun)
+[https://kook.top/oqZwh8](https://kook.top/oqZwh8)
+
+你也可以加入更加活跃的QQ群 [205679802](https://50l.cc/gugu-qgroup)。
 
 ## 一些附属插件的非官方 Wiki :id=addons-wiki
 

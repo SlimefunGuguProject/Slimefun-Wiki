@@ -1,6 +1,6 @@
 # 工业矿机 :id=industrial-miners
 
-工业矿机 (Industrial Miner) 是 Slimefun 的[基础机器](/Basic-Machines)之一。
+工业矿机（Industrial Miner）是 Slimefun 的[基础机器](/Basic-Machines)之一。
 
 它会从上往下寻找并挖掘附近的矿石，然后将它们放到箱子里。
 

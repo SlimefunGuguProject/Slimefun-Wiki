@@ -9,7 +9,7 @@ Slimefun 中的铜锭并非 Minecraft 1.17 版本中新增的铜锭。它们不�
 
 ## 用途 :id=usage
 
-可以在[电力打粉机](/Electric-Ingot-Pulverizer)中将铜锭（Slimefun与原版均可）粉碎成[铜粉](/Copper-Dust)。 
+可以在[电力打粉机](/Electric-Ingot-Pulverizer)中将铜锭（Slimefun与原版均可）粉碎成[铜粉](/Copper-Dust)。
 
 铜锭被用于以下配方:
 
