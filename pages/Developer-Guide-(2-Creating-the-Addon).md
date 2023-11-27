@@ -1,6 +1,6 @@
-# 开发指南 (2. 创建附属)
+# 开发指南（2. 创建附属）
 
-这是我们的开发指南的第二部分，你可以在[这里](/Developer-Guide)查看目录。
+这是我们的开发指南的第二章，你可以在[这里](/Developer-Guide)查看目录。
 如果你还没有看过之前的内容，请先阅读它们。
 
 ## 1. 你的主类 :id=1-your-main-class
@@ -49,7 +49,7 @@ public class ExampleAddon extends JavaPlugin implements SlimefunAddon {
 这是因为，你在开发时会用到这些类。
 
 接下来，是你的主类定义，类名与你的文件名一致（不包含后缀），然后是`extends JavaPlugin`，表示这是一个Bukkit插件。  
-最后的`implements SlimefunAddon`表示这是一个粘液科技附属。
+最后的`implements SlimefunAddon`表示这是一个 Slimefun 附属。
 
 这个类包含两个方法。  
 `onEnable`将在插件启用时被执行，通常包含各种初始化操作。
@@ -71,7 +71,7 @@ public void onEnable() {
 你可以使用`Config`类，并使用`new Config(this)`来从配置文件中读取配置。  
 `src/main/resources/config.yml`文件是默认的配置文件内容。
 
-`Config`类来自Slimefun/dough，因此你通常不会在其它非粘液科技项目中看到它。  
+`Config`类来自 Slimefun/dough，因此你通常不会在其它非 Slimefun 项目中看到它。  
 你可以直接从配置文件中使用指定的获取类来获取指定的值：
 
 ```java
@@ -81,7 +81,7 @@ cfg.getString("path.to.your.string");
 
 你可以使用`Config`来设置可以让服主自由调整的值。
 
-!> 重要提示：如果你的IDE抱怨找不到`Config`类，那么你需要从`io.github.thebusybiscuit.slimefun4.libraries.dough.config`包中来引用该类。  
+!> **重要提示**：如果你的IDE抱怨找不到`Config`类，那么你需要从`io.github.thebusybiscuit.slimefun4.libraries.dough.config`包中来引用该类。  
 你需要引用每一个你用到的外部类。
 
-?> 点击继续阅读[第三部分](/Developer-Guide-(3-Your-first-Item))
+?> 点击继续阅读[第三章](/Developer-Guide-(3-Your-first-Item))
