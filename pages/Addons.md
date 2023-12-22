@@ -156,6 +156,7 @@ GreedAndCreation 贪婪与创世 | HuoSJ | <details><summary>展开</summary>添
 DefoLiationTech 落叶科技 | lyen | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/LuoYe5555/DefoLiationTech) | [官方版](https://github.com/LuoYe5555/DefoLiationTech)
 BocchiTechnology 波奇科技 | yigexu | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/bocchiyigexu/Bocchi_Technology) | [官方版](https://github.com/bocchiyigexu/Bocchi_Technology)
 HiWorldOreTech 矿物科技 | HiTech0926 | <details><summary>展开</summary>让原版矿物变得更加有用，同时也增加了一些新的矿物获取方式 </details> | [更多信息](https://github.com/HiTech0926/HiWorldOreTech#readme) | [官方版](https://github.com/HiTech0926/HiWorldOreTech) | [官方版](https://github.com/HiTech0926/HiWorldOreTech)
+HLGtech 生物科技 | yigexu | <details><summary>展开</summary>将至尊的难度降低了一些，同时增加机器 </details> | N/A | [官方版](https://github.com/bocchiyigexu/SHENGWUTECH) | [官方版](https://github.com/bocchiyigexu/SHENGWUTECH)
 
 ### :wrench: 功能性插件 :id=functional-addons
 
