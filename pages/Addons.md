@@ -150,7 +150,7 @@ MomoTech 乱码科技(陌陌科技) | QYhB05 | <details><summary>展开</summary
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
-HaimanTech2 海曼科技院 | haiman | <details><summary>展开</summary>海曼科技院是通过SlimeCustomizer插件写成的一份配置文件，旨在完善粘液科技线，拓展新的原版玩法，作者：haiman233 </details> | N/A | [官方版](https://github.com/haiman233/HaimanTech2) | [官方版](https://github.com/haiman233/HaimanTech2/releases)
+HaimanTech2 海曼科技院 | haiman233 | <details><summary>展开</summary>旨在完善粘液科技线，拓展原版玩法</details> | N/A | [官方版](https://github.com/haiman233/HaimanTech2) | [官方版](https://github.com/haiman233/HaimanTech2/releases)
 InfiniteExtensionV2 无尽扩展V2 | HuoSJ | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/HuoSJ7820/InfiniteExtensionV2) | [官方版](https://github.com/HuoSJ7820/InfiniteExtensionV2)
 OrangeTech 橘子科技 | duoduojuzi | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | [更多信息](https://github.com/duoduojuzi/OrangeTech#readme) | [官方版](https://github.com/duoduojuzi/OrangeTech) | [官方版](https://github.com/duoduojuzi/OrangeTech/archive/refs/heads/main.zip)
 XingchengCraft 星辰工艺 | fengxiangQAQ | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/FengXiang2233/XingCheng_Craft) | [官方版](https://github.com/FengXiang2233/XingCheng_Craft)
