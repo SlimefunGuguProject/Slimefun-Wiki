@@ -170,7 +170,7 @@ InfiniteExtensionV2-Reconfiguration 无尽扩展v2-重构版| zhkAZ | <details><
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
 EnchanterLimit 限制附魔机 | JinOuYongGu | <details><summary>展开</summary>限制粘液科技自动附魔台的附魔等级和数量 </details> | N/A | [官方版](https://github.com/JinOuYongGu/EnchanterLimit) | [官方版](https://builds.guizhanss.com/JinOuYongGu/EnchanterLimit/master)
-HeadLimiter 头颅限制 | J3fftw1 | <details><summary>展开</summary>限制单个区块内的头颅</details> | N/A | [官方版](https://github.com/J3fftw1/HeadLimiter) / [汉化版](https://github.com/SlimefunGuguProject/HeadLimiter) | [官方版](https://github.com/J3fftw1/HeadLimiter/releases) / [汉化版](https://builds.guizhanss.com/SlimefunGuguProject/HeadLimiter/master)
+BlockLimiter 方块限制 | ybw0014 | <details><summary>展开</summary>该附属可以限制区块内的任意粘液科技方块的数量，基于 HeadLimiter 重构并改进。</details> | N/A | [官方版](https://github.com/ybw0014/BlockLimiter) | [官方版](https://builds.guizhanss.com/ybw0014/BlockLimiter/master)
 SfItemsExporter 粘液物品导出 | ybw0014 | <details><summary>展开</summary>它可以让你快速导出服务器内粘液物品并转化为.json文件</details> | N/A | [官方版](https://github.com/ybw0014/SfItemsExporter) | [官方版](https://builds.guizhanss.com/ybw0014/SfItemsExporter/master)
 SlimeGlue 粘液胶 | Xzavier0722 | <details><summary>展开</summary>如果您发现任何不兼容的插件或功能，请在本仓库提交issue</details> | N/A | [官方版](https://github.com/Xzavier0722/SlimeGlue) | [官方版](https://github.com/Xzavier0722/SlimeGlue/releases)
 KeepSoulbound (RC-27) 高级灵魂绑定 | ChuckLingBao | <details><summary>展开</summary>一个功能性附属，使得粘液科技的灵魂绑定物品在玩家死后直接保留在玩家物品栏，而不是在玩家死亡点生成一个遗产箱</details> | N/A | [官方版](https://github.com/ChuckLingBao/KeepSoulbound) | 官方版自行构建
