@@ -136,6 +136,7 @@ VillagerTrade (RC-33) 村民交易 | ybw0014 | <details><summary>展开</summary
 FastMachines 快捷机器 | ybw0014 | <details><summary>展开</summary>该附属将乱序技艺的快捷机器玩法提取出来做成一个单独的附属。快捷机器可以批量制作物品，且不需要按顺序摆放配方物品。</details> | [官方版介绍](https://github.com/ybw0014/FastMachines#readme) | [官方版](https://github.com/ybw0014/FastMachines) | [官方版](https://thebusybiscuit.github.io/builds/ybw0014/FastMachines/master/) （自带中文） / [备用下载](https://builds.guizhanss.com/ybw0014/FastMachines/master)
 RykenSlimeCustomizer Ryken自定义附属 | lijinhong11(mmmjjkx) | <details><summary>展开</summary>（国产）一款比较有更多自定义性的自定义附属，有比SC更多可自定义的东西</details> | [Wiki](https://boxueduocai.gitbook.io/rykenslimecustomizer) | [官方版](https://github.com/SlimefunReloadingProject/RykenSlimeCustomizer) | [官方版](https://github.com/SlimefunReloadingProject/RykenSlimeCustomizer)
 MomoTech 乱码科技(陌陌科技) | QYhB05 | <details><summary>展开</summary> 该附属添加了一些机器和实用的前期工具/生成器。 </datails> | N/A | [官方版](https://github.com/QYhB05/MomoTech) | [官方版](https://github.com/QYhB05/MomoTech/tree/main/jar)
+XingChengCraft 星辰工艺 | fengxiangQAQ | <details><summary>展开</summary> 一个拓展中后粘液生产线的粘液附属 </details> | N/A | [官方版](https://github.com/FengXiang2233/XingChengCraft) | [官方版](https://github.com/FengXiang2233/XingChengCraft)
 
 ### :anchor: 自定义粘液附属 :id=slime-customizer-addons
 
@@ -153,7 +154,6 @@ MomoTech 乱码科技(陌陌科技) | QYhB05 | <details><summary>展开</summary
 HaimanTech2 海曼科技院 | haiman233 | <details><summary>展开</summary>旨在完善粘液科技线，拓展原版玩法</details> | N/A | [官方版](https://github.com/haiman233/HaimanTech2) | [官方版](https://github.com/haiman233/HaimanTech2/releases)
 InfiniteExtensionV2 无尽扩展V2 | HuoSJ | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/HuoSJ7820/InfiniteExtensionV2) | [官方版](https://github.com/HuoSJ7820/InfiniteExtensionV2)
 OrangeTech 橘子科技 | duoduojuzi | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | [更多信息](https://github.com/duoduojuzi/OrangeTech#readme) | [官方版](https://github.com/duoduojuzi/OrangeTech) | [官方版](https://github.com/duoduojuzi/OrangeTech/archive/refs/heads/main.zip)
-XingchengCraft 星辰工艺 | fengxiangQAQ | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/FengXiang2233/XingCheng_Craft) | [官方版](https://github.com/FengXiang2233/XingCheng_Craft)
 GreedAndCreation 贪婪与创世 | HuoSJ | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/HuoSJ7820/GreedAndCreation) | [官方版](https://github.com/HuoSJ7820/GreedAndCreation)
 DefoLiationTech 落叶科技 | lyen | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/LuoYe5555/DefoLiationTech) | [官方版](https://github.com/LuoYe5555/DefoLiationTech)
 BocchiTechnology 波奇科技 | yigexu | <details><summary>展开</summary>添加了一系列机器到粘液书中 </details> | N/A | [官方版](https://github.com/bocchiyigexu/Bocchi_Technology) | [官方版](https://github.com/bocchiyigexu/Bocchi_Technology)
