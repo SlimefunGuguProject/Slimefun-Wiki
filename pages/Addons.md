@@ -141,7 +141,7 @@ DefoLiationTech 落叶科技 | lyen |<details><summary>展开</summary> 该附�
 
 ### :anchor: SC自定义粘液附属 :id=slime-customizer-addons
 
-以下均为自定义粘液附属的配置。
+以下均为SC自定义粘液附属的配置。
 
 该列表为[SlimeCustomizer 自定义粘液附属](https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/)的配置文件。  
 在安装好自定义粘液附属后，将下载的配置文件覆盖原配置文件即可。
@@ -165,7 +165,7 @@ InfiniteExtensionV2-Reconfiguration 无尽扩展v2-重构版| lyen | <details><s
 
 ### :anchor: RSC自定义粘液附属 :id=ryken-slime-customizer-addons
 
-以下均为自定义粘液附属的配置。
+以下均为RSC自定义粘液附属的配置。
 
 该列表为[RykenSlimeCustomizer 自定义粘液附属](https://rsc.hiworldmc.com/)的配置文件。  
 在安装好插件后，将该插件的配置文件(附属)丢进RykenSlimeCustomizer/addons文件夹里。
