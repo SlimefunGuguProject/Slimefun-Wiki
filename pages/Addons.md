@@ -139,11 +139,11 @@ MomoTech 乱码科技(陌陌科技) | QYhB05 | <details><summary>展开</summary
 XingChengCraft 星辰工艺 | fengxiangQAQ | <details><summary>展开</summary> 一个拓展中后粘液生产线的粘液附属 </details> | N/A | [官方版](https://github.com/FengXiang2233/XingChengCraft) | [官方版](https://github.com/FengXiang2233/XingChengCraft)
 DefoLiationTech 落叶科技 | lyen |<details><summary>展开</summary> 该附属添加了一些生成器和实用机器 </details> | N/A | [官方版](https://github.com/LuoYe5555/DefoLiationTech.jar) | [官方版](https://github.com/LuoYe5555/DefoLiationTech.jar/tree/main/target)
 
-### :anchor: SC自定义粘液附属 :id=slime-customizer-addons
+### :anchor: SC 自定义粘液附属 :id=slime-customizer-addons
 
-以下均为SC自定义粘液附属的配置。
+以下均为 SC 自定义粘液附属的配置。
 
-该列表为[SlimeCustomizer 自定义粘液附属](https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/)的配置文件。  
+该列表为 [SlimeCustomizer 自定义粘液附属](https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/) 的配置文件。  
 在安装好自定义粘液附属后，将下载的配置文件覆盖原配置文件即可。
 
 如需安装多个配置，你需要手动合并文件内容。
@@ -163,15 +163,15 @@ HLGtech 生物科技 | yigexu | <details><summary>展开</summary>将至尊的�
 InfiniteExtensionV2-Reconfiguration 无尽扩展v2-重构版| lyen | <details><summary>展开</summary>在摆烂鸽的基础上添加了可以自动化无尽的机器 </details> | N/A | [官方版](https://github.com/LuoYe5555/InfiniteExtensionV2-Reconfiguration) | [官方版](https://github.com/LuoYe5555/InfiniteExtensionV2-Reconfiguration)
 
 
-### :anchor: RSC自定义粘液附属 :id=ryken-slime-customizer-addons
+### :anchor: RSC 自定义粘液附属 :id=ryken-slime-customizer-addons
 
-以下均为RSC自定义粘液附属的配置。
+以下均为 RSC 自定义粘液附属的配置。
 
-该列表为[RykenSlimeCustomizer 自定义粘液附属](https://rsc.hiworldmc.com/)的配置文件。  
-在安装好插件后，将该插件的配置文件(附属)丢进RykenSlimeCustomizer/addons文件夹里。
+该列表为 [RykenSlimeCustomizer 自定义粘液附属](https://rsc.hiworldmc.com/) 的配置文件。  
+在安装好插件后，将该插件的配置文件(附属)丢进 RykenSlimeCustomizer/addons 文件夹里。
 
-注意！该附属需要Paper服务端才能运行，请在下载时注意标注的运行要求。
-更多详细信息和使用教程请[查看Wiki](https://rsc.hiworldmc.com/)
+注意！该附属需要 Paper 服务端才能运行，请在下载时注意标注的运行要求。
+更多详细信息和使用教程请查看 [Wiki](https://rsc.hiworldmc.com/)
 
 !> 所有的配置文件均由相关作者提供，本 Wiki 仅列出这些配置文件，不会对内容的真实性、兼容性、可用性进行检验。出现任何问题请寻找作者。
 
