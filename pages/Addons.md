@@ -134,16 +134,16 @@ ClayTech (RC-26) 粘土科技 | ClayCoffee | <details><summary>展开</summary>�
 HardlessMachine (RC-26) 弹跳工具 | TheSmileCat | <details><summary>展开</summary>（国产）该附属添加了一些弹跳板</details> | N/A | [官方版](https://github.com/TheSmileCat/HardlessMachine) | [官方版](https://github.com/TheSmileCat/HardlessMachine)
 VillagerTrade (RC-33) 村民交易 | ybw0014 | <details><summary>展开</summary>（国产）该附属支持将粘液科技物品添加到村民/流浪商人的交易中</details> | N/A | [官方版](https://github.com/ybw0014/VillagerTrade) | [官方版](https://github.com/ybw0014/VillagerTrade)
 FastMachines 快捷机器 | ybw0014 | <details><summary>展开</summary>该附属将乱序技艺的快捷机器玩法提取出来做成一个单独的附属。快捷机器可以批量制作物品，且不需要按顺序摆放配方物品。</details> | [官方版介绍](https://github.com/ybw0014/FastMachines#readme) | [官方版](https://github.com/ybw0014/FastMachines) | [官方版](https://thebusybiscuit.github.io/builds/ybw0014/FastMachines/master/) （自带中文） / [备用下载](https://builds.guizhanss.com/ybw0014/FastMachines/master)
-RykenSlimeCustomizer Ryken自定义附属 | lijinhong11(mmmjjkx) | <details><summary>展开</summary>（国产）一款比较有更多自定义性的自定义附属，有比SC更多可自定义的东西</details> | [Wiki](https://boxueduocai.gitbook.io/rykenslimecustomizer) | [官方版](https://github.com/SlimefunReloadingProject/RykenSlimeCustomizer) | [官方版](https://github.com/SlimefunReloadingProject/RykenSlimeCustomizer)
+RykenSlimeCustomizer Ryken自定义附属 | lijinhong11(mmmjjkx) | <details><summary>展开</summary>（国产）一款比较有更多自定义性的自定义附属，有比SC更多可自定义的东西</details> | [Wiki](https://rsc.hiworldmc.com/) | [官方版](https://github.com/SlimefunReloadingProject/RykenSlimeCustomizer) | [官方版](https://github.com/SlimefunReloadingProject/RykenSlimeCustomizer)
 MomoTech 乱码科技(陌陌科技) | QYhB05 | <details><summary>展开</summary> 该附属添加了一些机器和实用的前期工具/生成器。 </datails> | N/A | [官方版](https://github.com/QYhB05/MomoTech) | [官方版](https://github.com/QYhB05/MomoTech/tree/main/jar)
 XingChengCraft 星辰工艺 | fengxiangQAQ | <details><summary>展开</summary> 一个拓展中后粘液生产线的粘液附属 </details> | N/A | [官方版](https://github.com/FengXiang2233/XingChengCraft) | [官方版](https://github.com/FengXiang2233/XingChengCraft)
 DefoLiationTech 落叶科技 | lyen |<details><summary>展开</summary> 该附属添加了一些生成器和实用机器 </details> | N/A | [官方版](https://github.com/LuoYe5555/DefoLiationTech.jar) | [官方版](https://github.com/LuoYe5555/DefoLiationTech.jar/tree/main/target)
 
-### :anchor: SC自定义粘液附属 :id=slime-customizer-addons
+### :anchor: SC 自定义粘液附属 :id=slime-customizer-addons
 
-以下均为自定义粘液附属的配置。
+以下均为 SC 自定义粘液附属的配置。
 
-该列表为[SlimeCustomizer 自定义粘液附属](https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/)的配置文件。  
+该列表为 [SlimeCustomizer 自定义粘液附属](https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/) 的配置文件。  
 在安装好自定义粘液附属后，将下载的配置文件覆盖原配置文件即可。
 
 如需安装多个配置，你需要手动合并文件内容。
@@ -161,6 +161,23 @@ BocchiTechnology 波奇科技 | yigexu | <details><summary>展开</summary>添�
 OreTech 矿物科技 | HiTech0926, Chenmose | <details><summary>展开</summary>让原版矿物变得更加有用，同时也增加了一些新的矿物获取方式 </details> | [更多信息](https://github.com/HiTech0926/SC-OreTech#readme) | [官方版](https://github.com/HiTech0926/SC-OreTech) | [官方版](https://github.com/HiTech0926/SC-OreTech)
 HLGtech 生物科技 | yigexu | <details><summary>展开</summary>将至尊的难度降低了一些，同时增加机器 </details> | N/A | [官方版](https://github.com/bocchiyigexu/SHENGWUTECH) | [官方版](https://github.com/bocchiyigexu/SHENGWUTECH)
 InfiniteExtensionV2-Reconfiguration 无尽扩展v2-重构版| lyen | <details><summary>展开</summary>在摆烂鸽的基础上添加了可以自动化无尽的机器 </details> | N/A | [官方版](https://github.com/LuoYe5555/InfiniteExtensionV2-Reconfiguration) | [官方版](https://github.com/LuoYe5555/InfiniteExtensionV2-Reconfiguration)
+
+
+### :anchor: RSC 自定义粘液附属 :id=ryken-slime-customizer-addons
+
+以下均为 RSC 自定义粘液附属的配置。
+
+该列表为 [RykenSlimeCustomizer 自定义粘液附属](https://rsc.hiworldmc.com/) 的配置文件。  
+在安装好插件后，将该插件的配置文件(附属)丢进 RykenSlimeCustomizer/addons 文件夹里。
+
+注意！该附属需要 Paper 服务端才能运行，请在下载时注意标注的运行要求。
+更多详细信息和使用教程请查看 [Wiki](https://rsc.hiworldmc.com/)
+
+!> 所有的配置文件均由相关作者提供，本 Wiki 仅列出这些配置文件，不会对内容的真实性、兼容性、可用性进行检验。出现任何问题请寻找作者。
+
+名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
+--- | --- | --- | ------- | ----- | -- |
+HaimanTech2 海曼科技院 | haiman233 | <details><summary>展开</summary>旨在完善粘液科技线，拓展原版玩法</details> | N/A | [官方版](https://github.com/haiman233/HaimanTech2) | [官方版](https://github.com/haiman233/HaimanTech2/releases)
 
 ### :wrench: 功能性插件 :id=functional-addons
 
