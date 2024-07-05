@@ -179,7 +179,6 @@ InfiniteExtensionV2-Reconfiguration 无尽扩展v2-重构版| lyen | <details><s
 --- | --- | --- | ------- | ----- | -- |
 HaimanTech2 海曼科技院 | haiman233 | <details><summary>展开</summary>旨在完善粘液科技线，拓展原版玩法</details> | N/A | [官方版](https://github.com/haiman233/HaimanTech2) | [官方版](https://github.com/haiman233/HaimanTech2/releases)
 
-
 ### :wrench: 功能性插件 :id=functional-addons
 
 以下附属没有额外添加任何物品。但它们有自己各自的功能，各腐竹可根据自身服务器情况选择。
