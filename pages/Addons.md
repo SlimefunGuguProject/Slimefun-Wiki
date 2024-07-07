@@ -137,7 +137,7 @@ FastMachines 快捷机器 | ybw0014 | <details><summary>展开</summary>该附�
 RykenSlimeCustomizer Ryken自定义附属 | lijinhong11(mmmjjkx) | <details><summary>展开</summary>（国产）一款比较有更多自定义性的自定义附属，有比SC更多可自定义的东西</details> | [Wiki](https://rsc.hiworldmc.com/) | [官方版](https://github.com/SlimefunReloadingProject/RykenSlimeCustomizer) | [官方版](https://github.com/SlimefunReloadingProject/RykenSlimeCustomizer)
 MomoTech 乱码科技(陌陌科技) | QYhB05 | <details><summary>展开</summary> 该附属添加了一些机器和实用的前期工具/生成器。 </datails> | N/A | [官方版](https://github.com/QYhB05/MomoTech) | [官方版](https://github.com/QYhB05/MomoTech/tree/main/jar)
 XingChengCraft 星辰工艺 | fengxiangQAQ | <details><summary>展开</summary> 一个拓展中后粘液生产线的粘液附属 </details> | N/A | [官方版](https://github.com/FengXiang2233/XingChengCraft) | [官方版](https://github.com/FengXiang2233/XingChengCraft)
-DefoLiationTech 落叶科技 | lyen |<details><summary>展开</summary> 该附属添加了一些生成器和实用机器 </details> | N/A | [官方版](https://github.com/LuoYe5555/DefoLiationTech.jar) | [官方版](https://github.com/LuoYe5555/DefoLiationTech.jar/tree/main/target)
+DefoLiationTech 落叶科技 | lyen |<details><summary>展开</summary> 该附属添加了一些生成器和实用机器 </details> | N/A | N/A | N/A
 
 ### :anchor: SC 自定义粘液附属 :id=slime-customizer-addons
 
