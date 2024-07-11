@@ -85,6 +85,19 @@ const sidebars: SidebarsConfig = {
         'Soulbound-Weapons',
         'Bows',
       ]
+    },
+    {
+      type: 'category',
+      label: '有用的物品',
+      className: 'hidden',
+      items: [
+        'Portable-Crafter',
+        'Portable-Dustbin',
+        'Medical-Supplies',
+        'Backpacks',
+        'Cooler',
+        'Tape-Measure',
+      ]
     }
   ],
   // auto generated sidebars

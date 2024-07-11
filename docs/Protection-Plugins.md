@@ -1,3 +1,7 @@
+---
+sidebar_label: 支持的保护插件
+---
+
 # 保护插件 {#protection-plugins}
 
 Slimefun 支持许多现有的保护插件。  
@@ -11,11 +15,11 @@ Slimefun 支持许多现有的保护插件。
 如果保护插件不支持离线玩家，机器人需要拥有着在线才能正常工作。
 
 :heavy_check_mark: = 完全支持  
-:heavy_minus_sign: = 部分支持（例如，仅在受保护的区域） 
+:heavy_minus_sign: = 部分支持（例如，仅在受保护的区域）
 :x: = 不支持  
 N/A = 不可用
 
-| 插件 | 支持玩家 | 支持离线玩家 | 支持 PvP | 支持实体
+| 插件 | 支持玩家 | 支持离线玩家 | 支持 PvP | 支持实体 |
 | ------------------ | :----: | :----: | :----: | :---: |
 | ASkyBlock | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: |
 | BentoBox | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -39,6 +43,12 @@ N/A = 不可用
 这可能是因为该插件还没有对 Slimefun 提供支持，或依赖其他已经支持的保护插件。  
 有一部分插件需要 WorldGuard 或其他上述列表中已经列出的插件作为前置插件。  
 如果插件没有展示在列表中，请向插件作者询问是否使用了另外一个保护插件作为前置。
+
+:::tip
+
+对于汉化版 Slimefun，部分未列出的保护插件可能会通过 [SlimeGlue](https://github.com/Xzavier0722/SlimeGlue) 支持。
+
+:::
 
 如果没有，欢迎向作者发送本页面的链接，我们将在后面讲述如何添加保护插件的支持。
 
