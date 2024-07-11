@@ -96,7 +96,12 @@
 
 table {
   width: 100%;
-  td:nth-child(1) {
-    white-space: nowrap;
-  }
+}
+
+.hidden {
+  display: none;
+}
+
+summary {
+  cursor: pointer;
 }

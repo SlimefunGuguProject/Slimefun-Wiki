@@ -6,33 +6,37 @@ import Heading from '@theme/Heading';
 
 export default function NotFoundContent({className}: Props): JSX.Element {
   return (
-    <main className={clsx('container margin-vert--xl', className)}>
+    <main className={clsx("container margin-vert--xl", className)}>
       <div className="row">
         <div className="col col--6 col--offset-3">
           <Heading as="h1" className="hero__title">
             <Translate
               id="theme.NotFound.title"
-              description="The title of the 404 page">
+              description="The title of the 404 page"
+            >
               Page Not Found
             </Translate>
           </Heading>
           <p>
             <Translate
               id="theme.NotFound.p1"
-              description="The first paragraph of the 404 page">
+              description="The first paragraph of the 404 page"
+            >
               We could not find what you were looking for.
             </Translate>
           </p>
           <p>
             <Translate
               id="theme.NotFound.p2"
-              description="The 2nd paragraph of the 404 page">
+              description="The 2nd paragraph of the 404 page"
+            >
               Please contact the owner of the site that linked you to the
               original URL and let them know their link is broken.
             </Translate>
           </p>
+          <p>可能该页面存在于官方 Wiki，但本 Wiki 暂未翻译。</p>
           <p>
-            部分页面在迁移过程中更改了地址，你需要通过 Wiki 列表或使用搜索功能重新找到它们。
+            如果你想向本 Wiki 添加页面，请参阅<a href="/Expanding-the-Wiki">此页面</a>。
           </p>
         </div>
       </div>

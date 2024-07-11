@@ -18,8 +18,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/list">
-            查看 Wiki 列表
+            to="/Home">
+            查看 Wiki
           </Link>
         </div>
       </div>
@@ -32,7 +32,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="粘液科技附属非官方中文 Wiki">
+      description="粘液科技非官方中文 Wiki">
       <HomepageHeader />
     </Layout>
   );

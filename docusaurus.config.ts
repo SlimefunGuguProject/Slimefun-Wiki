@@ -66,15 +66,15 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'rootSidebar',
           position: 'left',
-          label: 'Wiki 列表',
+          label: 'Wiki',
         },
         {
           href: 'https://builds.guizhanss.com/',
           position: 'left',
-          label: '附属下载',
+          label: '构建站',
         },
         {
-          href: 'https://github.com/SlimefunGuguProject/Addons-Wiki',
+          href: 'https://github.com/SlimefunGuguProject/Slimefun-Wiki',
           position: 'right',
           className: 'header-github-link',
           'aria-label': 'GitHub repository'
@@ -145,11 +145,11 @@ const config: Config = {
         // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
       }
     },
-    algolia: {
-      appId: 'ATI3VKTB81',
-      apiKey: 'abe82c0148dfc17e87c2d18ba5061e7f',
-      indexName: 'slimefun-addons-guizhanss',
-    },
+    // algolia: {
+    //   appId: 'ATI3VKTB81',
+    //   apiKey: 'abe82c0148dfc17e87c2d18ba5061e7f',
+    //   indexName: 'slimefun-addons-guizhanss',
+    // },
   } satisfies Preset.ThemeConfig,
 
   plugins: [
