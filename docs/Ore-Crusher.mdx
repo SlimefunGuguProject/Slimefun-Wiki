@@ -1,25 +1,33 @@
-# 矿石粉碎机 {#ore-crusher}
+import ImageGallery from '@site/src/components/ImageGallery';
+
+# 矿石粉碎机 \{#ore-crusher}
 
 矿石粉碎机（Ore Crusher）是 Slimefun 的[基础机器](/Basic-Machines)之一。它是多方块结构。
 
-## 建造 {#obtaining}
+## 建造 \{#obtaining}
 
 矿石粉碎机是一个多方块结构，它由一个发射器、一个下界砖栅栏与两个铁栏杆组成。
 
-一个完整的矿石粉碎机看起来像这样:
+一个完整的矿石粉碎机看起来像这样：
 
-![建造矿石粉碎机](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-ore-crusher.png ':size=50%')
+<ImageGallery images={[
+  {
+    src: 'https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-ore-crusher.png',
+    alt: '建造矿石粉碎机',
+    sizePercent: 80
+  }
+]}/>
 
 你可以在发射器旁放置一个[物品输出箱](/Output-Chest)来收集产物。如果没有[物品输出箱](/Output-Chest)，产物将保留在发射器中。
 
-## 使用 {#usage}
+## 使用 \{#usage}
 
 矿石粉碎机主要是用来将矿石粉碎成矿粉，但它也有其他用途。
 
-## 配方 {#recipes}
+## 配方 \{#recipes}
 
-矿石粉碎机的可用配方在下表中列出，列表基于1.17.1版本。  
-部分配方可能由于服务器设置被禁用，由附属插件添加的配方不在此列出。  
+矿石粉碎机的可用配方在下表中列出，列表基于 1.17.1 版本。<br/>
+部分配方可能由于服务器设置被禁用，由附属插件添加的配方不在此列出。<br/>
 后续更新可能会对配方进行修改，具体以游戏内 Slimefun 指南中展示的配方为准。
 
 | 材料 | 产物 |
@@ -49,7 +57,7 @@
 | 1 [已粉碎的矿石](/Small-Chunk-of-Uranium) | 1 [粉末状的矿石](/Small-Chunk-of-Uranium) |
 | 1 [纯矿簇](/Small-Chunk-of-Uranium) | 1 [一小撮铀](/Small-Chunk-of-Uranium) |
 
-在`Items.yml`中可以配置是否开启双倍矿产`double-ores`，默认开启。  
+在 `Items.yml` 中可以配置是否开启双倍矿产 `double-ores`，默认开启。
 开启后，下方配方产物的数量将翻倍。矿石包含其深层变种（例如，煤矿石的深层变种：深层煤矿石）。
 
 | 材料 | 产物 |
