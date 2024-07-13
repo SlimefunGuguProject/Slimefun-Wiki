@@ -1,6 +1,6 @@
 # GPS 信号塔 {#gps-teleporter-pylon}
 
-GPS 信号塔是[GPS](/GPS)分类中的方块之一。
+GPS 信号塔是 [GPS](/GPS) 分类中的方块之一。
 
 ## 获取 {#obtaining}
 

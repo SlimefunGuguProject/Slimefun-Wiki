@@ -9,7 +9,7 @@
 
 ## 使用 {#usage}
 
-燃烧反应机必须在任意[能源调节器](/Energy-Regulator)、[能源连接器](/Energy-Connector)或[电容](/Energy-Capacitors)的7格以内（直线范围，不能是对角线），且提供可用的燃料后才能工作。
+燃烧反应机必须在任意[能源调节器](/Energy-Regulator)、[能源连接器](/Energy-Connector)或[电容](/Energy-Capacitors)的 7 格以内（直线范围，不能是对角线），且提供可用的燃料后才能工作。
 
 ## 等级 {#tiers}
 
@@ -17,7 +17,7 @@
 
 | 等级 | 效率 | 储存 |
 | :--: | :----: | :----: |
-| I    | 24 J/s | 256 J  |
+| I    | 24 J/t | 256 J  |
 
 ## 燃料 {#fuel}
 

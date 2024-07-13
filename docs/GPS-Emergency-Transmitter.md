@@ -1,6 +1,6 @@
 # GPS 应急发射器
 
-GPS 应急发射器是[GPS](/GPS)分类中的物品。
+GPS 应急发射器是 [GPS](/GPS) 分类中的物品。
 
 ## 获取 {#obtaining}
 

@@ -1,6 +1,6 @@
 # GPS 传送矩阵 {#gps-teleporter-matrix}
 
-GPS 传送矩阵是[GPS](/GPS)分类中的方块之一。
+GPS 传送矩阵是 [GPS](/GPS) 分类中的方块之一。
 
 ## 获取 {#obtaining}
 

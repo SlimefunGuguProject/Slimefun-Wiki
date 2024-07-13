@@ -4,6 +4,6 @@
 
 ## 使用 {#usage}
 
-能源调节器必须在任意[发电机](/Electric-Machines#energy-generation)、[机器](/Electric-Machines#machines)、[电容](/Energy-Capacitors)或[能源调节器](/Energy-Regulator)的7格以内（直线范围，不能是对角线）。
+能源调节器必须在任意[发电机](/Electric-Machines#energy-generation)、[机器](/Electric-Machines#machines)、[电容](/Energy-Capacitors)或[能源调节器](/Energy-Regulator)的 7 格以内（直线范围，不能是对角线）。
 
 它会在每个连接的部分之间传输能量，用于扩展能源网络的范围。
