@@ -22,4 +22,8 @@
 * [浆果汁](/Juices)
 * [金苹果汁](/Juices)
 
-?> 如果你在寻找更多的食物，请查看 Slimefun [附属插件](/Addons)：ExoticGarden 异域花园、Cultivation 农耕工艺、Gastronomicon 美食家。
+:::tip
+
+如果你在寻找更多的食物，请查看 Slimefun [附属插件](/Addons)：ExoticGarden 异域花园、Cultivation 农耕工艺、Gastronomicon 美食家。
+
+:::

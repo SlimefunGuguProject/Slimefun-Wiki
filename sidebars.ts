@@ -127,7 +127,7 @@ const sidebars: SidebarsConfig = {
         'Enhanced-Furnaces',
         'Block-Placer',
         'Output-Chest',
-      ],
+      ]
     },
     {
       type: 'category',
@@ -224,9 +224,34 @@ const sidebars: SidebarsConfig = {
         'Boosted-Uranium',
         'Nether-Ice',
         'Enriched-Nether-Ice',
-      ],
+      ]
     },
-
+    {
+      type: 'category',
+      label: '食物',
+      link: {type: 'doc', id: 'Food'},
+      className: 'hidden',
+      items: [
+        'Fortune-Cookie',
+        'Diet-Cookie',
+        'Meat-Jerky',
+        'Kelp-Cookie',
+        'Magic-Sugar',
+        'Monster-Jerky',
+        'Juices',
+      ]
+    },
+    {
+      type: 'category',
+      label: '魔法物品',
+      link: {type: 'doc', id: 'Magical-Items'},
+      className: 'hidden',
+      items: [
+        'Lumps',
+        'Broken-Spawner',
+        'Ancient-Runes',
+      ]
+    },
   ],
   // auto generated sidebars
 };

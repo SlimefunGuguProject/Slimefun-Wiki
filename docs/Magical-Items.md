@@ -25,11 +25,11 @@
 
 ### 魔法玻璃 {#magical-glass}
 
-此物品可以在[魔法工作台](/Magic-Workbench)中 3 个[学识之瓶](/Flask-of-Knowledge)、 4 个[魔法结晶 - II](/Lumps)、 1 个[金粉](/Dusts)和一块玻璃板合成。
+此物品可以在[魔法工作台](/Magic-Workbench)中 3 个[学识之瓶](/Flask-of-Knowledge)、4 个[魔法结晶 - II](/Lumps)、1 个[金粉](/Dusts)和 1 块玻璃板合成。
 
 ### 岩浆水晶 {#lava-crystal}
 
-此物品可以在[增强型工作台](/Enhanced-Crafting-Table)中使用 4 个[魔法结晶 - I](/Lumps)、一个[古代符文 \[火\]](/ancient-runes)以及 4 个烈焰粉合成。
+此物品可以在[增强型工作台](/Enhanced-Crafting-Table)中使用 4 个[魔法结晶 - I](/Lumps)、1 个[古代符文 \[火\]](/ancient-runes)以及 4 个烈焰粉合成。
 
 ### 普通护身符 {#common-talisman}
 
@@ -37,7 +37,7 @@
 
 ### 坏死颅骨 {#necrotic-skull}
 
-此物品可以在[魔法工作台](/Magic-Workbench)中使用 4 个[魔法结晶 - III](/Lumps)与一个凋灵骷髅头颅合成。
+此物品可以在[魔法工作台](/Magic-Workbench)中使用 4 个[魔法结晶 - III](/Lumps) 与 1 个凋灵骷髅头颅合成。
 
 ### 来世精华 {#essence-of-afterlife}
 
