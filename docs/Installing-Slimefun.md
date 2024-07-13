@@ -39,7 +39,7 @@ Slimefun 不支持在混合端（mod + 插件）上运行。
 Slimefun 官方版的中文仅包含消息、分类以及研究部分的汉化。大部分物品与界面仍然是英文的。  
 要汉化这些内容，需要修改相关的代码。由 StarWishsama 维护的汉化版 Slimefun 目前已在 GitHub 发布。
 
-汉化版拥有3个分支：
+汉化版拥有 3 个分支：
 
 - ["正式版"分支（release）](https://builds.guizhanss.cn/StarWishsama/Slimefun4/release)是每月发布一次（可能以更低的频率更新）新版本的分支，包含较长时间的测试，功能较为稳定。  
 - ["公测版"分支（Beta）](https://builds.guizhanss.cn/StarWishsama/Slimefun4/master)是拥有最新内容的公开版本。

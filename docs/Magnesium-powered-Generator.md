@@ -12,7 +12,7 @@
 
 ## 等级 {#magnesium-powered-generator-tiers}
 
-目前镁发电机只有1个等级。
+目前镁发电机只有 1 个等级。
 
 **储存:** 128 J  
 **效率:** 36 J/s  

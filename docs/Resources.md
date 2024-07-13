@@ -36,6 +36,6 @@
 * [铀](/Uranium)
 * [镎](/Neptunium)
 * [钚](/Plutonium)
-* [高纯度铀](/Boosted-Uranium)
+* [钚铀混合氧化核燃料](/Boosted-Uranium)
 * [下界冰](/Nether-Ice)
 * [浓缩下界冰](/Enriched-Nether-Ice)

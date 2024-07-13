@@ -4,7 +4,7 @@
 
 ## 获取 {#obtaining}
 
-你可以在[加热压力舱](/Heated-Pressure-Chamber)中使用1个[钚](/Plutonium)和1个[铀](/Uranium)来合成钚铀混合氧化核燃料。
+你可以在[加热压力舱](/Heated-Pressure-Chamber)中使用 1 个[钚](/Plutonium)和 1 个[铀](/Uranium)来合成钚铀混合氧化核燃料。
 
 ## 处理 {#handling}
 

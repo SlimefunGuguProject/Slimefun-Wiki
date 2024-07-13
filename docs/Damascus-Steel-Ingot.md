@@ -4,7 +4,7 @@
 
 ## 获取 {#obtaining}
 
-在[冶炼炉](/Smeltery)或[电力冶炼炉](/Electric-Smeltery)中冶炼以下物品可获得1个大马士革钢锭:
+在[冶炼炉](/Smeltery)或[电力冶炼炉](/Electric-Smeltery)中冶炼以下物品可获得 1 个大马士革钢锭:
 
 * 1 [钢锭](/Steel-Ingot)
 * 1 [铁粉](/Iron-Dust)

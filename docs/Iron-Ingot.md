@@ -9,7 +9,7 @@
 
 ## 用途 {#usage}
 
-除了用于原有的Minecraft配方，铁锭可以在[电力打粉机](/Electric-Ingot-Pulverizer)中粉碎成[铁粉](/Iron-Dust)。
+除了用于原有的 Minecraft 配方，铁锭可以在[电力打粉机](/Electric-Ingot-Pulverizer)中粉碎成[铁粉](/Iron-Dust)。
 
 另外，铁锭可用于冶炼下列[合金](/Ingots#Alloys):
 

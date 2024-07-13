@@ -4,7 +4,7 @@
 
 ## 获取 {#obtaining}
 
-在[冶炼炉](/Smeltery)或[电力冶炼炉](/Electric-Smeltery)中冶炼以下物品可获得1个硬化金属:
+在[冶炼炉](/Smeltery)或[电力冶炼炉](/Electric-Smeltery)中冶炼以下物品可获得 1 个硬化金属:
 
 * 1 [大马士革钢锭](/Damascus-Steel-Ingot)
 * 1 [硬铝锭](/Duralumin-Ingot)

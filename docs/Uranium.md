@@ -4,7 +4,7 @@
 
 ## 获取 {#obtaining}
 
-你可以在[增强型工作台](/Enhanced-Crafting-Table)中使用4个[一小块铀](/Small-Chunk-of-Uranium)来合成铀。
+你可以在[增强型工作台](/Enhanced-Crafting-Table)中使用 4 个[一小块铀](/Small-Chunk-of-Uranium)来合成铀。
 
 ## 处理 {#handling}
 

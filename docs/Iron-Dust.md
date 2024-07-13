@@ -1,15 +1,15 @@
 # 铁粉 {#iron-dust}
 
-铁粉是 Slimefun 中的九种[矿粉](/Dusts)之一。
+铁粉是 Slimefun 中的 9 种[矿粉](/Dusts)之一。
 
 ## 获取 {#obtaining}
 
-在[矿石粉碎机](/Ore-Crusher)或[电力碎矿机](/Electric-Ore-Grinder)中粉碎铁矿石可以获得2个铁粉。  
-如果你安装了[SlimefunOreChunks(矿石块)](/Addons#official-addons)附属，你还可以使用相同的机器把从[GEO矿机](/GEO-Miner)中得到的铁矿石块粉碎成铁粉。
+在[矿石粉碎机](/Ore-Crusher)或[电力碎矿机](/Electric-Ore-Grinder)中粉碎铁矿石可以获得 2 个铁粉。  
+如果你安装了 [SlimefunOreChunks（矿石块）](/Addons#official-addons)附属，你还可以使用相同的机器把从[自然资源开采机](/GEO-Miner) 中得到的铁矿石块粉碎成铁粉。
 
-可以在[洗矿机](/Ore-Washer)或[电动洗矿机](/Electric-Dust-Washer)中处理[筛矿](/Sifted-Ore)，有11.1%的几率可以获得铁粉。
+可以在[洗矿机](/Ore-Washer)或[电动洗矿机](/Electric-Dust-Washer)中处理[筛矿](/Sifted-Ore)，有 11.1% 的几率可以获得铁粉。
 
-另外，在[电力打粉机](/Electric-Ingot-Pulverizer)中粉碎[铁锭](/Iron-Ingot)可以获得1个铁粉。
+另外，在[电力打粉机](/Electric-Ingot-Pulverizer)中粉碎[铁锭](/Iron-Ingot)可以获得 1 个铁粉。
 
 ## 用途 {#usage}
 

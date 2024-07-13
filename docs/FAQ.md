@@ -21,7 +21,7 @@ Slimefun 目前支持 Minecraft 1.14 及以上的每个版本。每当 Minecraft
 
 ### 对于官方版 Slimefun {#official-slimefun}
 
-首先，加入我们的[Discord服务器](https://discord.gg/slimefun)，并进入`#bug-discussions`频道。我们需要确认是否是 Bug、用户错误、或者是预期的行为。请注意，我们**不接受在discord中的bug汇报，只接受来自GitHub的**。根据我们积累的经验，10个"bug"中的9个是因为使用了旧版本的插件，所以请先在我们的Discord服务器中与其他人讨论这个问题，让我们的开发者能够专注于已确认的Bug汇报。
+首先，加入我们的[Discord服务器](https://discord.gg/slimefun)，并进入`#bug-discussions`频道。我们需要确认是否是 Bug、用户错误、或者是预期的行为。请注意，我们**不接受在discord中的bug汇报，只接受来自GitHub的**。根据我们积累的经验，1 0 个"bug"中的 9 个是因为使用了旧版本的插件，所以请先在我们的Discord服务器中与其他人讨论这个问题，让我们的开发者能够专注于已确认的Bug汇报。
 
 现在，请在`#bug-discussions`频道向我们提供以下信息:
 
@@ -51,7 +51,7 @@ Slimefun 目前支持 Minecraft 1.14 及以上的每个版本。每当 Minecraft
 
 ## 我可以拿石块做什么? {#what-can-i-do-with-stone-chunks}
 
-4个石块可以通过[压缩机](/Compressor)变成圆石。它们在部分附属中会被大量使用。
+ 4 个石块可以通过[压缩机](/Compressor)变成圆石。它们在部分附属中会被大量使用。
 
 ## 如何根据世界禁用物品? {#how-do-i-disable-items-per-world}
 

@@ -6,7 +6,7 @@
 
 ## 获取 {#obtaining}
 
-合成机马达可以在[增强型工作台](/Enhanced-Crafting-Table)中一次性制作2个。
+合成机马达可以在[增强型工作台](/Enhanced-Crafting-Table)中一次性制作 2 个。
 
 ## 使用 {#usage}
 

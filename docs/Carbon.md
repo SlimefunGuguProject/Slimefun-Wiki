@@ -8,8 +8,8 @@
 
 ## 获取 {#obtaining}
 
-你可以在[压缩机](/Compressor)中使用8个煤获取1个碳，使用4个碳获取1个压缩碳。  
-在[增强型工作台](/Enhanced-Crafting-Table)中使用8个压缩碳与1个燧石来合成碳块。
+你可以在[压缩机](/Compressor)中使用 8 个煤获取 1 个碳，使用 4 个碳获取 1 个压缩碳。  
+在[增强型工作台](/Enhanced-Crafting-Table)中使用 8 个压缩碳与 1 个燧石来合成碳块。
 
 ## 另请参阅 {#see-also}
 

@@ -1,10 +1,10 @@
 # 铝粉 {#aluminum-dust}
 
-铝粉是 Slimefun 中的九种[矿粉](/Dusts)之一。
+铝粉是 Slimefun 中的 9 种[矿粉](/Dusts)之一。
 
 ## 获取 {#obtaining}
 
-可以在[洗矿机](/Ore-Washer)或[电动洗矿机](/Electric-Dust-Washer)中处理[筛矿](/Sifted-Ore)，有11.1%的几率可以获得铝粉。
+可以在[洗矿机](/Ore-Washer)或[电动洗矿机](/Electric-Dust-Washer)中处理[筛矿](/Sifted-Ore)，有 11.1% 的几率可以获得铝粉。
 
 ## 用途 {#usage}
 

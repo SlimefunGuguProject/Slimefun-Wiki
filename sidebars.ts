@@ -1,4 +1,4 @@
-import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
+import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
 
 /**
  * Creating a sidebar enables you to:
@@ -76,6 +76,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '武器',
+      link: {type: 'doc', id: 'Weapons'},
       className: 'hidden',
       items: [
         'Walking-Sticks',
@@ -89,6 +90,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '有用的物品',
+      link: {type: 'doc', id: 'Items'},
       className: 'hidden',
       items: [
         'Portable-Crafter',
@@ -102,6 +104,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '基础机器',
+      link: {type: 'doc', id: 'Basic-Machines'},
       className: 'hidden',
       items: [
         'Enhanced-Crafting-Table',
@@ -129,6 +132,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '工具',
+      link: {type: 'doc', id: 'Tools'},
       className: 'hidden',
       items: [
         'Gold-Pan',
@@ -147,6 +151,82 @@ const sidebars: SidebarsConfig = {
         'Soulbound-Tools',
       ]
     },
+    {
+      type: 'category',
+      label: '资源',
+      className: 'hidden',
+      link: {type: 'doc', id: 'Resources'},
+      items: [
+        {
+          type: 'category',
+          label: '矿粉',
+          link: {type: 'doc', id: 'Dusts'},
+          items: [
+            'Iron-Dust',
+            'Gold-Dust',
+            'Copper-Dust',
+            'Tin-Dust',
+            'Silver-Dust',
+            'Aluminum-Dust',
+            'Lead-Dust',
+            'Zinc-Dust',
+            'Magnesium-Dust',
+          ],
+        },
+        {
+          type: 'category',
+          label: '锭',
+          link: {type: 'doc', id: 'Ingots'},
+          items: [
+            'Iron-Ingot',
+            'Gold-Ingot',
+            'Copper-Ingot',
+            'Tin-Ingot',
+            'Silver-Ingot',
+            'Aluminum-Ingot',
+            'Lead-Ingot',
+            'Zinc-Ingot',
+            'Magnesium-Ingot',
+            'Aluminum-Brass-Ingot',
+            'Aluminum-Bronze-Ingot',
+            'Billon-Ingot',
+            'Brass-Ingot',
+            'Bronze-Ingot',
+            'Cobalt-Ingot',
+            'Corinthian-Bronze-Ingot',
+            'Damascus-Steel-Ingot',
+            'Duralumin-Ingot',
+            'Ferrosilicon',
+            'Gilded-Iron',
+            'Hardened-Metal',
+            'Nickel-Ingot',
+            'Redstone-Alloy-Ingot',
+            'Reinforced-Alloy-Ingot',
+            'Solder-Ingot',
+            'Steel-Ingot',
+          ],
+        },
+        'Synthetic-Sapphire',
+        'Synthetic-Emerald',
+        'Synthetic-Diamond',
+        'Carbonado',
+        'Carbon',
+        'Magnesium-Salt',
+        'Sulfate',
+        'Silicon',
+        'Bucket-of-Oil',
+        'Bucket-of-Fuel',
+        'Radiation',
+        'Blistering-Ingot',
+        'Uranium',
+        'Neptunium',
+        'Plutonium',
+        'Boosted-Uranium',
+        'Nether-Ice',
+        'Enriched-Nether-Ice',
+      ],
+    },
+
   ],
   // auto generated sidebars
 };

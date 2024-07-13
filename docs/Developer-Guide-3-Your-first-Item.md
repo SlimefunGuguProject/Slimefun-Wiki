@@ -47,7 +47,7 @@ public class SlimefunAddon extends JavaPlugin implements SlimefunAddon {
 你应该给你的附属创建自己的物品组。  
 我们将从这里开始。
 
-物品组(ItemGroup)的构建函数拥有2个参数：
+物品组(ItemGroup)的构建函数拥有 2 个参数：
 
 - `id` 代表物品组的标识符，每个物品组都有一个独立的名字，我们使用`NamespacedKey`来作为标识符。
 - `item` 代表物品组的展示物品，这个物品将在 Slimefun 指南中展示。
@@ -113,7 +113,7 @@ public void onEnable() {
 
 在 Slimefun 中创建物品并不像造火箭那么难，但是你仍然需要注意。我们需要创建一个`SlimefunItem`类(`io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem`)。
 
-该类的构造函数拥有4个参数：
+该类的构造函数拥有 4 个参数：
 
 - `itemGroup`是该物品所属的物品组，在这里我们将使用之前创建的物品组。
 - `itemStack`是该`SlimefunItem`所使用的`SlimefunItemStack`。我们会在稍后说明。
@@ -157,7 +157,7 @@ SlimefunItemStack itemStack = new SlimefunItemStack("MY_ADDON_ITEM", Material.EM
 ItemStack[] recipe = {...};
 ```
 
-9个物品分别表示了增强型工作台的发射器中3x3的每个格子。  
+ 9 个物品分别表示了增强型工作台的发射器中3x3的每个格子。  
 在本指南中，我们将让钻石摆放成X型。  
 当然，你可以使用任意形状的配方。
 

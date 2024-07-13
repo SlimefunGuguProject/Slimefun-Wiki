@@ -4,7 +4,7 @@
 
 ## 获取 {#obtaining}
 
-连接器节点可以在[增强型工作台](/Enhanced-Crafting-Table)中一次性制作4个。
+连接器节点可以在[增强型工作台](/Enhanced-Crafting-Table)中一次性制作 4 个。
 
 ## 使用 {#usage}
 

@@ -4,7 +4,7 @@
 
 ## 获取 {#obtaining}
 
-下界冰仅能在下界中通过[GEO矿机](/GEO-Miner)获得。
+下界冰仅能在下界中通过[自然资源开采机](/GEO-Miner)获得。
 
 ## 处理 {#handling}
 

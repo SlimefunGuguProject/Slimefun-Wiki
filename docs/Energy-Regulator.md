@@ -10,7 +10,7 @@
 
 能源调节器必须在任意[发电机](/Electric-Machines#energy-generation)、[机器](/Electric-Machines#machines)或[电容](/Energy-Capacitors)的7格以内（直线范围，不能是对角线）。它会在每个连接的部分之间传输能量。
 
-每个能源网络只能有1个能源调节器。要扩展能源网络的范围，你可以使用[能源连接器](/Energy-Connector)。
+每个能源网络只能有 1 个能源调节器。要扩展能源网络的范围，你可以使用[能源连接器](/Energy-Connector)。
 
 能源调节器无法储存能量。要储存能量，你可以使用[电容](/Energy-Capacitors)。
 

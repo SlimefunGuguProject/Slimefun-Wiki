@@ -6,9 +6,9 @@ Slimefun 中包含25种锭，其中有17种合金。它们是基础的合成[资
 
 下列金属锭是通过在[冶炼炉](/Smeltery)或[电动铸锭机](/Electric-Ingot-Factory)中冶炼对应的[矿粉](/Dusts)来获得:
 
-* [铁锭](/Iron-Ingot) (不是 Slimefun 新增，但有新的合成与使用方法)
+* [铁锭](/Iron-Ingot)（原版，但有新的合成与使用方法）
 * [金锭 (4克拉 至 24克拉)](/Gold-Ingot)
-* [铜锭](/Copper-Ingot) (非 Minecraft 1.17 中新增的铜锭)
+* [铜锭](/Copper-Ingot)（非 Minecraft 1.17 中新增的铜锭）
 * [锡锭](/Tin-Ingot)
 * [银锭](/Silver-Ingot)
 * [铝锭](/Aluminum-Ingot)

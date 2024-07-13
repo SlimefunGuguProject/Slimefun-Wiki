@@ -6,7 +6,7 @@
 
 ## 建造 {#obtaining}
 
-一个传送装置由中心的[GPS 传送矩阵](/GPS-Teleporter-Matrix)、周围环绕的8个[GPS 信号塔](/GPS-Teleporter-Pylon)与传送矩阵上放置的[GPS 激活设备](/GPS-Activation-Device)组成。
+一个传送装置由中心的[GPS 传送矩阵](/GPS-Teleporter-Matrix)、周围环绕的 8 个[GPS 信号塔](/GPS-Teleporter-Pylon)与传送矩阵上放置的[GPS 激活设备](/GPS-Activation-Device)组成。
 
 ## 使用 {#usage}
 
