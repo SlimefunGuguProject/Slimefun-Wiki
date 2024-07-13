@@ -1,6 +1,6 @@
 # 情人节限时分类 {#valentines-day-seasonal-category}
 
-情人节限时分类只会在2月份显示。
+情人节限时分类只会在 2 月显示。
 
 ## 内容 {#table-of-contents}
 

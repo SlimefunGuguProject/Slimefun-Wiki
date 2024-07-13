@@ -1,6 +1,6 @@
 # 万圣节限时分类 {#halloween-seasonal-category}
 
-万圣节限时分类只会在10月份显示。
+万圣节限时分类只会在 10 月显示。
 
 ## 内容 {#table-of-contents}
 

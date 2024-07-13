@@ -412,7 +412,28 @@ const sidebars: SidebarsConfig = {
         'Auto-Crafter',
         'Crafter-Smart-Port',
       ]
-    }
+    },
+    {
+      type: 'category',
+      label: '季节性分类',
+      link: {type: 'doc', id: 'Seasonal-Categories'},
+      className: 'hidden',
+      items: [
+        //'Christmas-Seasonal-Category',
+        {
+          type: 'category',
+          label: '圣诞节限时分类',
+          link: {type: 'doc', id: 'Christmas-Seasonal-Category'},
+          items: [
+            'Christmas-Items',
+          ]
+        },
+        'Valentines-Day-Seasonal-Category',
+        'Easter-Seasonal-Category',
+        'Birthday-Seasonal-Category',
+        'Halloween-Seasonal-Category',
+      ]
+    },
   ],
   // auto generated sidebars
 };
