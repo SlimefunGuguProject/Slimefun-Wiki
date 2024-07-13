@@ -51,11 +51,11 @@ HardcoreSlimefun 硬核粘液 | Walshy, TheBusyBiscuit | <details><summary>展�
 
 ## :heart: 社区附属插件 {#community-addons}
 
-这些附属插件由我们的社区成员开发，在官方Discord服务器中，我们不提供任何支持。  
+这些附属插件由我们的社区成员开发，在官方 Discord 服务器中，我们不提供任何支持。  
 我们不保证这些附属可以正常运行，某些附属可能已过期或有问题，我们不对这些附属的内容负责。  
 如果你遇到了问题，请向对应的开发者汇报，而不是我们。
 
-这些附属也在官方Wiki的附属列表中。
+这些附属也在官方 Wiki 的附属列表中。
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | ---
@@ -205,7 +205,6 @@ SFMobDrops (RC-27) 自定义生物掉落 | WalshyDev | <details><summary>展开<
 SlimeFunItemBanned 在其它子服禁用粘液 | 321zhangjvzhi | <details><summary>展开</summary>在没装粘液的子服禁用粘液</details> | N/A | [官方版](https://www.mcbbs.net/thread-1219387-1-1.html) | [官方版](https://www.mcbbs.net/thread-1219387-1-1.html)
 岛屿删除时自动删除Slimefun机器数据 | lu8121695 | <details><summary>展开</summary>岛屿删除时自动删除Slimefun机器数据</details> | N/A | [官方版](https://www.mcbbs.net/thread-1262424-1-1.html) | [官方版](https://www.mcbbs.net/thread-1262424-1-1.html)
 VillagerTrade 村民交易 | ybw0014 | <details><summary>展开</summary>该附属支持将粘液科技物品添加到村民/流浪商人的交易中</details> | N/A | [官方版](https://github.com/ybw0014/VillagerTrade) | [官方版](https://builds.guizhanss.com/ybw0014/VillagerTrade)
-GSFH | LZ5509 | <details><summary>展开</summary>该附属是一个 Geyser-Spigot 附属，可以将来自粘液科技的头颅注册到 Geyser-Spigot。</details> | [官方版说明](https://github.com/Hahaa13/Geyser-Slimefun-Heads/blob/master/README.md) | [官方版](https://github.com/Hahaa13/Geyser-Slimefun-Heads) | [官方版](https://github.com/Hahaa13/Geyser-Slimefun-Heads/releases)
 
 ### :trophy: Addon Jam 2022 粘液科技附属竞赛（下界主题） {#addon-jam-nether}
 
@@ -223,7 +222,7 @@ Azap 狱刑 | TerslenK | <details><summary>展开</summary>（非参赛作品）
 
 ### :smile: 其他社区附属插件（RC-27） {#not-listed-rc-27}
 
-以下附属不在官方Wiki的附属列表中。这些附属支持粘液科技RC-27以上版本。
+以下附属不在官方 Wiki 的附属列表中。这些附属支持粘液科技 RC-27 以上版本。
 
 有些附属可能不再更新，请自行选择性使用。
 
@@ -261,7 +260,7 @@ ChestTerminal 箱子终端 (已停更) | TheBusyBiscuit | <details><summary>展�
 
 ### :minidisc: 其他社区附属插件（RC-26） {#not-listed-rc-26}
 
-以下附属不在官方Wiki列表中，仅支持RC-26及以下版本。
+以下附属不在官方 Wiki 列表中，仅支持 RC-26 及以下版本。
 
 这些附属已不再更新，请自行选择性使用。
 
@@ -303,14 +302,15 @@ SlimeRP (RC-26) 现代工厂 | SkyCraft78 | <details><summary>展开</summary>�
 
 这些插件不是附属，但它们在某些地方与 Slimefun 有关。
 
-名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
---- | --- | --- | ------- | ----- | ---
-SensibleToolbox STB/未来科技 | desht, TheBusyBiscuit | <details><summary>展开</summary>STB是粘液科技的老牌附属，始创于2014，它添加了新的电力系统和机器系统，是一个非常不错的科技插件</details> | N/A | [GitHub](https://github.com/Slimefun/SensibleToolbox) | [Builds](https://thebusybiscuit.github.io/builds/Slimefun/SensibleToolbox/master/)
-Brewery 酿酒 | Sn0wStorm and others | <details><summary>展开</summary>酿酒是一个独立的插件，它添加了更多饮料和酒，这些饮料的原料可以来自我的世界，也可来自粘液科技，支持异域花园等粘液附属</details> | [Wiki](https://github.com/DieReicheErethons/Brewery/wiki) | [GitHub](https://github.com/DieReicheErethons/Brewery) | [Releases](https://github.com/DieReicheErethons/Brewery/releases)
-PlaceholderAPI API变量 | extended_clip, Glare | <details><summary>展开</summary>Slimefun 向PlaceholderAPI 添加了一些可用的变量，你可以在 Wiki 中找到更多信息。</details> | [Wiki](/PlaceholderAPI) | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI) | [SpigotMC](https://www.spigotmc.org/resources/placeholderapi.6245/)
-WhatIsThis 这是啥 | steve4744 | <details><summary>展开</summary>WhatIsThis 是一个受到模组 WAILA 启发而制作的插件。它向玩家展示其正在看向的方块的信息。新版本支持显示 Slimefun 方块的信息。</details> | N/A | [GitHub](https://github.com/steve4744/WhatIsThis) | [SpigotMC](https://www.spigotmc.org/resources/whatisthis-identify-the-block-you-are-looking-at-multi-language-support.65050/)
-DankTech (RC-26) 丹克科技 | Sefiraat | <details><summary>展开</summary>受丹克储存mod启发，添加了与其类似的丹克球、丹克垃圾桶等，可配合货运发挥更大的作用</details> | [Wiki](https://github.com/Sefiraat/DankTech/wiki) | [GitHub](https://github.com/Sefiraat/DankTech) | [SpigotMC](https://www.spigotmc.org/resources/%E2%9A%A1-danktech-%E2%9A%A1-dank-storage-plugin.92031/)
-EquivalencyTech 等价交换| Sefiraat | <details><summary>展开</summary>受等价交换mod启发，添加了转换桌等物品，并可以自由配置物品价格</details> | [Wiki](https://github.com/Sefiraat/EquivalencyTech/wiki) | [GitHub](https://github.com/Sefiraat/EquivalencyTech/) | [SpigotMC](https://www.spigotmc.org/resources/%E2%AD%90-equitech-%E2%AD%90-equivalent-exchange-plugin.92970/)
+名称 | 作者 | 介绍                                                                                                                  | 更多信息                                                                             | 源代码                                                        | 下载
+--- | --- |---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------| ---
+SensibleToolbox STB/未来科技 | desht, TheBusyBiscuit | <details><summary>展开</summary>STB是粘液科技的老牌附属，始创于2014，它添加了新的电力系统和机器系统，是一个非常不错的科技插件</details>                          | N/A                                                                              | [GitHub](https://github.com/Slimefun/SensibleToolbox)      | [Builds](https://thebusybiscuit.github.io/builds/Slimefun/SensibleToolbox/master/)
+Brewery 酿酒 | Sn0wStorm and others | <details><summary>展开</summary>酿酒是一个独立的插件，它添加了更多饮料和酒，这些饮料的原料可以来自我的世界，也可来自粘液科技，支持异域花园等粘液附属</details>                  | [Wiki](https://github.com/DieReicheErethons/Brewery/wiki)                        | [GitHub](https://github.com/DieReicheErethons/Brewery)     | [Releases](https://github.com/DieReicheErethons/Brewery/releases)
+PlaceholderAPI API变量 | extended_clip, Glare | <details><summary>展开</summary>Slimefun 向PlaceholderAPI 添加了一些可用的变量，你可以在 Wiki 中找到更多信息。</details>                      | [Wiki](/PlaceholderAPI)                                                          | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI) | [SpigotMC](https://www.spigotmc.org/resources/placeholderapi.6245/)
+WhatIsThis 这是啥 | steve4744 | <details><summary>展开</summary>WhatIsThis 是一个受到模组 WAILA 启发而制作的插件。它向玩家展示其正在看向的方块的信息。新版本支持显示 Slimefun 方块的信息。</details> | N/A                                                                              | [GitHub](https://github.com/steve4744/WhatIsThis)          | [SpigotMC](https://www.spigotmc.org/resources/whatisthis-identify-the-block-you-are-looking-at-multi-language-support.65050/)
+DankTech (RC-26) 丹克科技 | Sefiraat | <details><summary>展开</summary>受丹克储存mod启发，添加了与其类似的丹克球、丹克垃圾桶等，可配合货运发挥更大的作用</details>                                  | [Wiki](https://github.com/Sefiraat/DankTech/wiki)                                | [GitHub](https://github.com/Sefiraat/DankTech)             | [SpigotMC](https://www.spigotmc.org/resources/%E2%9A%A1-danktech-%E2%9A%A1-dank-storage-plugin.92031/)
+EquivalencyTech 等价交换| Sefiraat | <details><summary>展开</summary>受等价交换mod启发，添加了转换桌等物品，并可以自由配置物品价格</details>                                            | [Wiki](https://github.com/Sefiraat/EquivalencyTech/wiki)                         | [GitHub](https://github.com/Sefiraat/EquivalencyTech/)     | [SpigotMC](https://www.spigotmc.org/resources/%E2%AD%90-equitech-%E2%AD%90-equivalent-exchange-plugin.92970/)
+GSFH | LZ5509 | <details><summary>展开</summary>该插件是一个 Geyser-Spigot 附属，可以将来自粘液科技的头颅注册到 Geyser-Spigot。</details>                      | [Readme](https://github.com/Hahaa13/Geyser-Slimefun-Heads/blob/master/README.md) | [GitHub](https://github.com/Hahaa13/Geyser-Slimefun-Heads) | [Releases](https://github.com/Hahaa13/Geyser-Slimefun-Heads/releases)
 
 ## :trophy: Addon Jams {#addon-jams}
 

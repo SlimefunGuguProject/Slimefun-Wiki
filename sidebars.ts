@@ -380,6 +380,39 @@ const sidebars: SidebarsConfig = {
         'Teleporter',
       ]
     },
+    {
+      type: 'category',
+      label: '可编程机器人',
+      link: {type: 'doc', id: 'Androids'},
+      className: 'hidden',
+      items: [
+        'Android-Interfaces',
+        'Normal-Androids',
+        'Miner-Androids',
+        'Farmer-Androids',
+        'Woodcutter-Androids',
+        'Fisherman-Androids',
+        'Butcher-Androids',
+      ]
+    },
+    {
+      type: 'category',
+      label: '货运管理',
+      link: {type: 'doc', id: 'Cargo-Management'},
+      className: 'hidden',
+      items: [
+        'Cargo-Motor',
+        'Cargo-Manager',
+        'Connector-Node',
+        'Input-Node',
+        'Output-Node',
+        'Advanced-Output-Node',
+        'Trash-Can',
+        'Crafting-Motor',
+        'Auto-Crafter',
+        'Crafter-Smart-Port',
+      ]
+    }
   ],
   // auto generated sidebars
 };

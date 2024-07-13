@@ -1,6 +1,10 @@
 # 合成机智能交互接口 {#crafter-smart-port}
 
-!> 该物品为汉化版 Slimefun 特有物品，原版 Slimefun 中没有该物品。
+:::info
+
+该物品为汉化版 Slimefun 特有物品，原版 Slimefun 中没有该物品。
+
+:::
 
 合成机智能交互接口是[货运管理](/Cargo-Management)分类中的物品，可以根据合成机配方控制输入物品的数量。
 
