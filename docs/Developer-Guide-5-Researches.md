@@ -9,7 +9,7 @@
 我们涵盖了很多概念，一开始可能会有点压力。所以我们先放松一下。  
 今天我们来讲讲研究。
 
-我们会回到主类的`onEnable()`方法中。  
+我们会回到主类的 `onEnable()` 方法中。  
 在添加完所有的物品之后，它应该看起来像这样：
 
 ```java
@@ -41,8 +41,8 @@ cake.register(this);
 Research research = new Research(...);
 ```
 
-研究`Research`的构造函数接受 4 个参数：`NamespacedKey`作为 ID、整数 ID、显示名称和默认花费。  
-`NamespacedKey`应该对你来说很熟悉了，所以我们从创建它开始。我们将使用`this`和小写的 ID 来引用我们的插件。
+研究 `Research` 的构造函数接受 4 个参数：`NamespacedKey` 的 ID、整数 ID、显示名称和默认花费。  
+`NamespacedKey` 应该对你来说很熟悉了，所以我们从创建它开始。我们将使用 `this` 和小写的 ID 来引用我们的插件。
 
 ```java
 NamespacedKey researchKey = new NamespacedKey(this, "our_custom_research");
@@ -50,9 +50,14 @@ Research research = new Research(researchKey, ?, ?, ?);
 ```
 
 现在，来谈论一下整数 ID。  
-这个 ID 有点复杂。它已经被`NamespacedKey`取代，但是我们仍然需要它。
+这个 ID 有点复杂。它已经被 `NamespacedKey` 取代，但是我们仍然需要它。
 
-!> 目前，官方版 Slimefun 仍然依赖数字 ID 来识别不同的研究。汉化版在 2023.06 之后已不再依赖数字 ID。如果你的附属仅面向汉化版，你可以随意填写并无视下面小段的内容。
+:::info
+
+目前，官方版 Slimefun 仍然依赖数字 ID 来识别不同的研究。  
+汉化版在 2023.06 之后已不再依赖数字 ID。如果你的附属仅面向汉化版，你可以随意填写并无视下面小段的内容。
+
+:::
 
 只要记住，这个 ID 会在某个时刻被移除，因为它是一个非常糟糕的识别研究的方式。  
 也就是说，你的整数 ID **必须是唯一的**。它必须在所有附属中都是唯一的。  
@@ -89,7 +94,7 @@ Research research = new Research(researchKey, 123, "示例研究", 10);
 
 ## 3. 将物品添加到研究中 {#3-adding-items-to-our-research}
 
-我们可以通过调用`Research#addItems(...)`来添加物品到研究中。  
+我们可以通过调用 `Research#addItems(...)` 来添加物品到研究中。  
 这个方法有可变数量的参数，可以添加任意数量的 Slimefun 物品。
 
 ```java
@@ -114,7 +119,7 @@ research.addItems(cake);
 ```
 
 现在，最后一步：注册研究。  
-我们只需要在我们的研究对象上调用`.register()`方法。
+我们只需要在我们的研究对象上调用 `.register()` 方法。
 
 ```java
 // ...
@@ -160,6 +165,4 @@ research.register();
 
 我们现在有一个很棒的火焰蛋糕和一个与之相关的研究。  
 现在，玩家将需要解锁这个研究，才能访问这个物品。  
-如果你有任何问题，可以随时在 Discord 服务器的`#programming-help`频道中询问。
-
-?> 点击继续阅读[第六章](/Developer-Guide-(6-Custom-Heads))
+如果你有任何问题，可以随时在 Discord 服务器的 `#programming-help` 频道中询问。

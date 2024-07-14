@@ -24,7 +24,7 @@ IntelliJ 同样也提供了编译插件的方法。
 
 接下来，我们需要创建一个测试环境，这样我们就可以测试我们的附属了。  
 我们建议你使用 [Paper](https://papermc.io/downloads) 作为你的服务器软件。  
-需要注意的是，Slimefun 及其附属只支持 Spigot 及其分支（Paper、Purpur 等）。
+需要注意的是，Slimefun 及其附属只支持 Paper 及其衍生版本。
 
 服务端是一个 `.jar` 文件。  
 在某个地方创建一个新的文件夹，专门用于你的服务器，并将下载的服务端 `.jar` 文件放入文件夹中。
@@ -58,8 +58,8 @@ java -jar [jar文件名].jar
 然后，重新编译的 `.jar` 文件可在 `target/` 文件夹中找到。  
 现在，停止服务器，删除旧的附属 `.jar` 文件，并放入新的 `.jar` 文件。然后重新运行服务器。
 
-如果你有任何问题，可以随时在 Discord 服务器的`#programming-help`频道中询问。
+如果你有任何问题，可以随时在 Discord 服务器的 `#programming-help` 频道中询问。
 
 ## 发布 {#publishing}
 
-如果你希望发布你的附属，你可以阅读[这篇指南](/Developer-Guide-(Publishing))。
+如果你希望发布你的附属，你可以阅读[这篇指南](/Developer-Guide-Publishing)。

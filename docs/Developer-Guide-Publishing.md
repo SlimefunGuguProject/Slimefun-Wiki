@@ -49,9 +49,9 @@ mvn clean package
 
 你还可以使用 Slimefun 相关的分发平台：
 
-- [TheBusyBicuit's builds page](https://github.com/TheBusyBiscuit/builds#how-to-add-your-own-repository)：一个自动从 GitHub 公开仓库拉取代码并自增构建版本号的站点
-- [Blob Build](https://blob.build/developers)：一个可自行上传构建的站点，作为 *TheBusyBiscuit's builds page* 的替代品
-- [鬼斩构建站](https://github.com/ybw0014/guizhan-builds-2/blob/master/README_repos.md)：一个自动从 GitHub 公开仓库拉取代码并自增构建版本号的站点
+- [TheBusyBicuit's builds page](https://github.com/TheBusyBiscuit/builds#how-to-add-your-own-repository)：一个自动从 GitHub 公开仓库拉取代码并自增构建版本号的站点（现已废弃，因 GitHub Pages 存储达到上限而无法再更新）
+- [Blob Build](https://blob.build/developers)：一个可自行上传构建的站点，作为 *TheBusyBiscuit's builds page* 的替代品。
+- [鬼斩构建站](https://github.com/ybw0014/guizhan-builds-2/blob/master/README_repos.md)：一个自动从 GitHub 公开仓库拉取代码并自增构建版本号的站点。
 
 ## 宣传你的项目 {#spreading-the-word}
 
@@ -60,5 +60,5 @@ mvn clean package
 我们推荐所有的附属开发者在官方 Wiki 与中文 Wiki 的[附属页面](/Addons)上展示附属。  
 详见[扩充 Wiki](/Expanding-the-Wiki)。
 
-你也可以在我们的[Discord 服务器](https://discord.gg/slimefun)上宣传你的项目。  
-上传视频或截图来吸引用户！不过，请不要提及任何人。
+你也可以在我们的 [Discord 服务器](https://discord.gg/slimefun)上宣传你的项目。  
+上传视频或截图来吸引用户！不过，请不要 ping 任何人。

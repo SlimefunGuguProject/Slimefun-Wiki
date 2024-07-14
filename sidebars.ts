@@ -419,7 +419,6 @@ const sidebars: SidebarsConfig = {
       link: {type: 'doc', id: 'Seasonal-Categories'},
       className: 'hidden',
       items: [
-        //'Christmas-Seasonal-Category',
         {
           type: 'category',
           label: '圣诞节限时分类',
@@ -434,6 +433,24 @@ const sidebars: SidebarsConfig = {
         'Halloween-Seasonal-Category',
       ]
     },
+    {
+      type: 'category',
+      label: '开发指南',
+      link: {type: 'doc', id: 'Developer-Guide'},
+      className: 'hidden',
+      items: [
+        'Developer-Guide-1-Project-Setup',
+        'Developer-Guide-2-Creating-the-Addon',
+        'Developer-Guide-3-Your-first-Item',
+        'Developer-Guide-4a-Right-Clicks',
+        'Developer-Guide-4b-Radioactive-and-WitherProof',
+        'Developer-Guide-5-Researches',
+        'Developer-Guide-6-Custom-Heads',
+        'Developer-Guide-7-GEO-Resources',
+        'Developer-Guide-9-Compiling',
+        'Developer-Guide-Publishing',
+      ]
+    }
   ],
   // auto generated sidebars
 };
