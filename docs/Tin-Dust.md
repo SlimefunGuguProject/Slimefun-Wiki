@@ -10,7 +10,7 @@
 
 锡粉可以在[冶炼炉](/Smeltery)或[电动铸锭机](/Electric-Ingot-Factory)中冶炼成[锡锭](/Tin-Ingot)。
 
-锡粉可用于冶炼下列[合金](/Ingots#Alloys):
+锡粉可用于冶炼下列[合金](/Ingots#alloys):
 
 * [青铜锭](/Bronze-Ingot)
 * [焊锡锭](/Solder-Ingot)

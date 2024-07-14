@@ -11,7 +11,7 @@
 
 除了用于原有的 Minecraft 配方，铁锭可以在[电力打粉机](/Electric-Ingot-Pulverizer)中粉碎成[铁粉](/Iron-Dust)。
 
-另外，铁锭可用于冶炼下列[合金](/Ingots#Alloys):
+另外，铁锭可用于冶炼下列[合金](/Ingots#alloys):
 
 * [钴锭](/Cobalt-Ingot)
 * [大马士革钢锭](/Damascus-Steel-Ingot)

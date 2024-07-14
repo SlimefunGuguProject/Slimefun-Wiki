@@ -6,7 +6,7 @@
 
 在[冶炼炉](/Smeltery)或[电力冶炼炉](/Electric-Smeltery)中冶炼以下物品可获得 1 个镀金铁锭:
 
-* 1 [金锭（24克拉）](/Gold-Ingot#Gold-Ingot-24-Carat)
+* 1 [金锭（24克拉）](/Gold-Ingot#gold-ingot-24-carat)
 * 1 [铁粉](/Iron-Dust)
 
 ### 累计基础材料消耗 {#total-base-material-cost}

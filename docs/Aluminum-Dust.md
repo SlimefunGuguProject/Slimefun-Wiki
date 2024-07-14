@@ -10,7 +10,7 @@
 
 铝粉可以在[冶炼炉](/Smeltery)或[电动铸锭机](/Electric-Ingot-Factory)中冶炼成[铝锭](/Aluminum-Ingot)。
 
-铝粉可用于冶炼下列[合金](/Ingots#Alloys):
+铝粉可用于冶炼下列[合金](/Ingots#alloys):
 
 * [铝黄铜锭](/Aluminum-Brass-Ingot)
 * [铝青铜锭](/Aluminum-Bronze-Ingot)

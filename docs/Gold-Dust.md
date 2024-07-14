@@ -15,7 +15,7 @@
 
 金粉可以在[冶炼炉](/Smeltery)或[电动铸锭机](/Electric-Ingot-Factory)中冶炼成[金锭 (4克拉 至 24克拉)](/Gold-Ingot)。
 
-金粉可用于冶炼下列[合金](/Ingots#Alloys):
+金粉可用于冶炼下列[合金](/Ingots#alloys):
 
 * [科林斯青铜锭](/Corinthian-Bronze-Ingot)
 

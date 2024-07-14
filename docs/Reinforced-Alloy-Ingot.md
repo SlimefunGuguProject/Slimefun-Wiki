@@ -11,7 +11,7 @@
 * 1 [科林斯青铜锭](/Corinthian-Bronze-Ingot)
 * 1 [焊锡锭](/Solder-Ingot)
 * 1 [银铜合金锭](/Billon-Ingot)
-* 1 [金锭（24克拉）](/Gold-Ingot#Gold-Ingot-24-Carat)
+* 1 [金锭（24克拉）](/Gold-Ingot#gold-ingot-24-carat)
 
 ### 累计基础材料消耗 {#total-base-material-cost}
 

@@ -14,7 +14,7 @@
 
 铜粉可以在[冶炼炉](/Smeltery)或[电动铸锭机](/Electric-Ingot-Factory)中冶炼成[铜锭 (Slimefun)](/Copper-Ingot)。
 
-铜粉可用于冶炼下列[合金](/Ingots#Alloys):
+铜粉可用于冶炼下列[合金](/Ingots#alloys):
 
 * [青铜锭](/Bronze-Ingot)
 * [硬铝锭](/Duralumin-Ingot)

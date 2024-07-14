@@ -10,6 +10,6 @@
 
 锌粉可以在[冶炼炉](/Smeltery)或[电动铸锭机](/Electric-Ingot-Factory)中冶炼成[锌锭](/Zinc-Ingot)。
 
-锌粉可用于冶炼下列[合金](/Ingots#Alloys):
+锌粉可用于冶炼下列[合金](/Ingots#alloys):
 
 * [黄铜锭](/Brass-Ingot)

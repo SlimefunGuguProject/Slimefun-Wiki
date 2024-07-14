@@ -15,7 +15,7 @@
 
 铁粉可以在[冶炼炉](/Smeltery)或[电动铸锭机](/Electric-Ingot-Factory)中冶炼成[铁锭](/Iron-Ingot)。
 
-铁粉可用于冶炼下列[合金](/Ingots#Alloys):
+铁粉可用于冶炼下列[合金](/Ingots#alloys):
 
 * [钢锭](/Steel-Ingot)
 * [大马士革钢锭](/Damascus-Steel-Ingot)

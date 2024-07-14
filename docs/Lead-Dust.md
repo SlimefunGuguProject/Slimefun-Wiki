@@ -10,6 +10,6 @@
 
 铅粉可以在[冶炼炉](/Smeltery)或[电动铸锭机](/Electric-Ingot-Factory)中冶炼成[铅锭](/Lead-Ingot)。
 
-铅粉可用于冶炼下列[合金](/Ingots#Alloys):
+铅粉可用于冶炼下列[合金](/Ingots#alloys):
 
 * [焊锡锭](/Solder-Ingot)
