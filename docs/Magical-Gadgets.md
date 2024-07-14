@@ -1,0 +1,35 @@
+# 魔法道具 {#magical-gadgets}
+
+魔法道具分类中包含了各种带有魔法的道具。你将会使用[魔法物品](/Magical-Items)来建造它们。
+
+## 目录 {#table-of-contents}
+
+- [末影背包](/Ender-Backpack)
+- [魔法末影之眼](/Magic-Eye-of-Ender)
+- [元素法杖](/Elemental-Staves)
+- [元素法杖 - 风](/Elemental-Staves)
+- [元素法杖 - 水](/Elemental-Staves)
+- [元素法杖 - 火](/Elemental-Staves)
+- [元素法杖 - 雷](/Elemental-Staves)
+- [还魂丹](/Magical-Zombie-Pills)
+- [吸入磁铁](/Infused-Magnet)
+- [灵魂绑定背包](/Soulbound-Backpack)
+- [已修复的刷怪笼](/Reinforced-Spawner)
+- [维度传送卷轴](/Scroll-of-Dimensional-Teleposition)
+- [学识巨著](/Tome-of-Knowledge-Sharing)
+- [学识之瓶](/Flask-of-Knowledge)
+- [古代基座](/Ancient-Pedestal)
+- [古代祭坛](/Ancient-Altar)
+- [地狱骨粉](/Infernal-Bonemeal)
+- [鞘翅鳞片](/Elytras)
+- [鞘翅](/Elytras)
+- [鞘翅(经验修补)](/Elytras)
+- [灵魂绑定鞘翅](/Elytras)
+- [不死图腾](/Totem-of-Undying)
+- [彩虹羊毛](/Rainbow-Blocks)
+- [彩虹玻璃](/Rainbow-Blocks)
+- [彩虹玻璃板](/Rainbow-Blocks)
+- [彩虹粘土块](/Rainbow-Blocks)
+- [彩虹混凝土](/Rainbow-Blocks)
+- [彩虹带釉陶瓦](/Rainbow-Blocks)
+- [吸入漏斗](/Infused-Hopper)  
