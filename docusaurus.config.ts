@@ -146,11 +146,11 @@ const config: Config = {
         // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
       }
     },
-    // algolia: {
-    //   appId: 'ATI3VKTB81',
-    //   apiKey: 'abe82c0148dfc17e87c2d18ba5061e7f',
-    //   indexName: 'slimefun-addons-guizhanss',
-    // },
+    algolia: {
+      appId: 'GPJA12OFAG',
+      apiKey: '0a8eaa1c0227a6d389b71bb686ae55a9',
+      indexName: 'slimefun-guizhanss',
+    },
   } satisfies Preset.ThemeConfig,
 
   plugins: [
