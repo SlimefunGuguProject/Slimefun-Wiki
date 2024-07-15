@@ -157,7 +157,7 @@ const config: Config = {
     'docusaurus-plugin-sass',
     'docusaurus-plugin-image-zoom',
     [
-      '@gracefullight/docusaurus-plugin-cloudflare-analytics"',
+      '@gracefullight/docusaurus-plugin-cloudflare-analytics',
       { token: 'c56a11e845ee4e69b5411c75d11cb242' },
     ],
   ],
