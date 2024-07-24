@@ -1,0 +1,6 @@
+{
+  "schedule": "daily",
+  "aggressiveCompression": "true",
+  "compressWiki": "false",
+  "prTitle": "chore(images): optimize images"
+}
