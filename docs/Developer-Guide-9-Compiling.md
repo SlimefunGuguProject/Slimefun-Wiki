@@ -1,4 +1,4 @@
-# 开发指南（9. 编译） {#developer-guide-9-compiling}
+# 开发指南（9. 编译）
 
 这是我们的开发指南的一部分，你可以在[这里](/Developer-Guide)查看目录。
 

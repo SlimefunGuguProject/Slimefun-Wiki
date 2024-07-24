@@ -1,4 +1,4 @@
-# 开发指南（4a. 右键点击） {#Developer-Guide-4a-Right-Clicks}
+# 开发指南（4a. 右键点击）
 
 这是我们的开发指南的第四章，你可以在[这里](/Developer-Guide)查看目录。
 如果你还没有看过之前的内容，请先阅读它们。
@@ -326,4 +326,3 @@ public class FireCake extends SlimefunItem {
 好的，现在我们的蛋糕可以让玩家着火并获得 1 级的经验等级了。  
 如果你有任何问题，欢迎在 Discord 的 `#programming-help` 频道提问。  
 我希望这篇指南对你有所帮助，期待着看到你的附属！
-
