@@ -187,6 +187,7 @@ InfiniteExtensionV2-Reconfiguration 无尽扩展v2-重构版| lyen | <details><s
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | ---
 HaimanTech2 海曼科技院 | haiman233 | <details><summary>展开</summary>旨在完善粘液科技线，拓展原版玩法</details> | N/A | [官方版](https://github.com/haiman233/HaimanTech2) | [官方版](https://github.com/haiman233/HaimanTech2/releases)
+InfiniteExtensionV2-Reconfiguration 无尽扩展v2重构版 | lyen | <details><summary>展开</summary>旨在完善粘液科技线，拓展原版玩法</details> | N/A | [官方版]([https://github.com/haiman233/HaimanTech2](https://github.com/LuoYe5555/InfiniteExtensionV2-Reconfiguration_RSC)) | [官方版]([https://github.com/haiman233/HaimanTech2/releases](https://github.com/LuoYe5555/InfiniteExtensionV2-Reconfiguration_RSC))
 
 ### :wrench: 功能性插件 {#functional-addons}
 
