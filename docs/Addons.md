@@ -140,7 +140,7 @@ RykenSlimeCustomizer Ryken自定义附属 | lijinhong11(mmmjjkx) | <details><sum
 MomoTech 乱码科技(陌陌科技) | QYhB05 | <details><summary>展开</summary> 该附属添加了一些机器和实用的前期工具/生成器。</details> | N/A | [官方版](https://github.com/QYhB05/MomoTech) | [官方版](https://github.com/QYhB05/MomoTech/tree/main/jar)
 XingChengCraft 星辰工艺 | fengxiangQAQ | <details><summary>展开</summary> 一个拓展中后粘液生产线的粘液附属 </details> | N/A | [官方版](https://github.com/FengXiang2233/XingChengCraft) | [官方版](https://github.com/FengXiang2233/XingChengCraft)
 DefoLiationTech 落叶科技 | lyen | <details><summary>展开</summary> 该附属添加了一些生成器和实用机器 </details> | N/A | N/A | N/A
-FinalTECH-Changed | Final_ROOT, shixinzia, QYhB05 | <details><summary>展开</summary> 基于原乱序构建75适配简中粘液并修补漏洞, 进行大量魔改。</details> | N/A | [官方版](https://github.com/QYhB05/FinalTECH-Changed) | 自行构建
+FinalTECH-Changed 乱序技艺-改 | Final_ROOT, shixinzia, QYhB05 | <details><summary>展开</summary> 基于原乱序构建75适配简中粘液并修补漏洞, 进行大量魔改。</details> | N/A | [官方版](https://github.com/QYhB05/FinalTECH-Changed) | 自行构建
 
 ### :anchor: SC 自定义粘液附属 {#slime-customizer-addons}
 
