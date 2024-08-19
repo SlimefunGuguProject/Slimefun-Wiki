@@ -137,9 +137,10 @@ DimensionTraveler (RC-30) 维度旅者 | Ironnoob73 | <details><summary>展开</
 ClayTech (RC-26) 粘土科技 | ClayCoffee | <details><summary>展开</summary>（国产）该附属添加了一些武器、护甲、装饰、机器，以及一些食物与饮料。同样添加了可以增强原版生存体验的物品，比如高速铁轨。</details> | N/A | [官方旧版](https://github.com/ClayCoffee/ClayTech) / [代理方新版](https://github.com/Xzavier0722/ClayTech) | [官方旧版](https://github.com/ClayCoffee/ClayTech/releases) / [代理方新版](https://github.com/Xzavier0722/ClayTech/releases)
 HardlessMachine (RC-26) 弹跳工具 | TheSmileCat | <details><summary>展开</summary>（国产）该附属添加了一些弹跳板</details> | N/A | [官方版](https://github.com/TheSmileCat/HardlessMachine) | [官方版](https://github.com/TheSmileCat/HardlessMachine)
 RykenSlimeCustomizer Ryken自定义附属 | lijinhong11(mmmjjkx) | <details><summary>展开</summary>（国产）一款比较有更多自定义性的自定义附属，有比SC更多可自定义的东西</details> | [Wiki](https://rsc.hiworldmc.com/) | [官方版](https://github.com/SlimefunReloadingProject/RykenSlimeCustomizer) | [官方版](https://github.com/SlimefunReloadingProject/RykenSlimeCustomizer)
-MomoTech 乱码科技(陌陌科技) | QYhB05 | <details><summary>展开</summary> 该附属添加了一些机器和实用的前期工具/生成器。</details> | N/A | [官方版](https://github.com/QYhB05/MomoTech) | [官h方版](https://github.com/QYhB05/MomoTech/tree/main/jar)
+MomoTech 乱码科技(陌陌科技) | QYhB05 | <details><summary>展开</summary> 该附属添加了一些机器和实用的前期工具/生成器。</details> | N/A | [官方版](https://github.com/QYhB05/MomoTech) | [官方版](https://github.com/QYhB05/MomoTech/tree/main/jar)
 XingChengCraft 星辰工艺 | fengxiangQAQ | <details><summary>展开</summary> 一个拓展中后粘液生产线的粘液附属 </details> | N/A | [官方版](https://github.com/FengXiang2233/XingChengCraft) | [官方版](https://github.com/FengXiang2233/XingChengCraft)
 DefoLiationTech 落叶科技 | lyen | <details><summary>展开</summary> 该附属添加了一些生成器和实用机器 </details> | N/A | N/A | N/A
+FinalTECH-Changed | Final_ROOT, shixinzia, QYhB05 | <details><summary>展开</summary> 基于原乱序构建75适配简中粘液并修补漏洞, 进行大量魔改。</details> | N/A | [官方版](https://github.com/QYhB05/FinalTECH-Changed) | 自行构建
 
 ### :anchor: SC 自定义粘液附属 {#slime-customizer-addons}
 
