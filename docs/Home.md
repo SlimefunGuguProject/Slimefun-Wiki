@@ -51,4 +51,4 @@
 
 由于附属插件 Wiki 会不断更新，因此此处不再维护列表。  
 
-请前往[附属插件中文Wiki](https://slimefun-addons-wiki.guizhanss.cn/)查看详情。
+请前往[附属插件中文Wiki](https://slimefun-addons-wiki.guizhanss.net/)查看详情。

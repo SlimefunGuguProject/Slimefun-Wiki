@@ -32,4 +32,4 @@
   - [货运管理](/Cargo-Management)
   - [节日物品](/Seasonal-Categories)
 - 附属插件的非官方Wiki
-  - [点击前往](https://slimefun-addons-wiki.guizhanss.cn/)
+  - [点击前往](https://slimefun-addons-wiki.guizhanss.net/)

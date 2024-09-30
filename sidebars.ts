@@ -70,13 +70,13 @@ const sidebars: SidebarsConfig = {
     {
       type: 'link',
       label: '附属插件非官方 Wiki',
-      href: 'https://slimefun-addons-wiki.guizhanss.cn/'
+      href: 'https://slimefun-addons-wiki.guizhanss.net/'
     },
     // hidden categories below
     {
       type: 'category',
       label: '武器',
-      link: {type: 'doc', id: 'Weapons'},
+      link: { type: 'doc', id: 'Weapons' },
       className: 'hidden',
       items: [
         'Walking-Sticks',
@@ -90,7 +90,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '有用的物品',
-      link: {type: 'doc', id: 'Items'},
+      link: { type: 'doc', id: 'Items' },
       className: 'hidden',
       items: [
         'Portable-Crafter',
@@ -104,7 +104,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '基础机器',
-      link: {type: 'doc', id: 'Basic-Machines'},
+      link: { type: 'doc', id: 'Basic-Machines' },
       className: 'hidden',
       items: [
         'Enhanced-Crafting-Table',
@@ -132,7 +132,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '工具',
-      link: {type: 'doc', id: 'Tools'},
+      link: { type: 'doc', id: 'Tools' },
       className: 'hidden',
       items: [
         'Gold-Pan',
@@ -155,12 +155,12 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: '资源',
       className: 'hidden',
-      link: {type: 'doc', id: 'Resources'},
+      link: { type: 'doc', id: 'Resources' },
       items: [
         {
           type: 'category',
           label: '矿粉',
-          link: {type: 'doc', id: 'Dusts'},
+          link: { type: 'doc', id: 'Dusts' },
           items: [
             'Iron-Dust',
             'Gold-Dust',
@@ -176,7 +176,7 @@ const sidebars: SidebarsConfig = {
         {
           type: 'category',
           label: '锭',
-          link: {type: 'doc', id: 'Ingots'},
+          link: { type: 'doc', id: 'Ingots' },
           items: [
             'Iron-Ingot',
             'Gold-Ingot',
@@ -229,7 +229,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '食物',
-      link: {type: 'doc', id: 'Food'},
+      link: { type: 'doc', id: 'Food' },
       className: 'hidden',
       items: [
         'Fortune-Cookie',
@@ -244,7 +244,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '魔法物品',
-      link: {type: 'doc', id: 'Magical-Items'},
+      link: { type: 'doc', id: 'Magical-Items' },
       className: 'hidden',
       items: [
         'Lumps',
@@ -255,7 +255,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '科技零件',
-      link: {type: 'doc', id: 'Technical-Components'},
+      link: { type: 'doc', id: 'Technical-Components' },
       className: 'hidden',
       items: [
         'Circuit-Boards',
@@ -279,7 +279,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '杂项用品',
-      link: {type: 'doc', id: 'Miscellaneous-Items'},
+      link: { type: 'doc', id: 'Miscellaneous-Items' },
       className: 'hidden',
       items: [
         'Sifted-Ore',
@@ -289,7 +289,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '魔法道具',
-      link: {type: 'doc', id: 'Magical-Gadgets'},
+      link: { type: 'doc', id: 'Magical-Gadgets' },
       className: 'hidden',
       items: [
         'Ender-Backpack',
@@ -314,7 +314,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '能源与电力',
-      link: {type: 'doc', id: 'Electric-Machines'},
+      link: { type: 'doc', id: 'Electric-Machines' },
       className: 'hidden',
       items: [
         'Energy-Regulator',
@@ -362,7 +362,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'GPS',
-      link: {type: 'doc', id: 'GPS'},
+      link: { type: 'doc', id: 'GPS' },
       className: 'hidden',
       items: [
         'GPS-Transmitter',
@@ -383,7 +383,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '可编程机器人',
-      link: {type: 'doc', id: 'Androids'},
+      link: { type: 'doc', id: 'Androids' },
       className: 'hidden',
       items: [
         'Android-Interfaces',
@@ -398,7 +398,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '货运管理',
-      link: {type: 'doc', id: 'Cargo-Management'},
+      link: { type: 'doc', id: 'Cargo-Management' },
       className: 'hidden',
       items: [
         'Cargo-Motor',
@@ -416,13 +416,13 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '季节性分类',
-      link: {type: 'doc', id: 'Seasonal-Categories'},
+      link: { type: 'doc', id: 'Seasonal-Categories' },
       className: 'hidden',
       items: [
         {
           type: 'category',
           label: '圣诞节限时分类',
-          link: {type: 'doc', id: 'Christmas-Seasonal-Category'},
+          link: { type: 'doc', id: 'Christmas-Seasonal-Category' },
           items: [
             'Christmas-Items',
           ]
@@ -436,7 +436,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '开发指南',
-      link: {type: 'doc', id: 'Developer-Guide'},
+      link: { type: 'doc', id: 'Developer-Guide' },
       className: 'hidden',
       items: [
         'Developer-Guide-1-Project-Setup',
