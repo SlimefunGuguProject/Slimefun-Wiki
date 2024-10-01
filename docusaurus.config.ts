@@ -1,5 +1,5 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
@@ -41,8 +41,8 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           editUrl:
             'https://github.com/SlimefunGuguProject/Slimefun-Wiki/tree/master/',
-          remarkPlugins: [ remarkMath ],
-          rehypePlugins: [ rehypeKatex ],
+          remarkPlugins: [remarkMath],
+          rehypePlugins: [rehypeKatex],
         },
         blog: false,
         theme: {
@@ -90,14 +90,6 @@ const config: Config = {
             {
               label: 'GitHub 仓库',
               href: 'https://github.com/Slimefun/Slimefun4',
-            },
-            {
-              label: 'Discord 服务器',
-              href: 'https://discord.gg/slimefun',
-            },
-            {
-              label: 'Discord 附属社区服务器',
-              href: 'https://discord.gg/SqD3gg5SAUn',
             },
           ],
         },
