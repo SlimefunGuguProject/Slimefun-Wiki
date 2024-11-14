@@ -188,6 +188,7 @@ InfiniteExtensionV2-Reconfiguration 无尽扩展v2-重构版| lyen | <details><s
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | ---
 HaimanTech2 海曼科技院 | haiman233 | <details><summary>展开</summary>旨在完善粘液科技线，拓展原版玩法</details> | N/A | [官方版](https://github.com/haiman233/HaimanTech2) | [官方版](https://github.com/haiman233/HaimanTech2/releases)
+EpoTech 纪元科技 | J_ump | <details><summary>展开</summary>添加了更多有趣的道具，增加了更多机器</details> | N/A | [官方版](https://github.com/Jump9527/SlimeFun-RSC-EpoTech) | [官方版](https://github.com/Jump9527/SlimeFun-RSC-EpoTech/releases)
 
 ### :wrench: 功能性插件 {#functional-addons}
 
