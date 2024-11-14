@@ -137,9 +137,9 @@ public class FireCake extends SlimefunItem implements Radioactive {
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
 CustomItemStack categoryItem = new CustomItemStack(Material.DIAMOND, "&4非常炫酷的分类");
-// 创建物品组ItemGroup
+// 创建物品组 ItemGroup
 ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
-// 粘液物品SlimefunItem的物品SlimefunItemStack
+// 粘液物品 SlimefunItem 的物品 SlimefunItemStack
 SlimefunItemStack itemStack = new SlimefunItemStack("MY_ADDON_ITEM", Material.CAKE, "&4火焰蛋糕", "", "&c小心！");
 // 3x3 的有序合成配方
 ItemStack[] recipe = {
@@ -158,15 +158,15 @@ cake.register(this);
 
 有一个静态方法叫做 `LoreBuilder.radioactive(...)`，它接受一个 `Radioactivity` 的常量作为参数。  
 我们可以使用它来创建一个关于放射性的字符串。这将是与 Slimefun 标准物品使用的相同字符串。  
-如果你想更进一步，你也可以使用静态常量`LoreBuilder.HAZMAT_SUIT_REQUIRED`，它会警告玩家需要穿上防护服。
+如果你想更进一步，你也可以使用静态常量 `LoreBuilder.HAZMAT_SUIT_REQUIRED`，它会警告玩家需要穿上防护服。
 让我们来做这些吧。
 
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
 CustomItemStack categoryItem = new CustomItemStack(Material.DIAMOND, "&4非常炫酷的分类");
-// 创建物品组ItemGroup
+// 创建物品组 ItemGroup
 ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
-// 粘液物品SlimefunItem的物品SlimefunItemStack
+// 粘液物品 SlimefunItem 的物品 SlimefunItemStack
 SlimefunItemStack itemStack = new SlimefunItemStack("FIRE_CAKE", Material.CAKE, "&4火焰蛋糕", "", LoreBuilder.radioactive(Radioactivity.HIGH), LoreBuilder.HAZMAT_SUIT_REQUIRED);
 // 3x3 的有序合成配方
 ItemStack[] recipe = {

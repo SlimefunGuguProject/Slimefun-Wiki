@@ -19,9 +19,9 @@
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
 CustomItemStack categoryItem = new CustomItemStack(Material.DIAMOND, "&4非常炫酷的分类");
-// 创建物品组ItemGroup
+// 创建物品组 ItemGroup
 ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
-// 粘液物品SlimefunItem的物品SlimefunItemStack
+// 粘液物品 SlimefunItem 的物品 SlimefunItemStack
 SlimefunItemStack itemStack = new SlimefunItemStack("MY_ADDON_ITEM", Material.EMERALD, "&a炫酷的绿宝石", "", "&7听说很值钱");
 // 3x3 的有序合成配方
 ItemStack[] recipe = {
@@ -89,7 +89,7 @@ new SlimefunItem(itemGroup, itemStack, recipeType, recipe);
 
 :::
 
-我们只需要使用`super`关键字并传递参数，构造函数现在看起来像这样：
+我们只需要使用 `super` 关键字并传递参数，构造函数现在看起来像这样：
 
 ```java
 public class FireCake extends SlimefunItem {
@@ -107,9 +107,9 @@ public class FireCake extends SlimefunItem {
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
 CustomItemStack categoryItem = new CustomItemStack(Material.DIAMOND, "&4非常炫酷的分类");
-// 创建物品组ItemGroup
+// 创建物品组 ItemGroup
 ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
-// 粘液物品SlimefunItem的物品SlimefunItemStack
+// 粘液物品 SlimefunItem 的物品 SlimefunItemStack
 SlimefunItemStack itemStack = new SlimefunItemStack("FIRE_CAKE", Material.CAKE, "&4火焰蛋糕", "", "&c小心！");
 // 3x3 的有序合成配方
 ItemStack[] recipe = {
@@ -149,7 +149,7 @@ public class FireCake extends SlimefunItem {
 }
 ```
 
-我们将**覆盖（Override）** 一个来自 `SlimefunItem` 的方法，叫做 `preRegister()`。  
+我们将**覆盖（Override）**一个来自 `SlimefunItem` 的方法，叫做 `preRegister()`。  
 这个方法在物品注册之前被调用，这确保了我们的处理器被正确添加。  
 注意，覆盖的方法应该有一个 `@Override` 注解，如下所示：
 

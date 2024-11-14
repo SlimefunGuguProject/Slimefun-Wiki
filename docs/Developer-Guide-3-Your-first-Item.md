@@ -120,7 +120,7 @@ public void onEnable() {
 该类的构造函数拥有 4 个参数：
 
 - `itemGroup` 是该物品所属的物品组，在这里我们将使用之前创建的物品组。
-- `itemStack` 是该`SlimefunItem` 所使用的 `SlimefunItemStack`。我们会在稍后说明。
+- `itemStack` 是该 `SlimefunItem` 所使用的 `SlimefunItemStack`。我们会在稍后说明。
 - `recipeType` 说明该物品所使用的配方类型。换句话说，就是合成该物品所需的机器。
 - `recipe` 是一个长度为 9 的 `ItemStack` 数组，描述了 3x3 的配方。
 
@@ -132,7 +132,7 @@ public void onEnable() {
 在本指南中，我们会使用以下构造函数：  
 `new SlimefunItemStack(id, material, name, lore...);`
 
-首先，我们需要给 `SlimefunItemStack` 提供`id`。
+首先，我们需要给 `SlimefunItemStack` 提供 `id`。
 `id` 就是一个大写字母、数字、下划线任意组合而成的一个字符串。例如：`MY_ADDON_ITEM`  
 物品的 ID 必须是全局唯一的（包括本体与所有附属），所以请选择最适合物品的 ID。
 
@@ -209,20 +209,20 @@ SlimefunItem sfItem = new SlimefunItem(itemGroup, itemStack, recipeType, recipe)
 
 让我们来回顾一下之前的步骤：
 
-1. 创建了一个物品组`ItemGroup`
-   a. 使用`CustomItemStack`作为展示物品
-2. 创建了一个粘液物品`SlimefunItem`
+1. 创建了一个物品组 `ItemGroup`
+   a. 使用 `CustomItemStack` 作为展示物品
+2. 创建了一个粘液物品 `SlimefunItem`
    a. 使用自定义配方
-   b. 使用`SlimefunItemStack`来指定物品 ID、材料、显示名与说明
+   b. 使用 `SlimefunItemStack` 来指定物品 ID、材料、显示名与说明
 
 以下是目前为止所有的代码（在 `onEnable()` 方法中）：
 
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
 CustomItemStack categoryItem = new CustomItemStack(Material.DIAMOND, "&4非常炫酷的分类");
-// 创建物品组ItemGroup
+// 创建物品组 ItemGroup
 ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
-// 粘液物品SlimefunItem的物品SlimefunItemStack
+// 粘液物品 SlimefunItem 的物品 SlimefunItemStack
 SlimefunItemStack itemStack = new SlimefunItemStack("MY_ADDON_ITEM", Material.EMERALD, "&a炫酷的绿宝石", "", "&7听说很值钱");
 // 3x3 的有序合成配方
 ItemStack[] recipe = {

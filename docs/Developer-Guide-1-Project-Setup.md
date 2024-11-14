@@ -11,7 +11,7 @@
 3. Apache Maven（IntelliJ IDEA 自带）
 4. Git（推荐，用于版本管理）
 
-我们不会详细阐述如何下载并安装这些工具，请自行使用搜索引擎或 ChatGPT 解决。  
+我们不会详细阐述如何下载并安装这些工具，请自行使用搜索引擎或询问 AI 解决。  
 当你安装完这些工具后，进入下一步。
 
 ## 2. 创建一个新的 GitHub 仓库 {#2-create-a-new-github-repository}
@@ -67,10 +67,10 @@ Maven 是一个许多 Java 项目使用的依赖管理器。我们的模版项�
 该名称是为了识别你是一个个人开发者，或者代表一个组织。  
 该名称必须为全部小写，以下是一些例子：
 
-- `me.ybw0014`（me开头的通常代表个人）
+- `me.ybw0014`（me 开头的通常代表个人）
 - `dev.ybw0014`（如果你拥有网站，使用你网站域名的倒序）
 - `com.google.example`（如果你属于某个组织，例如 Google，则使用这种格式。不要假冒任何组织，只有当你的项目是以组织名义制作时才使用该格式）
-- `io.github.ybw0014`（如果你的仓库在 GitHub 托管并开源，你可以使用该格式）
+- `io.github.ybw0014`（如果你的仓库在 GitHub 托管并开源，你选择可以使用该格式）
 
 对于大多数开发者来说，我们建议使用`me.你的名字`来作为包名（记住，全部小写，使用 `_` 来表示空格）。
 
@@ -192,4 +192,4 @@ api-version: 1.14
 
 ## 5. 锁定你的依赖版本 {#5-locking-your-dependency-versions}
 
-我们模版的 `pom.xml`已经锁定了 Slimefun 依赖项的版本，你可以选择跳过该部分，或阅读[官方文档](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(1-Project-Setup)#5-locking-your-dependency-versions)。
+我们模版的 `pom.xml` 已经锁定了 Slimefun 依赖项的版本，你可以选择跳过该部分，或阅读[官方文档](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(1-Project-Setup)#5-locking-your-dependency-versions)。

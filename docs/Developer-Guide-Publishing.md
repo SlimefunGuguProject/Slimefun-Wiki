@@ -13,7 +13,7 @@
 如果你的项目没有许可证，那么默认为**保留所有权利**。  
 即使你想将项目的所有权利都保留给自己，明确地声明这一点也是一个好主意。
 
-如果你需要帮助选择许可证，请查看[ChooseALicense.com](https://choosealicense.com/)。
+如果你需要帮助选择许可证，请查看 [ChooseALicense.com](https://choosealicense.com/)。
 
 ### 2. 你知道如何编译你的项目 {#2-you-know-how-to-compile-your-project}
 

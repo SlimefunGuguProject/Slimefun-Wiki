@@ -35,18 +35,14 @@ sidebar_label: 编写自己的附属插件
 2. [创建附属](/Developer-Guide-2-Creating-the-Addon)
 3. [你的第一个物品](/Developer-Guide-3-Your-first-Item)
 4. 为你的物品添加特性
-
-- [右键点击物品或方块时执行操作](/Developer-Guide-4a-Right-Clicks)
-- [让物品具有放射性和防凋灵](/Developer-Guide-4b-Radioactive-and-WitherProof)
-
+   - [右键点击物品或方块时执行操作](/Developer-Guide-4a-Right-Clicks)
+   - [让物品具有放射性和防凋灵](/Developer-Guide-4b-Radioactive-and-WitherProof)
 5. [添加自己的研究](/Developer-Guide-5-Researches)
 6. [自定义头颅](/Developer-Guide-6-Custom-Heads)
 7. [添加自然资源到自然资源开采机](/Developer-Guide-7-GEO-Resources)
 8. 创建电力机器
-
-- 创建简单的输入/输出机器（即将到来）
-- 创建自己的发电机（即将到来）
-
+   - 创建简单的输入/输出机器（即将到来）
+   - 创建自己的发电机（即将到来）
 9. [编译并测试附属](/Developer-Guide-9-Compiling)
 
 *. [发布你的附属](/Developer-Guide-Publishing)

@@ -24,6 +24,8 @@ const sidebars: SidebarsConfig = {
         'Slimefun-in-a-nutshell',
         'Installing-Slimefun',
         'Getting-Started',
+        { type: 'doc', id: 'Permissions', className: 'hidden' },
+        { type: 'doc', id: 'Commands', className: 'hidden' },
         'Common-Issues',
         'How-to-report-bugs',
         'Expanding-the-Wiki',
