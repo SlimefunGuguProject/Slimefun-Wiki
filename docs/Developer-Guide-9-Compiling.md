@@ -7,7 +7,7 @@
 ## 编译 {#compiling}
 
 为了测试你的附属，你需要将附属编译成一个 `.jar` 文件（服务器可识别为插件的文件）。  
-如果你使用 Maven 来管理你的项目（正如我们在[第一部分](/Developer-Guide-(1-Project-Setup))所建议的），你只需要在项目的根目录中运行以下指令：
+如果你使用 Maven 来管理你的项目（正如我们在[第一部分](/Developer-Guide-1-Project-Setup)所建议的），你只需要在项目的根目录中运行以下指令：
 
 ```bash
 mvn clean package

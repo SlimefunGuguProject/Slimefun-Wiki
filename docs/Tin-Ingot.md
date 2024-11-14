@@ -12,4 +12,4 @@
 
 锡锭被用于以下配方:
 
-* [锡罐](/Tin-Can)
+* [锡罐](/Miscellaneous-Items)

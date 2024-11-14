@@ -27,7 +27,7 @@ sidebar_label: 编写自己的附属插件
 
 你也可以查看我们的 [Javadocs](https://slimefun.github.io/javadocs) 以获取有关我们 API 设计的技术信息，但我们仍建议你先阅读本指南。
 
-如果你完全没有任何 Java 基础，但又想编写附属，那么你可以尝试使用 [SlimeCustomizer 自定义粘液附属](https://slimefun-addons-wiki.guizhanss.net/slime-customizer/)。自定义粘液附属的技术需求只有 Yaml 文件编写，不需要任何的 Java 知识。
+如果你完全没有任何 Java 基础，但又想编写附属，那么你可以尝试使用 [SlimeCustomizer 自定义粘液附属](https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/)。自定义粘液附属的技术需求只有 Yaml 文件编写，不需要任何的 Java 知识。
 
 ## 目录 {#table-of-contents}
 

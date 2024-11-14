@@ -29,7 +29,7 @@
 
 ### 岩浆水晶 {#lava-crystal}
 
-此物品可以在[增强型工作台](/Enhanced-Crafting-Table)中使用 4 个[魔法结晶 - I](/Lumps)、1 个[古代符文 \[火\]](/ancient-runes)以及 4 个烈焰粉合成。
+此物品可以在[增强型工作台](/Enhanced-Crafting-Table)中使用 4 个[魔法结晶 - I](/Lumps)、1 个[古代符文 \[火\]](/Ancient-Runes)以及 4 个烈焰粉合成。
 
 ### 普通护身符 {#common-talisman}
 

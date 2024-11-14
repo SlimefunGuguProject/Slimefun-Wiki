@@ -24,5 +24,5 @@
 * [方块放置机](/Block-Placer)
 * [电动淘金机 (II)](/Electric-Gold-Pan)
 * [便携垃圾箱](/Portable-Dustbin)
-* [史莱姆套装](/Slime-Suit)
+* [史莱姆套装](/Magical-Armor#leather--iron-slime-armor)
 * [夹板](/Medical-Supplies)

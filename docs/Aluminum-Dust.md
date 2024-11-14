@@ -19,7 +19,7 @@
 以及合成以下物品:
 
 * [磁铁](/Magnet)
-* [强力胶布](/Duct-Tape)
+* [强力胶布](/Miscellaneous-Items)
 * [人造绿宝石](/Synthetic-Emerald)
 
 除此以外，铝粉可能在其他配方中出现，此处不做过多赘述。

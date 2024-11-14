@@ -70,7 +70,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'link',
       label: '附属插件非官方 Wiki',
-      href: 'https://slimefun-addons-wiki.guizhanss.net/'
+      href: 'https://slimefun-addons-wiki.guizhanss.cn/'
     },
     // hidden categories below
     {
