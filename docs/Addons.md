@@ -192,6 +192,7 @@ HaimanTech2 海曼科技院 | haiman233 | <details><summary>展开</summary>旨�
 EpoTech 纪元科技 | J_ump | <details><summary>展开</summary>添加了更多有趣的道具，增加了更多机器</details> | N/A | [官方版](https://github.com/Jump9527/SlimeFun-RSC-EpoTech) | [官方版](https://github.com/Jump9527/SlimeFun-RSC-EpoTech/releases)
 WorldTaste 尘世百味 | haiman233 | <details><summary>展开</summary>旨在向粘液科技中添加来自世界各地的美食，添加了上百种食物</details> | N/A | [官方版](https://github.com/haiman233/WorldTaste) | [官方版](https://github.com/haiman233/WorldTaste/releases)
 SFTeacher 粘液科技及附属教程 | haiman233 | <details><summary>展开</summary>向粘液科技书中添加了全网的粘液科技及附属教程的链接，方便玩家查阅</details> | N/A | [官方版](https://github.com/haiman233/SFTeacher) | [官方版](https://github.com/haiman233/SFTeacher/releases)
+Magic 魔法 | Yomicer | <details><summary>展开</summary>向粘液科技中添加了魔法机器，道具，刷怪笼等内容，内容充实丰富</details> | N/A | [官方版](https://github.com/Yomicer/Magic_RSC) | [官方版](https://github.com/Yomicer/Magic_RSC/releases)
 HiveCorporation H公司 | 1368139692 | <details><summary>展开</summary>以公司为背景，添加了一些列机器与装备</details> | N/A | [官方版](https://github.com/1368139692/HiveCorporation) | [官方版](https://github.com/1368139692/HiveCorporation/releases)
 
 ### :wrench: 功能性插件 {#functional-addons}
