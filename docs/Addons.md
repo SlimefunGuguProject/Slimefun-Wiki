@@ -168,6 +168,7 @@ BocchiTechnology 波奇科技 | yigexu | <details><summary>展开</summary>添�
 OreTech 矿物科技 | HiTech0926, Chenmose | <details><summary>展开</summary>让原版矿物变得更加有用，同时也增加了一些新的矿物获取方式 </details> | [更多信息](https://github.com/HiTech0926/SC-OreTech#readme) | [官方版](https://github.com/HiTech0926/SC-OreTech) | [官方版](https://github.com/HiTech0926/SC-OreTech)
 HLGtech 生物科技 | yigexu | <details><summary>展开</summary>将至尊的难度降低了一些，同时增加机器 </details> | N/A | [官方版](https://github.com/bocchiyigexu/SHENGWUTECH) | [官方版](https://github.com/bocchiyigexu/SHENGWUTECH)
 InfiniteExtensionV2-Reconfiguration 无尽扩展v2-重构版| lyen | <details><summary>展开</summary>在摆烂鸽的基础上添加了可以自动化无尽的机器 </details> | N/A | [官方版](https://github.com/LuoYe5555/InfiniteExtensionV2-Reconfiguration) | [官方版](https://github.com/LuoYe5555/InfiniteExtensionV2-Reconfiguration)
+AngleTech 倾斜科技| 1368139692 | <details><summary>展开</summary>向粘液科技中添加了一系列实用机器和武器装备</details> | N/A | [官方版](https://github.com/1368139692/AngleTech) | [官方版](https://github.com/1368139692/AngleTech/releases)
 
 ### :anchor: RSC 自定义粘液附属 {#ryken-slime-customizer-addons}
 
@@ -189,6 +190,9 @@ InfiniteExtensionV2-Reconfiguration 无尽扩展v2-重构版| lyen | <details><s
 --- | --- | --- | ------- | ----- | ---
 HaimanTech2 海曼科技院 | haiman233 | <details><summary>展开</summary>旨在完善粘液科技线，拓展原版玩法</details> | N/A | [官方版](https://github.com/haiman233/HaimanTech2) | [官方版](https://github.com/haiman233/HaimanTech2/releases)
 EpoTech 纪元科技 | J_ump | <details><summary>展开</summary>添加了更多有趣的道具，增加了更多机器</details> | N/A | [官方版](https://github.com/Jump9527/SlimeFun-RSC-EpoTech) | [官方版](https://github.com/Jump9527/SlimeFun-RSC-EpoTech/releases)
+WorldTaste 尘世百味 | haiman233 | <details><summary>展开</summary>旨在向粘液科技中添加来自世界各地的美食，添加了上百种食物</details> | N/A | [官方版](https://github.com/haiman233/WorldTaste) | [官方版](https://github.com/haiman233/WorldTaste/releases)
+SFTeacher 粘液科技及附属教程 | haiman233 | <details><summary>展开</summary>向粘液科技书中添加了全网的粘液科技及附属教程的链接，方便玩家查阅</details> | N/A | [官方版](https://github.com/haiman233/SFTeacher) | [官方版](https://github.com/haiman233/SFTeacher/releases)
+HiveCorporation H公司 | 1368139692 | <details><summary>展开</summary>以公司为背景，添加了一些列机器与装备</details> | N/A | [官方版](https://github.com/1368139692/HiveCorporation) | [官方版](https://github.com/1368139692/HiveCorporation/releases)
 
 ### :wrench: 功能性插件 {#functional-addons}
 
