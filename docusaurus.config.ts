@@ -74,6 +74,11 @@ const config: Config = {
           label: '构建站',
         },
         {
+          href: 'https://hsd.hikari.bond/',
+          position: 'left',
+          label: '粘液物品数据库',
+        },
+        {
           href: 'https://github.com/SlimefunGuguProject/Slimefun-Wiki',
           position: 'right',
           className: 'header-github-link',
