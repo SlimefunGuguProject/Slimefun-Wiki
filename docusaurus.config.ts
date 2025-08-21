@@ -103,7 +103,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub 仓库',
-              href: 'https://github.com/StarWishsama/Slimefun4',
+              href: 'https://github.com/SlimefunGuguProject/Slimefun4',
             },
             {
               label: 'QQ 群 807302496',
