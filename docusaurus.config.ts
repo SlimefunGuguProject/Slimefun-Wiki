@@ -74,7 +74,7 @@ const config: Config = {
           label: '构建站',
         },
         {
-          href: 'https://hsd.hikari.bond/',
+          href: 'https://hsd.mccaigou.cn/',
           position: 'left',
           label: '粘液物品数据库',
         },
