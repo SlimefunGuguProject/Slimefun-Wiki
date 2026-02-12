@@ -194,7 +194,7 @@ WorldTaste 尘世百味 | haiman233 | <details><summary>展开</summary>旨在�
 SFTeacher 粘液科技及附属教程 | haiman233 | <details><summary>展开</summary>向粘液科技书中添加了全网的粘液科技及附属教程的链接，方便玩家查阅</details> | N/A | [官方版](https://github.com/haiman233/SFTeacher) | [官方版](https://github.com/haiman233/SFTeacher/releases)
 Magic 魔法 | Yomicer | <details><summary>展开</summary>向粘液科技中添加了魔法机器，道具，刷怪笼等内容，内容充实丰富</details> | N/A | [官方版](https://github.com/Yomicer/Magic_RSC) | [官方版](https://github.com/Yomicer/Magic_RSC/releases)
 HiveCorporation H公司 | 1368139692 | <details><summary>展开</summary>以公司为背景，添加了一些列机器与装备</details> | N/A | [官方版](https://github.com/1368139692/HiveCorporation) | [官方版](https://github.com/1368139692/HiveCorporation/releases)
-
+FengQiTech 风起科技 | lyen | <details><summary>展开</summary>向粘液科技中添加了一些合理的一体化机器.同时旨在减少部分机器的过量堆叠</details> | N/A | [官方版](https://github.com/LuoYe5555/FengQiTech) | [官方版](https://github.com/LuoYe5555/FengQiTech/releases)
 ### :wrench: 功能性插件 {#functional-addons}
 
 以下附属没有额外添加任何物品。但它们有自己各自的功能，各腐竹可根据自身服务器情况选择。
