@@ -145,7 +145,7 @@ const config: Config = {
     algolia: {
       appId: "GPJA12OFAG",
       apiKey: "0a8eaa1c0227a6d389b71bb686ae55a9",
-      askAi: "2mlZUhjiXeCz",
+      askAi: "CdD3N8TckFAI",
       indexName: "slimefun-guizhanss",
     },
   } satisfies Preset.ThemeConfig,
