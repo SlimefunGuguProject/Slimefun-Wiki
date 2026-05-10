@@ -174,11 +174,11 @@ AngleTech 倾斜科技| 1368139692 | <details><summary>展开</summary>向粘液
 
 以下均为 RSC 自定义粘液附属的配置。
 
-该列表为 [RykenSlimeCustomizer 自定义粘液附属](https://rsc.hiworldmc.com/) 的配置文件。  
+该列表为 [RykenSlimeCustomizer 自定义粘液附属](https://rsc.slimefun.cn/) 的配置文件。  
 在安装好插件后，将该插件的配置文件(附属)丢进 RykenSlimeCustomizer/addons 文件夹里。
 
 注意！该附属需要 Paper 服务端才能运行，请在下载时注意标注的运行要求。
-更多详细信息和使用教程请查看 [Wiki](https://rsc.hiworldmc.com/)。
+更多详细信息和使用教程请查看 [Wiki](https://rsc.slimefun.cn/)。
 
 :::warning
 
