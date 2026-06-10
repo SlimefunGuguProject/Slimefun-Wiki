@@ -142,11 +142,14 @@ const config: Config = {
         // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
       },
     },
-    algolia: {
+    docsearch: {
       appId: "GPJA12OFAG",
       apiKey: "0a8eaa1c0227a6d389b71bb686ae55a9",
-      askAi: "CdD3N8TckFAI",
       indexName: "slimefun-guizhanss",
+      askAi: {
+        assistantId: "a661ca89-5597-4bc5-bc54-d215b213bba1",
+        agentStudio: true,
+      },
     },
   } satisfies Preset.ThemeConfig,
 
@@ -157,6 +160,7 @@ const config: Config = {
       "@gracefullight/docusaurus-plugin-cloudflare-analytics",
       { token: "c56a11e845ee4e69b5411c75d11cb242" },
     ],
+    "@docsearch/docusaurus-adapter",
   ],
 };
 
