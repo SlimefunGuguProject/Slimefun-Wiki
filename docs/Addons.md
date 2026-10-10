@@ -143,7 +143,7 @@ XingChengCraft 星辰工艺 | fengxiangQAQ | <details><summary>展开</summary> 
 DefoLiationTech 落叶科技 | lyen | <details><summary>展开</summary> 该附属添加了一些生成器和实用机器 </details> | N/A | N/A | N/A
 FinalTECH-Changed 乱序技艺-改 | Final_ROOT, shixinzia, QYhB05 | <details><summary>展开</summary> 基于原乱序构建75适配简中粘液并修补漏洞, 进行大量魔改。</details> | N/A | [官方版](https://github.com/QYhB05/FinalTECH-Changed) | 自行构建
 Logitech 逻辑工艺 | [matl114](https://github.com/m1919810) | <details><summary>展开</summary>该附属旨在让粘液变得更加抽象,在享受推进度的乐趣同时获得高生产力</details> | N/A | [官方版](https://github.com/Ruchikanmani/LogiTech/tree/master) | [官方版](https://github.com/Ruchikanmani/LogiTech/releases)
-SlimeBotania 植物魔法 | FxRayHughes | <details><summary>展开</summary>独立的 Slimefun 植物魔法附属插件</details> | N/A | [官方版](https://github.com/FxRayHughes/SlimeBotania) | 自行构建
+SlimeBotania 植物魔法 (Paper 26.2+)| FxRayHughes | <details><summary>展开</summary>独立的 Slimefun 植物魔法附属插件</details> | N/A | [官方版](https://github.com/FxRayHughes/SlimeBotania) | 自行构建
 NetworksExpansion 网络扩展 | ytdd9527,balugaq | <details><summary>展开</summary>基于网络的扩展附属，添加了大量强力的货运与储存机器</details> | N/A | [官方版](https://github.com/ytdd9527/NetworksExpansion/tree/master) | [官方版](https://github.com/ytdd9527/NetworksExpansion/releases)
 
 ### :anchor: SC 自定义粘液附属 {#slime-customizer-addons}
