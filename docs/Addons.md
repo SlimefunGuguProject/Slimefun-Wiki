@@ -142,6 +142,9 @@ MomoTech 乱码科技(陌陌科技) | QYhB05 | <details><summary>展开</summary
 XingChengCraft 星辰工艺 | fengxiangQAQ | <details><summary>展开</summary> 一个拓展中后粘液生产线的粘液附属 </details> | N/A | [官方版](https://github.com/FengXiang2233/XingChengCraft) | [官方版](https://github.com/FengXiang2233/XingChengCraft)
 DefoLiationTech 落叶科技 | lyen | <details><summary>展开</summary> 该附属添加了一些生成器和实用机器 </details> | N/A | N/A | N/A
 FinalTECH-Changed 乱序技艺-改 | Final_ROOT, shixinzia, QYhB05 | <details><summary>展开</summary> 基于原乱序构建75适配简中粘液并修补漏洞, 进行大量魔改。</details> | N/A | [官方版](https://github.com/QYhB05/FinalTECH-Changed) | 自行构建
+Logitech 逻辑工艺 | [matl114](https://github.com/m1919810) | <details><summary>展开</summary>该附属旨在让粘液变得更加抽象,在享受推进度的乐趣同时获得高生产力</details> | N/A | [官方版](https://github.com/Ruchikanmani/LogiTech/tree/master) | [官方版](https://github.com/Ruchikanmani/LogiTech/releases)
+SlimeBotania 植物魔法 (Paper 26.2+)| FxRayHughes | <details><summary>展开</summary>独立的 Slimefun 植物魔法附属插件</details> | N/A | [官方版](https://github.com/FxRayHughes/SlimeBotania) | 自行构建
+NetworksExpansion 网络扩展 | ytdd9527,balugaq | <details><summary>展开</summary>基于网络的扩展附属，添加了大量强力的货运与储存机器</details> | N/A | [官方版](https://github.com/ytdd9527/NetworksExpansion/tree/master) | [官方版](https://github.com/ytdd9527/NetworksExpansion/releases)
 
 ### :anchor: SC 自定义粘液附属 {#slime-customizer-addons}
 
@@ -189,17 +192,21 @@ AngleTech 倾斜科技| 1368139692 | <details><summary>展开</summary>向粘液
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | ---
-HaimanTech2 海曼科技院 | haiman233 | <details><summary>展开</summary>旨在完善粘液科技线，拓展原版玩法</details> | N/A | [官方版](https://github.com/haiman233/HaimanTech2) | [官方版](https://github.com/haiman233/HaimanTech2/releases)
+HaimanTech2 海曼科技院 | haiman233 | <details><summary>展开</summary>旨在完善粘液科技线，拓展原版玩法</details> | 可以在[这里](https://github.com/ykcgly/Haimantech2-Plugins/releases)获取jar版本 | [官方版](https://github.com/haiman233/HaimanTech2) | [官方版](https://github.com/haiman233/HaimanTech2/releases)
 EpoTech 纪元科技 | J_ump | <details><summary>展开</summary>添加了更多有趣的道具，增加了更多机器</details> | N/A | [官方版](https://github.com/Jump9527/SlimeFun-RSC-EpoTech) | [官方版](https://github.com/Jump9527/SlimeFun-RSC-EpoTech/releases)
-WorldTaste 尘世百味 | haiman233 | <details><summary>展开</summary>旨在向粘液科技中添加来自世界各地的美食，添加了上百种食物</details> | N/A | [官方版](https://github.com/haiman233/WorldTaste) | [官方版](https://github.com/haiman233/WorldTaste/releases)
+WorldTaste 尘世百味 | haiman233 | <details><summary>展开</summary>旨在向粘液科技中添加来自世界各地的美食，添加了上百种食物</details> | 可以在[这里](https://github.com/ykcgly/WorldTaste-Plugin/releases)获取jar版本 | [官方版](https://github.com/haiman233/WorldTaste) | [官方版](https://github.com/haiman233/WorldTaste/releases)
 SFTeacher 粘液科技及附属教程 | haiman233 | <details><summary>展开</summary>向粘液科技书中添加了全网的粘液科技及附属教程的链接，方便玩家查阅</details> | N/A | [官方版](https://github.com/haiman233/SFTeacher) | [官方版](https://github.com/haiman233/SFTeacher/releases)
 Magic 魔法 | Yomicer | <details><summary>展开</summary>向粘液科技中添加了魔法机器，道具，刷怪笼等内容，内容充实丰富</details> | N/A | [官方版](https://github.com/Yomicer/Magic_RSC) | [官方版](https://github.com/Yomicer/Magic_RSC/releases)
 HiveCorporation H公司 | 1368139692 | <details><summary>展开</summary>以公司为背景，添加了一些列机器与装备</details> | N/A | [官方版](https://github.com/1368139692/HiveCorporation) | [官方版](https://github.com/1368139692/HiveCorporation/releases)
 FengQiTech 风起科技 | lyen | <details><summary>展开</summary>向粘液科技中添加了一些合理的一体化机器.同时旨在减少部分机器的过量堆叠</details> | N/A | [官方版](https://github.com/LuoYe5555/FengQiTech) | [官方版](https://github.com/LuoYe5555/FengQiTech/releases)
+GLTC-联合协议 | Linkany121 | <details><summary>展开</summary>添加了大量物品、道具、武器装备与机器，采用不同的势力划分时期、功能。
+以及大量独特而有趣的机制与系统，例如异能武器、魔素与订单机制。</details> | 该附属有jar版本，但是需要自行构建 | [官方版](https://github.com/Linkany121/GLTC121) | [官方版](https://github.com/Linkany121/GLTC121/releases)
+Komutech 口木科技 | KomuAaA | <details><summary>展开</summary>为原版玩法注入了修仙元素，包含灵石体系、法则悟道、身外身、灵杖、卷轴等内容。</details> | 可以在[这里](https://github.com/ykcgly/Komutech-Plugin/releases)获取jar版本。作者有自己写jar版本，但是至今仍未发布 | [官方版](https://github.com/KomuAaA/Komutech) | [官方版](https://github.com/KomuAaA/Komutech/releases)
+LengShangTech 冷殇科技 | lengshang666 | <details><summary>展开</summary>号称史上最强轮椅，但是被爆后门，谨慎使用</details> | 可以在[这里](https://github.com/Yomicer/LengShangEvo/releases)获取jar版本。作者有自己写jar版本，但是至今仍未发布 | [官方版](https://github.com/lengshang666/LengShangTech) | [官方版](https://github.com/lengshang666/LengShangTech/releases)
 
 ### :wrench: 功能性插件 {#functional-addons}
 
-以下附属没有额外添加任何物品。但它们有自己各自的功能，各腐竹可根据自身服务器情况选择。
+以下附属没有额外添加任何物品（或者仅有少量物品）。但它们有自己各自的功能，各腐竹可根据自身服务器情况选择。
 
 本表由 [@haiman233](https://github.com/haiman233) 整理、收录。
 
@@ -214,6 +221,8 @@ SFMobDrops (RC-27) 自定义生物掉落 | WalshyDev | <details><summary>展开<
 SlimeFunItemBanned 在其它子服禁用粘液 | 321zhangjvzhi | <details><summary>展开</summary>在没装粘液的子服禁用粘液</details> | N/A | [官方版](https://www.mcbbs.net/thread-1219387-1-1.html) | [官方版](https://www.mcbbs.net/thread-1219387-1-1.html)
 岛屿删除时自动删除Slimefun机器数据 | lu8121695 | <details><summary>展开</summary>岛屿删除时自动删除Slimefun机器数据</details> | N/A | [官方版](https://www.mcbbs.net/thread-1262424-1-1.html) | [官方版](https://www.mcbbs.net/thread-1262424-1-1.html)
 VillagerTrade 村民交易 | ybw0014 | <details><summary>展开</summary>该附属支持将粘液科技物品添加到村民/流浪商人的交易中</details> | N/A | [官方版](https://github.com/ybw0014/VillagerTrade) | [官方版](https://builds.guizhanss.com/ybw0014/VillagerTrade)
+SlimefunTimeit 粘液性能监视器 | balugaq | <details><summary>展开</summary>添加了更加准确的性能监视器，方便调试</details> | N/A | [官方版](https://github.com/balugaq/SlimefunTimeit/tree/master) | [官方版](https://github.com/balugaq/SlimefunTimeit/releases)
+JustEnoughGuide 更好的粘液书 | balugaq | <details><summary>展开</summary>修改了粘液指南的界面，使其更加人性化</details> | N/A | [官方版](https://github.com/balugaq/JustEnoughGuide/tree/master) | [官方版](https://github.com/balugaq/JustEnoughGuide/releases)
 
 ### :trophy: Addon Jam 2022 粘液科技附属竞赛（下界主题） {#addon-jam-nether}
 
