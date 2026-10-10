@@ -144,6 +144,7 @@ DefoLiationTech 落叶科技 | lyen | <details><summary>展开</summary> 该附�
 FinalTECH-Changed 乱序技艺-改 | Final_ROOT, shixinzia, QYhB05 | <details><summary>展开</summary> 基于原乱序构建75适配简中粘液并修补漏洞, 进行大量魔改。</details> | N/A | [官方版](https://github.com/QYhB05/FinalTECH-Changed) | 自行构建
 Logitech 逻辑工艺 | [matl114](https://github.com/m1919810) | <details><summary>展开</summary>该附属旨在让粘液变得更加抽象,在享受推进度的乐趣同时获得高生产力</details> | N/A | [官方版](https://github.com/Ruchikanmani/LogiTech/tree/master) | [官方版](https://github.com/Ruchikanmani/LogiTech/releases)
 SlimeBotania 植物魔法 | FxRayHughes | <details><summary>展开</summary>独立的 Slimefun 植物魔法附属插件</details> | N/A | [官方版](https://github.com/FxRayHughes/SlimeBotania) | 自行构建
+NetworksExpansion 网络扩展 | ytdd9527,balugaq | <details><summary>展开</summary>基于网络的扩展附属，添加了大量强力的货运与储存机器</details> | N/A | [官方版](https://github.com/ytdd9527/NetworksExpansion/tree/master) | [官方版](https://github.com/ytdd9527/NetworksExpansion/releases)
 
 ### :anchor: SC 自定义粘液附属 {#slime-customizer-addons}
 
@@ -205,7 +206,7 @@ LengShangTech 冷殇科技 | lengshang666 | <details><summary>展开</summary>�
 
 ### :wrench: 功能性插件 {#functional-addons}
 
-以下附属没有额外添加任何物品。但它们有自己各自的功能，各腐竹可根据自身服务器情况选择。
+以下附属没有额外添加任何物品（或者仅有少量物品）。但它们有自己各自的功能，各腐竹可根据自身服务器情况选择。
 
 本表由 [@haiman233](https://github.com/haiman233) 整理、收录。
 
@@ -220,6 +221,8 @@ SFMobDrops (RC-27) 自定义生物掉落 | WalshyDev | <details><summary>展开<
 SlimeFunItemBanned 在其它子服禁用粘液 | 321zhangjvzhi | <details><summary>展开</summary>在没装粘液的子服禁用粘液</details> | N/A | [官方版](https://www.mcbbs.net/thread-1219387-1-1.html) | [官方版](https://www.mcbbs.net/thread-1219387-1-1.html)
 岛屿删除时自动删除Slimefun机器数据 | lu8121695 | <details><summary>展开</summary>岛屿删除时自动删除Slimefun机器数据</details> | N/A | [官方版](https://www.mcbbs.net/thread-1262424-1-1.html) | [官方版](https://www.mcbbs.net/thread-1262424-1-1.html)
 VillagerTrade 村民交易 | ybw0014 | <details><summary>展开</summary>该附属支持将粘液科技物品添加到村民/流浪商人的交易中</details> | N/A | [官方版](https://github.com/ybw0014/VillagerTrade) | [官方版](https://builds.guizhanss.com/ybw0014/VillagerTrade)
+SlimefunTimeit 粘液性能监视器 | balugaq | <details><summary>展开</summary>添加了更加准确的性能监视器，方便调试</details> | N/A | [官方版](https://github.com/balugaq/SlimefunTimeit/tree/master) | [官方版](https://github.com/balugaq/SlimefunTimeit/releases)
+JustEnoughGuide 更好的粘液书 | balugaq | <details><summary>展开</summary>修改了粘液指南的界面，使其更加人性化</details> | N/A | [官方版](https://github.com/balugaq/JustEnoughGuide/tree/master) | [官方版](https://github.com/balugaq/JustEnoughGuide/releases)
 
 ### :trophy: Addon Jam 2022 粘液科技附属竞赛（下界主题） {#addon-jam-nether}
 
