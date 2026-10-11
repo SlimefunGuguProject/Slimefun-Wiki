@@ -199,8 +199,7 @@ SFTeacher 粘液科技及附属教程 | haiman233 | <details><summary>展开</su
 Magic 魔法 | Yomicer | <details><summary>展开</summary>向粘液科技中添加了魔法机器，道具，刷怪笼等内容，内容充实丰富</details> | N/A | [官方版](https://github.com/Yomicer/Magic_RSC) | [官方版](https://github.com/Yomicer/Magic_RSC/releases)
 HiveCorporation H公司 | 1368139692 | <details><summary>展开</summary>以公司为背景，添加了一些列机器与装备</details> | N/A | [官方版](https://github.com/1368139692/HiveCorporation) | [官方版](https://github.com/1368139692/HiveCorporation/releases)
 FengQiTech 风起科技 | lyen | <details><summary>展开</summary>向粘液科技中添加了一些合理的一体化机器.同时旨在减少部分机器的过量堆叠</details> | N/A | [官方版](https://github.com/LuoYe5555/FengQiTech) | [官方版](https://github.com/LuoYe5555/FengQiTech/releases)
-GLTC-联合协议 | Linkany121 | <details><summary>展开</summary>添加了大量物品、道具、武器装备与机器，采用不同的势力划分时期、功能。
-以及大量独特而有趣的机制与系统，例如异能武器、魔素与订单机制。</details> | 该附属有jar版本，但是需要自行构建 | [官方版](https://github.com/Linkany121/GLTC121) | [官方版](https://github.com/Linkany121/GLTC121/releases)
+GLTC-联合协议 | Linkany121 | <details><summary>展开</summary>添加了大量物品、道具、武器装备与机器，采用不同的势力划分时期、功能。以及大量独特而有趣的机制与系统，例如异能武器、魔素与订单机制。</details> | 该附属有jar版本，但是需要自行构建 | [官方版](https://github.com/Linkany121/GLTC121) | [官方版](https://github.com/Linkany121/GLTC121/releases)
 Komutech 口木科技 | KomuAaA | <details><summary>展开</summary>为原版玩法注入了修仙元素，包含灵石体系、法则悟道、身外身、灵杖、卷轴等内容。</details> | 可以在[这里](https://github.com/ykcgly/Komutech-Plugin/releases)获取jar版本。作者有自己写jar版本，但是至今仍未发布 | [官方版](https://github.com/KomuAaA/Komutech) | [官方版](https://github.com/KomuAaA/Komutech/releases)
 LengShangTech 冷殇科技 | lengshang666 | <details><summary>展开</summary>号称史上最强轮椅，但是被爆后门，谨慎使用</details> | 可以在[这里](https://github.com/Yomicer/LengShangEvo/releases)获取jar版本。作者有自己写jar版本，但是至今仍未发布 | [官方版](https://github.com/lengshang666/LengShangTech) | [官方版](https://github.com/lengshang666/LengShangTech/releases)
 
