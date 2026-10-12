@@ -12,13 +12,7 @@ const config: Config = {
   url: "https://slimefun-wiki.guizhanss.cn/",
   baseUrl: "/",
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  // organizationName: 'facebook', // Usually your GitHub org/user name.
-  // projectName: 'docusaurus', // Usually your repo name.
-
   onBrokenLinks: "warn",
-  onBrokenMarkdownLinks: "warn",
 
   stylesheets: [
     {
@@ -52,6 +46,12 @@ const config: Config = {
     ],
   ],
 
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: "warn"
+    }
+  },
+
   themeConfig: {
     // Replace with your project's social card
     // image: 'img/docusaurus-social-card.jpg',
@@ -74,9 +74,9 @@ const config: Config = {
           label: "构建站",
         },
         {
-          href: "https://hsd.mccaigou.cn/",
+          href: "https://resources.guizhanss.com/",
           position: "left",
-          label: "粘液物品数据库",
+          label: "资源站",
         },
         {
           href: "https://github.com/SlimefunGuguProject/Slimefun-Wiki",
@@ -145,10 +145,9 @@ const config: Config = {
     docsearch: {
       appId: "GPJA12OFAG",
       apiKey: "0a8eaa1c0227a6d389b71bb686ae55a9",
-      indexName: "slimefun-guizhanss",
+      indices: ["slimefun-guizhanss"],
       askAi: {
-        assistantId: "a661ca89-5597-4bc5-bc54-d215b213bba1",
-        agentStudio: true,
+        agentId: "a661ca89-5597-4bc5-bc54-d215b213bba1",
       },
     },
   } satisfies Preset.ThemeConfig,
