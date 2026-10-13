@@ -17,6 +17,6 @@
 
 金粉可用于冶炼下列[合金](/Ingots#alloys):
 
-* [科林斯青铜锭](/Corinthian-Bronze-Ingot)
+- [科林斯青铜锭](/Corinthian-Bronze-Ingot)
 
 除此以外，金粉可能在其他配方中出现，此处不做过多赘述。

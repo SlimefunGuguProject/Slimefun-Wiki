@@ -1,6 +1,6 @@
 # 镁发电机 {#magnesium-powered-generator}
 
-镁发电机是一种[发电机](/Electric-Machines#energy-generation)。  
+镁发电机是一种[发电机](/Electric-Machines#energy-generation)。
 
 ## 获取 {#obtaining}
 
@@ -16,4 +16,4 @@
 
 **储存:** 128 J  
 **效率:** 36 J/t  
-**每个镁盐提供的电力:** 720 J  
+**每个镁盐提供的电力:** 720 J

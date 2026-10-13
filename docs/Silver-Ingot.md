@@ -1,6 +1,6 @@
 # 银锭 {#silver-ingot}
 
-银锭是 Slimefun 中新增的一种[锭](/Ingots)。  
+银锭是 Slimefun 中新增的一种[锭](/Ingots)。
 
 ## 获取 {#obtaining}
 
@@ -12,9 +12,9 @@
 
 银锭被用于以下配方:
 
-* [银铜合金锭](/Billon-Ingot)
-* [能源调节器](/Energy-Regulator)
-* [食品加工机](/Food-Fabricator)
-* [冰箱](/Freezer)
-* [货运马达](/Cargo-Motor)
-* [连接器节点](/Connector-Node)
+- [银铜合金锭](/Billon-Ingot)
+- [能源调节器](/Energy-Regulator)
+- [食品加工机](/Food-Fabricator)
+- [冰箱](/Freezer)
+- [货运马达](/Cargo-Motor)
+- [连接器节点](/Connector-Node)

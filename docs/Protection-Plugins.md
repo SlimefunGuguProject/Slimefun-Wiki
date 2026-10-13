@@ -19,24 +19,24 @@ Slimefun 支持许多现有的保护插件。
 :x: = 不支持  
 N/A = 不可用
 
-| 插件 | 支持玩家 | 支持离线玩家 | 支持 PvP | 支持实体 |
-| ------------------ | :----: | :----: | :----: | :---: |
-| ASkyBlock | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: |
-| BentoBox | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| BlockLocker | :heavy_check_mark: | :heavy_check_mark: | N/A | N/A |
-| ChestProtect | :heavy_check_mark: | :heavy_check_mark: | N/A | N/A |
-| FactionsUUID | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| FunnyGuilds | :heavy_check_mark: | :x: | :heavy_minus_sign: | :heavy_minus_sign: |
+| 插件            |      支持玩家      |    支持离线玩家    |      支持 PvP      |      支持实体      |
+| --------------- | :----------------: | :----------------: | :----------------: | :----------------: |
+| ASkyBlock       | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: |
+| BentoBox        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| BlockLocker     | :heavy_check_mark: | :heavy_check_mark: |        N/A         |        N/A         |
+| ChestProtect    | :heavy_check_mark: | :heavy_check_mark: |        N/A         |        N/A         |
+| FactionsUUID    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| FunnyGuilds     | :heavy_check_mark: |        :x:         | :heavy_minus_sign: | :heavy_minus_sign: |
 | GriefPrevention | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | :heavy_check_mark: |
-| LandLord | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Lands | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Lockette | :heavy_check_mark: | :heavy_check_mark: | N/A | N/A |
-| LWC | :heavy_check_mark: | :heavy_minus_sign: | N/A | N/A |
-| PlotSquared | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| PreciousStones | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
-| RedProtect | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | :heavy_check_mark: |
-| Towny | :heavy_check_mark: | :x: | :heavy_minus_sign: | :heavy_minus_sign: |
-| WorldGuard | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| LandLord        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Lands           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Lockette        | :heavy_check_mark: | :heavy_check_mark: |        N/A         |        N/A         |
+| LWC             | :heavy_check_mark: | :heavy_minus_sign: |        N/A         |        N/A         |
+| PlotSquared     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| PreciousStones  | :heavy_check_mark: |        :x:         | :heavy_check_mark: | :heavy_check_mark: |
+| RedProtect      | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | :heavy_check_mark: |
+| Towny           | :heavy_check_mark: |        :x:         | :heavy_minus_sign: | :heavy_minus_sign: |
+| WorldGuard      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
 ### 没有看到你使用的保护插件? {#you-cannot-see-your-protection-plugin}
 
@@ -58,10 +58,10 @@ Slimefun 同样支持部分日志插件。
 这些日志允许你追踪玩家的某些操作，例如不小心使用 Slimefun 物品破坏方块。  
 以下是我们支持的日志插件列表:
 
-| 插件 | 支持破坏方块 | 支持放置方块 |
-| ------------------ | :----: | :----: |
+| 插件        |    支持破坏方块    |    支持放置方块    |
+| ----------- | :----------------: | :----------------: |
 | CoreProtect | :heavy_check_mark: | :heavy_check_mark: |
-| LogBlock | :heavy_check_mark: | :x: |
+| LogBlock    | :heavy_check_mark: |        :x:         |
 
 ## 添加对你的保护插件的支持 {#adding-support-for-your-protection-plugin}
 

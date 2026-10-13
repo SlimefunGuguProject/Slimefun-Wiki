@@ -32,4 +32,4 @@
 - [彩虹粘土块](/Rainbow-Blocks)
 - [彩虹混凝土](/Rainbow-Blocks)
 - [彩虹带釉陶瓦](/Rainbow-Blocks)
-- [吸入漏斗](/Infused-Hopper)  
+- [吸入漏斗](/Infused-Hopper)

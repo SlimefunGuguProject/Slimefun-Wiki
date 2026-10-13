@@ -12,4 +12,4 @@
 
 镁粉可用于合成下列物品:
 
-* [镁盐](/Magnesium-Salt)
+- [镁盐](/Magnesium-Salt)

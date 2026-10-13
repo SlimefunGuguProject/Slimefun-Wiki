@@ -12,5 +12,5 @@
 
 锡粉可用于冶炼下列[合金](/Ingots#alloys):
 
-* [青铜锭](/Bronze-Ingot)
-* [焊锡锭](/Solder-Ingot)
+- [青铜锭](/Bronze-Ingot)
+- [焊锡锭](/Solder-Ingot)

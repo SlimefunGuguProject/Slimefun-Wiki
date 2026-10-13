@@ -6,7 +6,7 @@
 
 ## 另请参见 {#see-also}
 
-* [灵魂绑定武器](/Soulbound-Weapons)
-* [灵魂绑定防具](/Magical-Armor#soulbound-armor)
-* [灵魂绑定工具](/Soulbound-Tools)
-* [灵魂绑定符文](/Ancient-Runes#soulbound-rune)
+- [灵魂绑定武器](/Soulbound-Weapons)
+- [灵魂绑定防具](/Magical-Armor#soulbound-armor)
+- [灵魂绑定工具](/Soulbound-Tools)
+- [灵魂绑定符文](/Ancient-Runes#soulbound-rune)

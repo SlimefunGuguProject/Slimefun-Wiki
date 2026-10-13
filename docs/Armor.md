@@ -37,4 +37,4 @@
 
 ## 另请参阅 {#see-also}
 
-* [魔法防具](/Magical-Armor)
+- [魔法防具](/Magical-Armor)

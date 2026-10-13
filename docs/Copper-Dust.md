@@ -16,12 +16,12 @@
 
 铜粉可用于冶炼下列[合金](/Ingots#alloys):
 
-* [青铜锭](/Bronze-Ingot)
-* [硬铝锭](/Duralumin-Ingot)
-* [银铜合金锭](/Billon-Ingot)
-* [黄铜锭](/Brass-Ingot)
-* [科林斯青铜锭](/Corinthian-Bronze-Ingot)
-* [镍锭](/Nickel-Ingot)
-* [钴锭](/Cobalt-Ingot)
+- [青铜锭](/Bronze-Ingot)
+- [硬铝锭](/Duralumin-Ingot)
+- [银铜合金锭](/Billon-Ingot)
+- [黄铜锭](/Brass-Ingot)
+- [科林斯青铜锭](/Corinthian-Bronze-Ingot)
+- [镍锭](/Nickel-Ingot)
+- [钴锭](/Cobalt-Ingot)
 
 除此以外，铜粉可能在其他配方中出现，此处不做过多赘述。

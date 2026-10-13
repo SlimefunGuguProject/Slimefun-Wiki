@@ -1,8 +1,8 @@
-import { themes as prismThemes } from "prism-react-renderer";
-import type { Config } from "@docusaurus/types";
-import type * as Preset from "@docusaurus/preset-classic";
-import remarkMath from "remark-math";
-import rehypeKatex from "rehype-katex";
+import { themes as prismThemes } from "prism-react-renderer"
+import type { Config } from "@docusaurus/types"
+import type * as Preset from "@docusaurus/preset-classic"
+import remarkMath from "remark-math"
+import rehypeKatex from "rehype-katex"
 
 const config: Config = {
   title: "粘液科技中文 Wiki",
@@ -32,9 +32,8 @@ const config: Config = {
       {
         docs: {
           routeBasePath: "/",
-          sidebarPath: "./sidebars.ts",
-          editUrl:
-            "https://github.com/SlimefunGuguProject/Slimefun-Wiki/tree/master/",
+          sidebarPath: "./src/sidebars.ts",
+          editUrl: "https://github.com/SlimefunGuguProject/Slimefun-Wiki/tree/master/",
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
         },
@@ -48,8 +47,8 @@ const config: Config = {
 
   markdown: {
     hooks: {
-      onBrokenMarkdownLinks: "warn"
-    }
+      onBrokenMarkdownLinks: "warn",
+    },
   },
 
   themeConfig: {
@@ -155,12 +154,9 @@ const config: Config = {
   plugins: [
     "docusaurus-plugin-sass",
     "docusaurus-plugin-image-zoom",
-    [
-      "@gracefullight/docusaurus-plugin-cloudflare-analytics",
-      { token: "c56a11e845ee4e69b5411c75d11cb242" },
-    ],
+    ["@gracefullight/docusaurus-plugin-cloudflare-analytics", { token: "c56a11e845ee4e69b5411c75d11cb242" }],
     "@docsearch/docusaurus-adapter",
   ],
-};
+}
 
-export default config;
+export default config

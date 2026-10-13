@@ -1,6 +1,6 @@
 # 锡锭 {#tin-ingot}
 
-锡锭是 Slimefun 中新增的一种[锭](/Ingots)。  
+锡锭是 Slimefun 中新增的一种[锭](/Ingots)。
 
 ## 获取 {#obtaining}
 
@@ -12,4 +12,4 @@
 
 锡锭被用于以下配方:
 
-* [锡罐](/Miscellaneous-Items)
+- [锡罐](/Miscellaneous-Items)

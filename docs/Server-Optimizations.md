@@ -42,7 +42,7 @@ Spark 提供的报告已经帮助我们解决了一些优化问题，并找到�
 由于CraftBukkit已停止更新，[Spigot](https://www.spigotmc.org/) 已成为标准的服务器软件。但还有其他的替代品可供选择。
 
 [Paper](https://papermc.io/) 是 Spigot 的 fork 版本，并且拥有更好的性能，以及更详细的性能分析报告。  
-Slimefun 中的 **货运网络** 在 [Paper](https://papermc.io/) 得到了优化能运行得更好。  
+Slimefun 中的 **货运网络** 在 [Paper](https://papermc.io/) 得到了优化能运行得更好。
 
 当然，还有其他的服务器软件也提供了性能优化，我们建议你详细了解那些软件然后再进行选择。
 
@@ -51,9 +51,9 @@ Slimefun 中的 **货运网络** 在 [Paper](https://papermc.io/) 得到了优�
 当你选择了合适的服务器软件后，你应该花一点时间来进行配置。  
 这有一些可以查看的指南：
 
-* [减少服务器卡顿](https://www.spigotmc.org/wiki/reducing-lag/) (SpigotMC Wiki)
-* [服务器优化指南](https://www.spigotmc.org/threads/guide-server-optimization%E2%9A%A1.283181/) (由 @Celbrimbor 发布于 SpigotMC 论坛)
-* [优化 Java 的垃圾回收](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/) (@aikar 的个人博客)
+- [减少服务器卡顿](https://www.spigotmc.org/wiki/reducing-lag/) (SpigotMC Wiki)
+- [服务器优化指南](https://www.spigotmc.org/threads/guide-server-optimization%E2%9A%A1.283181/) (由 @Celbrimbor 发布于 SpigotMC 论坛)
+- [优化 Java 的垃圾回收](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/) (@aikar 的个人博客)
 
 ## 3. 不要使用 /reload
 
@@ -82,8 +82,7 @@ Slimefun 已经存在了很长一段时间，许多服务器都安装了本插�
 你可以在 `plugins/Slimefun/config.yml` 中通过设置 `backwards-compatibility` 为 `false` 来关闭向后兼容（现版本默认禁用）。
 
 ```yaml
-options:
-  backwards-compatibility：false
+options: backwards-compatibility：false
 ```
 
 ## 5. 降低 Tick 速率 {#5-slower-tick-rates}
@@ -95,8 +94,7 @@ Slimefun 方块都以固定的速率运行，默认情况下，Slimefun 每 10 t
 你可以在 `plugins/Slimefun/config.yml` 中设置 Tick 速率。我们建议保持现在默认的 10，或改为曾经的默认值 12。
 
 ```yaml
-URID:
-  custom-ticker-delay：10
+URID: custom-ticker-delay：10
 ```
 
 与上方设置类似，Slimefun 会周期性的检查玩家的盔甲，来提供特定的药水效果。  
@@ -104,8 +102,7 @@ URID:
 如有需要，你也可以更改该设置。
 
 ```yaml
-options:
-  armor-update-interval：10
+options: armor-update-interval：10
 ```
 
 ## 6. 处理货运网络
@@ -124,8 +121,7 @@ options:
 注意，该限制会在寻找联通的网络时应用，但这并不代表一个网络中的节点数量限制。
 
 ```yaml
-networks:
-  max-size：200
+networks: max-size：200
 ```
 
 ### b) 设置货运延迟
@@ -139,8 +135,7 @@ networks:
 我们推荐设置该值为1，且仅必要时才增加该值。
 
 ```yaml
-networks:
-  cargo-ticker-delay：1
+networks: cargo-ticker-delay：1
 ```
 
 ## 7. 启用自动更新
@@ -151,6 +146,5 @@ networks:
 你应该一直使用最新的版本，所以我们建议你在配置文件 `plugins/Slimefun/config.yml` 中启用自动更新：
 
 ```yaml
-options:
-  auto-update：true
+options: auto-update：true
 ```

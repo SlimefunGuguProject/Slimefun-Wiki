@@ -2,13 +2,13 @@
 sidebar_label: 帮我们扩充 Wiki！
 ---
 
-import ImageGallery from '@site/src/components/ImageGallery';
+import ImageGallery from "@site/src/components/ImageGallery"
 
 # 扩充 Wiki {#expanding-the-wiki}
 
 如果你想帮助扩充官方 Wiki，请点击[这里](https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki)。
 
-----
+---
 
 我们的目标是翻译官方 Wiki 的所有内容，并适当进行扩充。
 
@@ -22,9 +22,7 @@ import ImageGallery from '@site/src/components/ImageGallery';
 你需要打开本 Wiki 的 [GitHub 仓库](https://github.com/SlimefunGuguProject/Slimefun-Wiki)。
 然后，你可以在右上角找到 **Fork** 按钮。
 
-<ImageGallery images={[
-  { src: '/images/github-tutorial-fork.png', alt: '创建复刻' }
-]}/>
+<ImageGallery images={[{ src: "/images/github-tutorial-fork.png", alt: "创建复刻" }]} />
 
 点击该按钮，进入创建复刻页面。选择要复刻到的账号（如果你有多个账号），其他的设置都可以保持默认。
 
@@ -51,15 +49,11 @@ import ImageGallery from '@site/src/components/ImageGallery';
 
 然后，打开 `docs` 目录。
 
-<ImageGallery images={[
-  { src: '/images/github-tutorial-docs.png', alt: 'docs 目录' }
-]}/>
+<ImageGallery images={[{ src: "/images/github-tutorial-docs.png", alt: "docs 目录" }]} />
 
 在右上角点击 `Add file`，在下拉菜单中点击 `Create new file`。
 
-<ImageGallery images={[
-  { src: '/images/github-tutorial-new-file.png', alt: '创建新文件' }
-]}/>
+<ImageGallery images={[{ src: "/images/github-tutorial-new-file.png", alt: "创建新文件" }]} />
 
 文件名必须遵遁以下规则：
 
@@ -78,7 +72,7 @@ import ImageGallery from '@site/src/components/ImageGallery';
 以下是编辑文档时应注意的规则：
 
 - 所有文档应使用 2 格空格缩进。
-  - 如果你完全按照本教程进行，使用的是 GitHub 的在线编辑器，你可能需要手动修改缩进设置。可以在编辑区域右上角找到缩进模式（*Indent mode*）与缩进大小（*Indent size*）
+  - 如果你完全按照本教程进行，使用的是 GitHub 的在线编辑器，你可能需要手动修改缩进设置。可以在编辑区域右上角找到缩进模式（_Indent mode_）与缩进大小（_Indent size_）
   - 如果你使用的编辑器支持 `.editorconfig`，你无需担心。只需要在编辑文件后使用格式化指令即可。
 - 任何标题的下一行必须是空行。
 - 标题后方需指定[标题 ID](https://docusaurus.io/zh-CN/docs/markdown-features/toc#heading-ids) 确保标题的链接与[官方 Wiki](https://github.com/Slimefun/Slimefun4/wiki) 同步。
@@ -100,14 +94,10 @@ import ImageGallery from '@site/src/components/ImageGallery';
 
 然后，打开 `docs` 目录。
 
-<ImageGallery images={[
-  { src: '/images/github-tutorial-docs.png', alt: 'docs 目录' }
-]}/>
+<ImageGallery images={[{ src: "/images/github-tutorial-docs.png", alt: "docs 目录" }]} />
 打开任何你想要编辑的文件，你可以在内容区域右上角找到编辑按钮。
 
-<ImageGallery images={[
-  { src: '/images/github-tutorial-edit.png', alt: '编辑文件' }
-]}/>
+<ImageGallery images={[{ src: "/images/github-tutorial-edit.png", alt: "编辑文件" }]} />
 
 现在，你可以编辑页面内容了。
 
@@ -125,15 +115,11 @@ import ImageGallery from '@site/src/components/ImageGallery';
 
 然后，打开 `static/images` 目录。
 
-<ImageGallery images={[
-  { src: '/images/github-tutorial-images.png', alt: 'static/images 目录' }
-]}/>
+<ImageGallery images={[{ src: "/images/github-tutorial-images.png", alt: "static/images 目录" }]} />
 
 在右上角点击 `Add file`，在下拉菜单中点击 `Upload files`。
 
-<ImageGallery images={[
-  { src: '/images/github-tutorial-upload-image.png', alt: '上传图片' }
-]}/>
+<ImageGallery images={[{ src: "/images/github-tutorial-upload-image.png", alt: "上传图片" }]} />
 
 你应该确保图片遵循以下规则：
 
@@ -153,7 +139,7 @@ import ImageGallery from '@site/src/components/ImageGallery';
 而且，你需要在标题前一行添加以下内容以导入画廊组件：
 
 ```mdx
-import ImageGallery from '@site/src/components/ImageGallery';
+import ImageGallery from "@site/src/components/ImageGallery"
 ```
 
 :::
@@ -161,25 +147,29 @@ import ImageGallery from '@site/src/components/ImageGallery';
 对于上传到本 Wiki 仓库中的图片，直接使用绝对路径即可。将以下内容添加至文档中：
 
 ```mdx
-<ImageGallery images={[
-  {
-    src: '/images/这里填写图片文件名',
-    alt: '这里填写图片注释',
-    sizePercent: 100 // 可选，可调节图片大小的百分比
-  }
-]}/>
+<ImageGallery
+  images={[
+    {
+      src: "/images/这里填写图片文件名",
+      alt: "这里填写图片注释",
+      sizePercent: 100, // 可选，可调节图片大小的百分比
+    },
+  ]}
+/>
 ```
 
 对于官方 Wiki 中的图片，我们推荐你使用 jsDelivr 的 CDN 来加载。将以下内容添加至文档中：
 
 ```mdx
-<ImageGallery images={[
-  {
-    src: 'https://fastly.jsdelivr.net/gh/Slimefun/Wiki@master/images/这里填写图片文件名',
-    alt: '这里填写图片注释',
-    sizePercent: 100 // 可选，可调节图片大小的百分比
-  }
-]}/>
+<ImageGallery
+  images={[
+    {
+      src: "https://fastly.jsdelivr.net/gh/Slimefun/Wiki@master/images/这里填写图片文件名",
+      alt: "这里填写图片注释",
+      sizePercent: 100, // 可选，可调节图片大小的百分比
+    },
+  ]}
+/>
 ```
 
 ## 步骤3：文档准则 {#step-3-general-guidelines-dos-and-donts}
@@ -213,9 +203,7 @@ import ImageGallery from '@site/src/components/ImageGallery';
 
 点击上方的 `Pull requests` 标签页，然后点击右侧绿色的按钮 `New pull request` 来创建拉取请求。
 
-<ImageGallery images={[
-  { src: '/images/github-tutorial-pr.png', alt: '创建 Pull request' }
-]}/>
+<ImageGallery images={[{ src: "/images/github-tutorial-pr.png", alt: "创建 Pull request" }]} />
 
 尽量详细地描述一下你对 Wiki 作出的修改，然后点击 `Create pull request` 按钮提交。
 

@@ -29,5 +29,11 @@ jobs:
       - name: Installing dependencies
         run: bun ci
 
+      - name: Check formatting, lint, and typecheck
+        run: |
+          bun run format:check
+          bun run lint
+          bun run typecheck
+
       - name: Run build
         run: bun run build
