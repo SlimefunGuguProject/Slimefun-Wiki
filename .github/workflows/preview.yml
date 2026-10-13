@@ -1,0 +1,132 @@
+name: Fork PR Preview
+
+on:
+  workflow_run:
+    workflows: ["CI"]
+    types:
+      - completed
+
+permissions:
+  actions: read
+  pull-requests: read
+
+jobs:
+  associate:
+    runs-on: ubuntu-latest
+    if: >
+      github.event.workflow_run.event == 'pull_request' &&
+      github.event.workflow_run.conclusion == 'success' &&
+      github.event.workflow_run.repository.id == github.event.repository.id
+
+    steps:
+      - name: Verify workflow identity
+        id: verify
+        run: |
+          echo "Source workflow: ${{ github.event.workflow_run.name }}"
+          echo "Source event: ${{ github.event.workflow_run.event }}"
+          echo "Conclusion: ${{ github.event.workflow_run.conclusion }}"
+          echo "Repository ID: ${{ github.event.workflow_run.repository.id }}"
+          echo "Head repository ID: ${{ github.event.workflow_run.head_repository.id }}"
+          echo "Head branch: ${{ github.event.workflow_run.head_branch }}"
+          echo "Head SHA: ${{ github.event.workflow_run.head_sha }}"
+          echo "Run ID: ${{ github.event.workflow_run.id }}"
+          echo "Run attempt: ${{ github.event.workflow_run.run_attempt }}"
+
+      - name: Query open fork PRs
+        id: query-prs
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: prs } = await github.rest.pulls.list({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              base: 'master'
+            });
+
+            const forkPRs = prs.filter(pr => 
+              pr.head.repo && pr.head.repo.id !== pr.base.repo.id
+            );
+
+            core.info(`Found ${forkPRs.length} open fork PRs targeting master`);
+            
+            for (const pr of forkPRs) {
+              core.info(`PR #${pr.number}: head.repo.id=${pr.head.repo.id}, head.ref=${pr.head.ref}, head.sha=${pr.head.sha}`);
+            }
+
+            return forkPRs;
+
+      - name: Match PR by three-field association
+        id: match
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const runHeadRepoId = ${{ github.event.workflow_run.head_repository.id }};
+            const runHeadBranch = "${{ github.event.workflow_run.head_branch }}";
+            const runHeadSha = "${{ github.event.workflow_run.head_sha }}";
+
+            const forkPRs = ${{ steps.query-prs.outputs.result }};
+
+            const matches = forkPRs.filter(pr =>
+              pr.head.repo.id === runHeadRepoId &&
+              pr.head.ref === runHeadBranch &&
+              pr.head.sha === runHeadSha
+            );
+
+            if (matches.length === 0) {
+              core.warning('No PR matched the three-field criteria (repo ID + branch + head SHA)');
+              core.warning(`Looking for: repo.id=${runHeadRepoId}, ref=${runHeadBranch}, sha=${runHeadSha}`);
+              return null;
+            }
+
+            if (matches.length > 1) {
+              core.error(`Ambiguous match: ${matches.length} PRs matched the criteria`);
+              for (const pr of matches) {
+                core.error(`  PR #${pr.number}`);
+              }
+              throw new Error('Ambiguous PR association');
+            }
+
+            const pr = matches[0];
+            core.info(`✓ Matched PR #${pr.number} uniquely`);
+            core.info(`  Title: ${pr.title}`);
+            core.info(`  Head SHA: ${pr.head.sha}`);
+            core.info(`  Source run: ${{ github.event.workflow_run.html_url }}`);
+
+            return {
+              number: pr.number,
+              title: pr.title,
+              head_sha: pr.head.sha,
+              state: pr.state
+            };
+
+      - name: Check artifact availability
+        if: steps.match.outputs.result != 'null'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const pr = ${{ steps.match.outputs.result }};
+            const artifactName = `build-${{ github.event.workflow_run.id }}-${{ github.event.workflow_run.run_attempt }}`;
+
+            core.info(`Looking for artifact: ${artifactName}`);
+
+            const { data: artifacts } = await github.rest.actions.listWorkflowRunArtifacts({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              run_id: ${{ github.event.workflow_run.id }}
+            });
+
+            const artifact = artifacts.artifacts.find(a => a.name === artifactName);
+
+            if (!artifact) {
+              core.warning(`Artifact ${artifactName} not found (may have expired or build did not upload it)`);
+              return;
+            }
+
+            if (artifact.expired) {
+              core.warning(`Artifact ${artifactName} has expired`);
+              return;
+            }
+
+            core.info(`✓ Artifact found: ${artifact.name} (${artifact.size_in_bytes} bytes)`);
+            core.info(`  PR #${pr.number} is ready for deployment`);
