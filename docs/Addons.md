@@ -6,6 +6,8 @@ sidebar_label: Slimefun4 附属插件列表
 
 想要给你的 Slimefun 服务器加点料吗? 那么你来对地方了。
 
+TEST
+
 这里是我们已知的所有 Slimefun 附属插件。你可以安装这些附属插件来向服务器添加更多内容。
 
 :::tip
