@@ -1,8 +1,8 @@
-import { themes as prismThemes } from "prism-react-renderer";
-import type { Config } from "@docusaurus/types";
-import type * as Preset from "@docusaurus/preset-classic";
-import remarkMath from "remark-math";
-import rehypeKatex from "rehype-katex";
+import { themes as prismThemes } from "prism-react-renderer"
+import type { Config } from "@docusaurus/types"
+import type * as Preset from "@docusaurus/preset-classic"
+import remarkMath from "remark-math"
+import rehypeKatex from "rehype-katex"
 
 const config: Config = {
   title: "粘液科技中文 Wiki",
@@ -12,13 +12,7 @@ const config: Config = {
   url: "https://slimefun-wiki.guizhanss.cn/",
   baseUrl: "/",
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  // organizationName: 'facebook', // Usually your GitHub org/user name.
-  // projectName: 'docusaurus', // Usually your repo name.
-
   onBrokenLinks: "warn",
-  onBrokenMarkdownLinks: "warn",
 
   stylesheets: [
     {
@@ -38,9 +32,8 @@ const config: Config = {
       {
         docs: {
           routeBasePath: "/",
-          sidebarPath: "./sidebars.ts",
-          editUrl:
-            "https://github.com/SlimefunGuguProject/Slimefun-Wiki/tree/master/",
+          sidebarPath: "./src/sidebars.ts",
+          editUrl: "https://github.com/SlimefunGuguProject/Slimefun-Wiki/tree/master/",
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
         },
@@ -51,6 +44,12 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: "warn",
+    },
+  },
 
   themeConfig: {
     // Replace with your project's social card
@@ -74,9 +73,9 @@ const config: Config = {
           label: "构建站",
         },
         {
-          href: "https://hsd.mccaigou.cn/",
+          href: "https://resources.guizhanss.com/",
           position: "left",
-          label: "粘液物品数据库",
+          label: "资源站",
         },
         {
           href: "https://github.com/SlimefunGuguProject/Slimefun-Wiki",
@@ -145,10 +144,9 @@ const config: Config = {
     docsearch: {
       appId: "GPJA12OFAG",
       apiKey: "0a8eaa1c0227a6d389b71bb686ae55a9",
-      indexName: "slimefun-guizhanss",
+      indices: ["slimefun-guizhanss"],
       askAi: {
-        assistantId: "a661ca89-5597-4bc5-bc54-d215b213bba1",
-        agentStudio: true,
+        agentId: "a661ca89-5597-4bc5-bc54-d215b213bba1",
       },
     },
   } satisfies Preset.ThemeConfig,
@@ -156,12 +154,9 @@ const config: Config = {
   plugins: [
     "docusaurus-plugin-sass",
     "docusaurus-plugin-image-zoom",
-    [
-      "@gracefullight/docusaurus-plugin-cloudflare-analytics",
-      { token: "c56a11e845ee4e69b5411c75d11cb242" },
-    ],
+    ["@gracefullight/docusaurus-plugin-cloudflare-analytics", { token: "c56a11e845ee4e69b5411c75d11cb242" }],
     "@docsearch/docusaurus-adapter",
   ],
-};
+}
 
-export default config;
+export default config

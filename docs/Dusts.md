@@ -1,16 +1,16 @@
 # 矿粉 {#dusts}
 
- Slimefun 的[资源](/Resources)分类中包含9种矿粉:
+Slimefun 的[资源](/Resources)分类中包含9种矿粉:
 
-* [铁粉](/Iron-Dust)
-* [金粉](/Gold-Dust)
-* [铜粉](/Copper-Dust)
-* [锡粉](/Tin-Dust)
-* [银粉](/Silver-Dust)
-* [铝粉](/Aluminum-Dust)
-* [铅粉](/Lead-Dust)
-* [锌粉](/Zinc-Dust)
-* [镁粉](/Magnesium-Dust)
+- [铁粉](/Iron-Dust)
+- [金粉](/Gold-Dust)
+- [铜粉](/Copper-Dust)
+- [锡粉](/Tin-Dust)
+- [银粉](/Silver-Dust)
+- [铝粉](/Aluminum-Dust)
+- [铅粉](/Lead-Dust)
+- [锌粉](/Zinc-Dust)
+- [镁粉](/Magnesium-Dust)
 
 ## 获取 {#obtaining}
 

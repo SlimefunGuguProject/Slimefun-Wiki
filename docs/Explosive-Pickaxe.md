@@ -16,4 +16,4 @@
 
 ## 另请参见 {#see-also}
 
-* [爆炸铲](/Explosive-Shovel)
+- [爆炸铲](/Explosive-Shovel)

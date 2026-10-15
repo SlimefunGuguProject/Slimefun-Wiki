@@ -16,4 +16,4 @@
 
 ## 另请参见 {#see-also}
 
-* [爆炸镐](/Explosive-Pickaxe)
+- [爆炸镐](/Explosive-Pickaxe)

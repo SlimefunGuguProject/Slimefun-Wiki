@@ -1,6 +1,6 @@
 # 铁傀儡装配机 {#iron-golem-assembler}
 
-铁傀儡装配机是一种[电力机器](/Electric-Machines#machines)。它可以全自动组装铁傀儡。  
+铁傀儡装配机是一种[电力机器](/Electric-Machines#machines)。它可以全自动组装铁傀儡。
 
 ## 等级 {#tiers}
 

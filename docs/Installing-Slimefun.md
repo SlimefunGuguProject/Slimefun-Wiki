@@ -41,7 +41,7 @@ Slimefun 官方版的中文仅包含消息、分类以及研究部分的汉化�
 
 汉化版拥有 3 个分支：
 
-- ["正式版"分支（release）](https://builds.guizhanss.com/StarWishsama/Slimefun4/release)是每月发布一次（可能以更低的频率更新）新版本的分支，包含较长时间的测试，功能较为稳定。  
+- ["正式版"分支（release）](https://builds.guizhanss.com/StarWishsama/Slimefun4/release)是每月发布一次（可能以更低的频率更新）新版本的分支，包含较长时间的测试，功能较为稳定。
 - ["公测版"分支（Beta）](https://builds.guizhanss.com/StarWishsama/Slimefun4/master)是拥有最新内容的公开版本。
 - ["内测版"分支（Insider）](https://builds.guizhanss.com/sf-subscription)为订阅用户可获取的分支，包含最新的功能与问题修复。该分支的内容会在至少15天后同步到公测版。[点击查看](https://builds.guizhanss.com/sf-subscription)订阅计划。
 

@@ -13,9 +13,9 @@ Slimefun 中的铜锭并非 Minecraft 1.17 版本中新增的铜锭。它们不�
 
 铜锭被用于以下配方:
 
-* [铜线](/Copper-Wire)
-* [电池](/Battery)
-* [青铜锭](/Bronze-Ingot)
-* [黄铜锭](/Brass-Ingot)
-* [电力洗矿机](/Electric-Dust-Washer)
-* [万用表](/Technical-Gadgets#multimeter)
+- [铜线](/Copper-Wire)
+- [电池](/Battery)
+- [青铜锭](/Bronze-Ingot)
+- [黄铜锭](/Brass-Ingot)
+- [电力洗矿机](/Electric-Dust-Washer)
+- [万用表](/Technical-Gadgets#multimeter)

@@ -6,7 +6,7 @@ sidebar_label: 编写自己的附属插件
 
 官方开发者指南：[Developer Guide (英文)](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide)
 
------
+---
 
 欢迎来到我们的开发者指南！  
 该页面仍在完善中。开发者指南是一个庞大的主题，估计需要很长一段时间才能完成。

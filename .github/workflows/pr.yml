@@ -1,0 +1,45 @@
+name: PR CI
+on:
+  pull_request:
+    branches:
+      - master
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: "26.5.1"
+
+      - name: Setting up bun
+        uses: oven-sh/setup-bun@v2
+
+      - name: Installing dependencies
+        run: bun ci
+
+      - name: Check formatting, lint, and typecheck
+        run: |
+          bun run format:check
+          bun run lint
+          bun run typecheck
+
+      - name: Run build
+        run: bun run build
+
+      - name: Upload build artifact
+        if: github.event.pull_request.head.repo.id != github.repository_id
+        uses: actions/upload-artifact@v7
+        with:
+          name: build-${{ github.run_id }}-${{ github.run_attempt }}
+          path: build/
+          retention-days: 7
+          if-no-files-found: error

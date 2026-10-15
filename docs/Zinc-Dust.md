@@ -12,4 +12,4 @@
 
 锌粉可用于冶炼下列[合金](/Ingots#alloys):
 
-* [黄铜锭](/Brass-Ingot)
+- [黄铜锭](/Brass-Ingot)

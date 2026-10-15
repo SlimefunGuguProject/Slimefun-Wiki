@@ -12,5 +12,5 @@
 
 银粉可用于冶炼下列[合金](/Ingots#alloys):
 
-* [银铜合金锭](/Billon-Ingot)
-* [科林斯青铜锭](/Corinthian-Bronze-Ingot)
+- [银铜合金锭](/Billon-Ingot)
+- [科林斯青铜锭](/Corinthian-Bronze-Ingot)

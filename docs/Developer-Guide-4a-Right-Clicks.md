@@ -93,11 +93,11 @@ new SlimefunItem(itemGroup, itemStack, recipeType, recipe);
 
 ```java
 public class FireCake extends SlimefunItem {
-    
+
     public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(itemGroup, item, recipeType, recipe);
     }
-    
+
 }
 ```
 
@@ -135,17 +135,17 @@ cake.register(this);
 我们需要为类添加实际的功能。
 
 在 Slimefun 中，我们可以通过物品处理器 `ItemHandler`（[Javadocs](https://slimefun.github.io/javadocs/Slimefun4/docs/io/github/thebusybiscuit/slimefun4/api/items/ItemHandler.html)）来添加功能。  
-有几种可供选择的 `ItemHandler` 类型，你可以在我们的 Javadocs 中找到完整的列表，位于 *All Known Subinterfaces* 中。
+有几种可供选择的 `ItemHandler` 类型，你可以在我们的 Javadocs 中找到完整的列表，位于 _All Known Subinterfaces_ 中。
 
 要想添加 `ItemHandler`，我们需要回到我们的自定义物品类中。
 
 ```java
 public class FireCake extends SlimefunItem {
-    
+
     public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(itemGroup, item, recipeType, recipe);
     }
-    
+
 }
 ```
 
@@ -155,16 +155,16 @@ public class FireCake extends SlimefunItem {
 
 ```java
 public class FireCake extends SlimefunItem {
-    
+
     public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(itemGroup, item, recipeType, recipe);
     }
-    
+
     @Override
     public void preRegister() {
         // 我们将在此处添加物品处理器
     }
-    
+
 }
 ```
 
@@ -235,21 +235,21 @@ BlockUseHandler blockUseHandler = this::onBlockRightClick;
 
 ```java
 public class FireCake extends SlimefunItem {
-    
+
     public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(itemGroup, item, recipeType, recipe);
     }
-    
+
     @Override
     public void preRegister() {
         BlockUseHandler blockUseHandler = this::onBlockRightClick;
         addItemHandler(blockUseHandler);
     }
-    
+
     private void onBlockRightClick(PlayerRightClickEvent event) {
-    
+
     }
-    
+
 }
 ```
 
@@ -294,32 +294,32 @@ private void onBlockRightClick(PlayerRightClickEvent event) {
 
 ```java
 public class FireCake extends SlimefunItem {
-    
+
     public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(itemGroup, item, recipeType, recipe);
     }
-    
+
     @Override
     public void preRegister() {
         BlockUseHandler blockUseHandler = this::onBlockRightClick;
         addItemHandler(blockUseHandler);
-        
+
         ItemUseHandler itemUseHandler = this::onItemUseRightClick;
         addItemHandler(itemUseHandler);
     }
-    
+
     private void onBlockRightClick(PlayerRightClickEvent event) {
         // 这会阻止玩家食用该蛋糕
         event.cancel();
         // 现在，设置玩家着火5秒
         event.getPlayer().setFireTicks(5 * 20);
     }
-    
+
     private void onItemUseRightClick(PlayerRightClickEvent event) {
         // 如果在这里调用 event.cancel() 会阻止玩家放置蛋糕
         event.getPlayer().giveExpLevels(1);
     }
-    
+
 }
 ```
 

@@ -1,6 +1,6 @@
 # 镁锭 {#magnesium-ingot}
 
-镁锭是 Slimefun 中新增的一种[锭](/Ingots)。  
+镁锭是 Slimefun 中新增的一种[锭](/Ingots)。
 
 ## 获取 {#obtaining}
 
@@ -12,4 +12,4 @@
 
 当前没有合成配方直接使用镁锭，但你可以了解一下相关的页面：
 
-* [镁盐](/Magnesium-Salt)
+- [镁盐](/Magnesium-Salt)

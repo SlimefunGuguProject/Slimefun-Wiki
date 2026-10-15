@@ -12,14 +12,14 @@
 
 铝粉可用于冶炼下列[合金](/Ingots#alloys):
 
-* [铝黄铜锭](/Aluminum-Brass-Ingot)
-* [铝青铜锭](/Aluminum-Bronze-Ingot)
-* [硬铝锭](/Duralumin-Ingot)
+- [铝黄铜锭](/Aluminum-Brass-Ingot)
+- [铝青铜锭](/Aluminum-Bronze-Ingot)
+- [硬铝锭](/Duralumin-Ingot)
 
 以及合成以下物品:
 
-* [磁铁](/Magnet)
-* [强力胶布](/Miscellaneous-Items)
-* [人造绿宝石](/Synthetic-Emerald)
+- [磁铁](/Magnet)
+- [强力胶布](/Miscellaneous-Items)
+- [人造绿宝石](/Synthetic-Emerald)
 
 除此以外，铝粉可能在其他配方中出现，此处不做过多赘述。

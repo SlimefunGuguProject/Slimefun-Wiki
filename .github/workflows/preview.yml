@@ -1,0 +1,37 @@
+name: Pages Preview
+on:
+  pull_request_target:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - closed
+  workflow_run:
+    workflows:
+      - PR CI
+    types:
+      - in_progress
+      - completed
+
+permissions: {}
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: read
+      contents: read
+      pull-requests: write
+    if: >-
+      (github.event_name == 'pull_request_target' && github.event.pull_request.head.repo != null && github.event.pull_request.head.repo.id != github.repository_id) ||
+      (github.event_name == 'workflow_run' && github.event.workflow_run.event == 'pull_request' && github.event.workflow_run.head_repository != null && github.event.workflow_run.head_repository.id != github.repository_id)
+    concurrency:
+      group: pages-preview-${{ github.repository_id }}-${{ github.event.pull_request.head.repo.id || github.event.workflow_run.head_repository.id }}-${{ github.event.pull_request.head.ref || github.event.workflow_run.head_branch }}
+      queue: max
+      cancel-in-progress: false
+    steps:
+      - uses: ybw0014/cloudflare-pages-pr-preview@main
+        with:
+          account-id: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          project-name: ${{ vars.CLOUDFLARE_PAGES_PROJECT_NAME }}
+          api-token: ${{ secrets.CLOUDFLARE_API_TOKEN }}

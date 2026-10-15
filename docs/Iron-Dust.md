@@ -17,15 +17,15 @@
 
 铁粉可用于冶炼下列[合金](/Ingots#alloys):
 
-* [钢锭](/Steel-Ingot)
-* [大马士革钢锭](/Damascus-Steel-Ingot)
-* [硅铁](/Ferrosilicon)
-* [镀金铁锭](/Gilded-Iron)
-* [镍锭](/Nickel-Ingot)
-* [钴锭](/Cobalt-Ingot)
+- [钢锭](/Steel-Ingot)
+- [大马士革钢锭](/Damascus-Steel-Ingot)
+- [硅铁](/Ferrosilicon)
+- [镀金铁锭](/Gilded-Iron)
+- [镍锭](/Nickel-Ingot)
+- [钴锭](/Cobalt-Ingot)
 
 以及合成以下物品:
 
-* [磁铁](/Magnet)
+- [磁铁](/Magnet)
 
 除此以外，铁粉可能在其他配方中出现，此处不做过多赘述。

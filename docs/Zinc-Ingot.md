@@ -1,6 +1,6 @@
 # 锌锭 {#zinc-ingot}
 
-锌锭是 Slimefun 中新增的一种[锭](/Ingots)。  
+锌锭是 Slimefun 中新增的一种[锭](/Ingots)。
 
 ## 获取 {#obtaining}
 
@@ -12,5 +12,5 @@
 
 锌锭被用于下列物品的配方:
 
-* [电池](https://github.com/Slimefun/Slimefun4/wiki/Battery)
-* [GPS 信号塔](https://github.com/Slimefun/Slimefun4/wiki/GPS-Teleporter-Pylon)
+- [电池](https://github.com/Slimefun/Slimefun4/wiki/Battery)
+- [GPS 信号塔](https://github.com/Slimefun/Slimefun4/wiki/GPS-Teleporter-Pylon)

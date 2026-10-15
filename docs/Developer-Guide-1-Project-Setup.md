@@ -192,4 +192,4 @@ api-version: 1.14
 
 ## 5. 锁定你的依赖版本 {#5-locking-your-dependency-versions}
 
-我们模版的 `pom.xml` 已经锁定了 Slimefun 依赖项的版本，你可以选择跳过该部分，或阅读[官方文档](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(1-Project-Setup)#5-locking-your-dependency-versions)。
+我们模版的 `pom.xml` 已经锁定了 Slimefun 依赖项的版本，你可以选择跳过该部分，或阅读[官方文档](<https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(1-Project-Setup)#5-locking-your-dependency-versions>)。

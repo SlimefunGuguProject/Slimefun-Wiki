@@ -4,15 +4,15 @@
 
 ## 内容 {#table-of-contents}
 
-* [电力喷气背包 - I-VII](/Jetpacks)
-* [降落伞](#parachute)
-* [全息投影仪](/Hologram-Projector)
-* [多功能工具 - I-VII](/Multi-Tools)
-* [太阳能头盔](#solar-helmet)
-* [夜视眼镜](#night-vision-goggles)
-* [喷气靴 - I-VII](/Jet-Boots)
-* [装甲喷气靴](/Jet-Boots)
-* [万用表](#multimeter)
+- [电力喷气背包 - I-VII](/Jetpacks)
+- [降落伞](#parachute)
+- [全息投影仪](/Hologram-Projector)
+- [多功能工具 - I-VII](/Multi-Tools)
+- [太阳能头盔](#solar-helmet)
+- [夜视眼镜](#night-vision-goggles)
+- [喷气靴 - I-VII](/Jet-Boots)
+- [装甲喷气靴](/Jet-Boots)
+- [万用表](#multimeter)
 
 ### 降落伞 {#parachute}
 

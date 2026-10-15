@@ -1,4 +1,4 @@
-import ImageGallery from '@site/src/components/ImageGallery';
+import ImageGallery from "@site/src/components/ImageGallery"
 
 # 反应堆 {#reactors}
 
@@ -13,20 +13,22 @@ import ImageGallery from '@site/src/components/ImageGallery';
 
 ## 反应堆类型 {#reactor-types}
 
-| 类型  | 能量 | 存储 | 燃料 | 冷却剂 | 副作用 |
-| :--- | :-: | :-: | ---- | ----- | ----- |
-| 核反应堆 | 500 J/t |  1.0x  | 铀、镎、高纯度铀 | [反应堆冷却剂](/Coolant-Cells) | 无 |
-| 下界之星反应堆 | 1024 J/t |  3.0x  | 下界之星 | [下界冰冷却剂](/Coolant-Cells) | 附近的实体会获得凋零效果 |
+| 类型           |   能量   | 存储 | 燃料             | 冷却剂                         | 副作用                   |
+| :------------- | :------: | :--: | ---------------- | ------------------------------ | ------------------------ |
+| 核反应堆       | 500 J/t  | 1.0x | 铀、镎、高纯度铀 | [反应堆冷却剂](/Coolant-Cells) | 无                       |
+| 下界之星反应堆 | 1024 J/t | 3.0x | 下界之星         | [下界冰冷却剂](/Coolant-Cells) | 附近的实体会获得凋零效果 |
 
 ## 配置 {#example-setup}
 
-<ImageGallery images={[
-  {
-    src: 'https://fastly.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-reactor.png',
-    alt: '反应堆搭建示例',
-    sizePercent: 50
-  }
-]}/>
+<ImageGallery
+  images={[
+    {
+      src: "https://fastly.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-reactor.png",
+      alt: "反应堆搭建示例",
+      sizePercent: 50,
+    },
+  ]}
+/>
 
 可以看到，反应堆在中间，四周被水包围。反应堆访问接口则在反应堆上方 3 格处。
 

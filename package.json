@@ -1,55 +1,60 @@
 {
-	"name": "slimefun-wiki",
-	"version": "0.0.0",
-	"private": true,
-	"scripts": {
-		"docusaurus": "docusaurus",
-		"start": "docusaurus start",
-		"build": "docusaurus build",
-		"swizzle": "docusaurus swizzle",
-		"deploy": "docusaurus deploy",
-		"clear": "docusaurus clear",
-		"serve": "docusaurus serve",
-		"write-translations": "docusaurus write-translations",
-		"write-heading-ids": "docusaurus write-heading-ids",
-		"typecheck": "tsc"
-	},
-	"dependencies": {
-		"@docsearch/docusaurus-adapter": "4.6.3",
-		"@docusaurus/core": "3.10.1",
-		"@docusaurus/plugin-client-redirects": "3.10.1",
-		"@docusaurus/preset-classic": "3.10.1",
-		"@gracefullight/docusaurus-plugin-cloudflare-analytics": "1.0.0",
-		"@mdx-js/react": "3.1.1",
-		"clsx": "2.1.1",
-		"docusaurus-plugin-image-zoom": "3.0.1",
-		"docusaurus-plugin-sass": "0.2.6",
-		"prism-react-renderer": "2.4.1",
-		"react": "19.2.4",
-		"react-dom": "19.2.4",
-		"rehype-katex": "7.0.1",
-		"remark-math": "6.0.0",
-		"sass": "1.98.0"
-	},
-	"devDependencies": {
-		"@docusaurus/module-type-aliases": "3.10.1",
-		"@docusaurus/tsconfig": "3.10.1",
-		"@docusaurus/types": "3.10.1",
-		"typescript": "6.0.2"
-	},
-	"browserslist": {
-		"production": [
-			">0.5%",
-			"not dead",
-			"not op_mini all"
-		],
-		"development": [
-			"last 3 chrome version",
-			"last 3 firefox version",
-			"last 5 safari version"
-		]
-	},
-	"engines": {
-		"node": ">=18.0"
-	}
+  "name": "slimefun-wiki",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "docusaurus": "docusaurus",
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy",
+    "clear": "docusaurus clear",
+    "serve": "docusaurus serve",
+    "write-translations": "docusaurus write-translations",
+    "write-heading-ids": "docusaurus write-heading-ids",
+    "lint": "oxlint --max-warnings 0 src docusaurus.config.ts babel.config.js",
+    "format": "oxfmt src docs *.ts *.js *.json .oxlintrc.json .oxfmtrc.json",
+    "format:check": "oxfmt --check src docs *.ts *.js *.json .oxlintrc.json .oxfmtrc.json",
+    "typecheck": "tsc"
+  },
+  "dependencies": {
+    "@docsearch/docusaurus-adapter": "5.1.2",
+    "@docusaurus/core": "3.10.2",
+    "@docusaurus/plugin-client-redirects": "3.10.2",
+    "@docusaurus/preset-classic": "3.10.2",
+    "@gracefullight/docusaurus-plugin-cloudflare-analytics": "1.0.0",
+    "@mdx-js/react": "3.1.1",
+    "clsx": "2.1.1",
+    "docusaurus-plugin-image-zoom": "3.0.1",
+    "docusaurus-plugin-sass": "0.2.7",
+    "prism-react-renderer": "2.4.1",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "rehype-katex": "7.0.1",
+    "remark-math": "6.0.0",
+    "sass": "1.105.1"
+  },
+  "devDependencies": {
+    "@docusaurus/module-type-aliases": "3.10.2",
+    "@docusaurus/tsconfig": "3.10.2",
+    "@docusaurus/types": "3.10.2",
+    "oxfmt": "0.72.0",
+    "oxlint": "1.87.0",
+    "typescript": "7.0.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 3 chrome version",
+      "last 3 firefox version",
+      "last 5 safari version"
+    ]
+  },
+  "engines": {
+    "node": "^20.19.0 || >=22.12.0"
+  }
 }

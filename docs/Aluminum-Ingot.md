@@ -1,6 +1,6 @@
 # 铝锭 {#aluminum-ingot}
 
-铝锭是 Slimefun 中新增的一种[锭](/Ingots)。  
+铝锭是 Slimefun 中新增的一种[锭](/Ingots)。
 
 ## 获取 {#obtaining}
 
@@ -12,16 +12,16 @@
 
 铝锭被用于冶炼以下合金:
 
-* [硬铝锭](/Duralumin-Ingot)
-* [铝黄铜锭](/Aluminum-Brass-Ingot)
-* [铝青铜锭](/Aluminum-Bronze-Ingot)
+- [硬铝锭](/Duralumin-Ingot)
+- [铝黄铜锭](/Aluminum-Brass-Ingot)
+- [铝青铜锭](/Aluminum-Bronze-Ingot)
 
 以及下列物品的配方:
 
-* [垃圾箱](/Trash-Can)
-* [人造蓝宝石](/Synthetic-Sapphire)
-* [人造绿宝石](/Synthetic-Emerald)
-* [冷却装置](/Cooling-Unit)
-* [小冰柜](/Cooler)
-* [太阳能板](/Solar-Generator)
-* [电动淘金机](/Electric-Gold-Pan)
+- [垃圾箱](/Trash-Can)
+- [人造蓝宝石](/Synthetic-Sapphire)
+- [人造绿宝石](/Synthetic-Emerald)
+- [冷却装置](/Cooling-Unit)
+- [小冰柜](/Cooler)
+- [太阳能板](/Solar-Generator)
+- [电动淘金机](/Electric-Gold-Pan)

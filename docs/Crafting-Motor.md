@@ -12,7 +12,7 @@
 
 合成机马达可以用在以下配方中:
 
-* [自动合成机(原版)](/Auto-Crafter)
-* [自动合成机(高级)](/Auto-Crafter)
-* [自动合成机(盔甲锻造)](/Auto-Crafter)
-* [合成机智能交互接口](/Crafter-Smart-Port)
+- [自动合成机(原版)](/Auto-Crafter)
+- [自动合成机(高级)](/Auto-Crafter)
+- [自动合成机(盔甲锻造)](/Auto-Crafter)
+- [合成机智能交互接口](/Crafter-Smart-Port)

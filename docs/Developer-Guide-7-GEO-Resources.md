@@ -122,7 +122,7 @@ public class EnderOreResource implements GEOResource {
   public String getName() {
     return "末地矿石";
   }
-  
+
   @Override
   public boolean isObtainableFromGEOMiner() {
     return true;
@@ -150,23 +150,23 @@ public class EnderOreResource implements GEOResource {
   public String getName() {
     return "末地矿石";
   }
-  
+
   @Override
   public boolean isObtainableFromGEOMiner() {
     return true;
   }
-  
+
   @Override
   public int getDefaultSupply(Environment environment, Biome biome) {
     // 环境（Environment）即世界类型：主世界 NORMAL / 下界 NETHER / 末地 THE_END)
-    
+
     if (environment == Environment.THE_END) {
       return 20;
     } else {
       return 0;
     }
   }
-  
+
   @Override
   public int getMaxDeviation() {
     return 8;
@@ -187,7 +187,7 @@ public class EnderOreResource implements GEOResource {
 public class EnderOreResource implements GEOResource {
 
   public EnderOreResource() {
-    
+
   }
 
   // ... 其他方法在此之后
@@ -200,7 +200,7 @@ public class EnderOreResource implements GEOResource {
 public class EnderOreResource implements GEOResource {
 
   public EnderOreResource(Plugin plugin, ItemStack item) {
-    
+
   }
 
   // ... 其他方法在此之后
@@ -250,12 +250,12 @@ public class EnderOreResource implements GEOResource {
     this.key = new NamespacedKey(plugin, "ender_ore");
     this.item = item;
   }
-  
+
   @Override
   public NamespacedKey getKey() {
     return key;
   }
-  
+
   @Override
   public ItemStack getItem() {
     // 注意：需要在此处添加 .clone() 方法，
@@ -303,12 +303,12 @@ public class EnderOreResource implements GEOResource {
     this.key = new NamespacedKey(plugin, "ender_ore");
     this.item = item;
   }
-  
+
   @Override
   public NamespacedKey getKey() {
     return key;
   }
-  
+
   @Override
   public ItemStack getItem() {
     // 注意：需要在此处添加 .clone() 方法，
@@ -320,16 +320,16 @@ public class EnderOreResource implements GEOResource {
   public String getName() {
     return "末地矿石";
   }
-  
+
   @Override
   public boolean isObtainableFromGEOMiner() {
     return true;
   }
-  
+
   @Override
   public int getDefaultSupply(Environment environment, Biome biome) {
     // 环境（Environment）即世界类型：主世界 NORMAL / 下界 NETHER / 末地 THE_END)
-    
+
     if (environment == Environment.THE_END) {
       return 20;
     }
@@ -337,7 +337,7 @@ public class EnderOreResource implements GEOResource {
       return 0;
     }
   }
-  
+
   @Override
   public int getMaxDeviation() {
     return 8;
