@@ -348,6 +348,8 @@ GSFH | LZ5509 | <details><summary>展开</summary>该插件是一个 Geyser-Spig
 
 想要编写自己的附属插件吗？请阅读[开发者指南](/Developer-Guide)。
 
-如果你编写了一个 Slimefun 附属插件，并想要在这里列出，只需要向我们的 Wiki 仓库提交拉取请求（Pull Request）。你可以查看[该页面](/Expanding-the-Wiki)来了解详细流程。
+如果你编写了一个 Slimefun 附属插件，并想要在这里列出，只需要向我们的 [Wiki 仓库](https://github.com/SlimefunGuguProject/Slimefun-Wiki)提交拉取请求（Pull Request）。你可以查看[该页面](/Expanding-the-Wiki)来了解详细流程。
 
-如果你没有学过任何与 Java 相关的内容，可以尝试用 [SlimeCustomizer 自定义粘液附属](https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/) 编写属于自己的附属，并在完成后同样向我们的 Wiki 仓库提交拉取请求（Pull Request）来添加你的配置文件。
+如果你没有学过任何与 Java 相关的内容，可以尝试用 [RykenSlimeCustomizer Ryken自定义附属](https://rsc.slimefun.cn)进行编写，**它拥有更多更强大的功能**！  
+[SlimeCustomizer 自定义粘液附属](https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/)已经过时且不再有更新。  
+可以在编写完成后同样向我们的 [Wiki 仓库](https://github.com/SlimefunGuguProject/Slimefun-Wiki)提交拉取请求（Pull Request）来添加你的配置文件。
