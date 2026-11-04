@@ -41,13 +41,13 @@ Slimefun 官方版的中文仅包含消息、分类以及研究部分的汉化�
 
 汉化版拥有 3 个分支：
 
-- ["正式版"分支（release）](https://builds.guizhanss.com/StarWishsama/Slimefun4/release)是每月发布一次（可能以更低的频率更新）新版本的分支，包含较长时间的测试，功能较为稳定。
-- ["公测版"分支（Beta）](https://builds.guizhanss.com/StarWishsama/Slimefun4/master)是拥有最新内容的公开版本。
-- ["内测版"分支（Insider）](https://builds.guizhanss.com/sf-subscription)为订阅用户可获取的分支，包含最新的功能与问题修复。该分支的内容会在至少15天后同步到公测版。[点击查看](https://builds.guizhanss.com/sf-subscription)订阅计划。
+- ["正式版"分支（release）](https://resources.guizhanss.com/project/Slimefun4/version/latest?channel=release)是每月发布一次（可能以更低的频率更新）新版本的分支，包含较长时间的测试，功能较为稳定。
+- ["公测版"分支（Beta）](https://resources.guizhanss.com/project/Slimefun4/version/latest?channel=master)是拥有最新内容的公开版本。
+- ["内测版"分支（Insider）](https://resources.guizhanss.com/tools/slimefun-insider)为订阅用户可获取的分支，包含最新的功能与问题修复。该分支的内容会在至少15天后同步到公测版。[点击查看](https://resources.guizhanss.com/tools/slimefun-insider)订阅计划。
 
 GitHub仓库：[点击前往](https://github.com/StarWishsama/Slimefun4)
 
-当然，如果你的服务器已在使用官方版 Slimefun，也可以选择安装[粘液翻译](https://builds.guizhanss.com/ybw0014/SlimefunTranslation)进行汉化。不过，这种汉化仅包含了指南书中显示的内容，部分消息与用户界面物品无法被汉化。
+当然，如果你的服务器已在使用官方版 Slimefun，也可以选择安装[粘液翻译](https://resources.guizhanss.com/plugin/SlimefunTranslation)进行汉化。不过，这种汉化仅包含了指南书中显示的内容，部分消息与用户界面物品无法被汉化。
 
 ## 如何安装 {#how-to-install}
 
