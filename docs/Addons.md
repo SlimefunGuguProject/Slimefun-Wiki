@@ -196,6 +196,8 @@ sidebar_label: Slimefun4 附属插件列表
 注意！该附属需要 Paper 服务端才能运行，请在下载时注意标注的运行要求。
 更多详细信息和使用教程请查看 [Wiki](https://rsc.slimefun.cn/)。
 
+没有你想要的？那么你可以看看由[@balugaq](https://github.com/balugaq)收集的[附属列表](https://github.com/balugaq/AllSlimeCustomAddons)。
+
 :::warning
 
 所有的配置文件均由相关作者提供，本 Wiki 仅列出这些配置文件，不会对内容的真实性、兼容性、可用性进行检验。出现任何问题请寻找作者。
